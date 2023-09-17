@@ -6,7 +6,13 @@ hide:
   - toc
 tags:
   - Utilità
+  - Link
+  - Bash
 ---
+**[a riga di comando](https://arigadicomando.it/)** di [Andrea Borruso](https://twitter.com/aborruso)<br><br>
+**[Guida Visidata](https://ondata.github.io/guidaVisiData)** di [Andrea Borruso](https://twitter.com/aborruso) onData<br><br>
+**[Guida per la pubblicazione di CSV](https://ondata.github.io/guidaPraticaPubblicazioneCSV/)** di [Andrea Borruso](https://twitter.com/aborruso) onData<br><br>
+**[Gestire file CSV grandi, brutti e cattivi](https://aborruso.github.io/posts/duckdb-intro-csv/)** di [Andrea Borruso](https://twitter.com/aborruso)<br><br>
 
 ## Tutorial QGIS – video per l’introduzione all’uso di QGIS
 ![ PIGREGOINFINITO - “Se la conoscenza deve essere aperta a tutti, perchè mai limitarne l’accesso?” R. Stallman](assets/img/pigrecoinfinito-120x120.jpg){align=left class="resized10 nobox" .off-glb }**PIGREGOINFINITO – “Se la conoscenza deve essere aperta a tutti, perchè mai limitarne l’accesso?” R. Stallman**<br><br>
@@ -22,7 +28,6 @@ Casi pratici, consigli e tutorial per applicazioni di web mapping open source**<
 
 <hr>
 ## Link utili e blog consigliati sui dati aperti
-
 [NORMARTIVA.IT](http://www.normattiva.it/) – Il portale della normativa vigente<br>
 [AGID.GOV.IT](http://agid.gov.it/) – Sito istituzionale dell‘Agenzia per l‘Italia Digitale, Presidenza del Consiglio dei Ministri. Il paese che cambia passa da qui.<br>
 [DATI.GOV.IT](http://dati.gov.it/) – Dati Aperti della Pubblica Amministrazione.<br>
