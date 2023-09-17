@@ -1,3 +1,8 @@
+@font-face {font-family: Catull BQ Regular;src: url(/fonts/Catull BQ Regular.ttf);}
+/* testo nome pafine/post nell'header*/
+.md-header__topic:first-child {font-weight: lighter;}
+.md-header__title>.md-header__ellipsis { height: 100%;  position: relative;  width: 100%;  /*font-weight: 400!important;*/   font-family: Catull BQ Regular; font-size: 1.30rem; margin-left: -35px;	text-shadow: 0.5px 0.5px 1px #07085d;}
+
 /* gbvitrano*/
 .md-consent__overlay {display: none!important; }
 /* Site width etc.*/
@@ -42,10 +47,10 @@
 aside {display: none !important;}
 
 /* logo personalizzato*/
- .md-header__button.md-logo img, .md-header__button.md-logo svg {height: 3rem!important;    /*width: 5rem!important; padding-right: 3rem!important;*/ box-shadow: none !important; border: none !important;	border-radius:  none !important;	moz-border-radius: none !important; -webkit-border-radius: none !important;	background-color: transparent !important;}
+ .md-header__button.md-logo img, .md-header__button.md-logo svg {height: 1.5rem!important;    /*width: 5rem!important; padding-right: 3rem!important;*/ box-shadow: none !important; border: none !important;	border-radius:  none !important;	moz-border-radius: none !important; -webkit-border-radius: none !important;	background-color: transparent !important;}
 
 /* logo personalizzato mobile*/
- .md-nav__title .md-nav__button.md-logo img, .md-nav__title .md-nav__button.md-logo svg {fill: currentColor; display: block; height: 2.5rem!important; /*width: 2.5rem !important; padding-right: 3rem; */ box-shadow: none !important;  border: none !important; border-radius: none !important; moz-border-radius: none !important; -webkit-border-radius: none !important;   background-color: transparent !important;}
+ .md-nav__title .md-nav__button.md-logo img, .md-nav__title .md-nav__button.md-logo svg {fill: currentColor; display: block; height: 2rem!important; /*width: 2.5rem !important; padding-right: 3rem; */ box-shadow: none !important;  border: none !important; border-radius: none !important; moz-border-radius: none !important; -webkit-border-radius: none !important;   background-color: transparent !important;}
 
 
 /*base icona home*/
