@@ -233,11 +233,11 @@ markdown_extensions:
   
 # menu
 nav:
- # - Home:  index.md
+ # - Home:   index.md
  #  - index.md
   #  - blog/index.md    
-  - Home: 
-      - blog/index.md
+  - Home:
+     - blog/index.md
   - Mappe: blog/category/mappe/
   - Opendata: blog/category/opendata/
   - Tutorial: blog/category/tutorial/
