@@ -5,11 +5,9 @@
 
 /* gbvitrano*/
 .md-consent__overlay {display: none!important; }
-/* Site width etc.*/
-.md-grid {
-   max-width: 65rem !important;
-	 /*max-width: 100% !important;*/
-}
+/* Dimensione pagina Site width etc.*/
+.md-grid {  max-width: 65rem !important;
+	 /*max-width: 100% !important;*/}
 
 /*Colori primari*/
 [data-md-color-primary=white] {
