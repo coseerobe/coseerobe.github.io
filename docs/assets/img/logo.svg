@@ -3,8 +3,8 @@
 
 <svg
    width="250"
-   height="120"
-   viewBox="0 0 66.145832 31.750001"
+   height="105"
+   viewBox="0 0 66.145832 27.78125"
    version="1.1"
    id="svg5"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
@@ -56,10 +56,10 @@
          offset="1"
          id="stop5864" /></linearGradient><inkscape:perspective
        sodipodi:type="inkscape:persp3d"
-       inkscape:vp_x="0 : 22.489584 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_z="39.687499 : 22.489584 : 1"
-       inkscape:persp3d-origin="19.84375 : 19.402778 : 1"
+       inkscape:vp_x="0 : 18.520833 : 1"
+       inkscape:vp_y="0 : 999.99997 : 0"
+       inkscape:vp_z="39.687499 : 18.520833 : 1"
+       inkscape:persp3d-origin="19.84375 : 15.434027 : 1"
        id="perspective4982" /><pattern
        id="EMFhbasepattern"
        patternUnits="userSpaceOnUse"
@@ -86,7 +86,7 @@
      id="layer1"
      style="display:inline"><g
        id="g3280"
-       transform="matrix(1.8543184,0,0,1.8543184,-3.408768,-5.4662582)"
+       transform="matrix(1.8543184,0,0,1.8543184,-3.2364739,-6.14882)"
        style="display:inline;stroke:#07085d;stroke-width:0.119249;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.8;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"><text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:'Catull BQ';-inkscape-font-specification:'Catull BQ, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:#07085d;stroke-width:0.119249;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.8;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
@@ -129,7 +129,7 @@
            x="24.626177"
            y="9.3190107">&amp;</tspan></text></g><g
        id="g3280-0"
-       transform="matrix(1.8543184,0,0,1.8543184,-3.0147553,-5.4001543)"
+       transform="matrix(1.8543184,0,0,1.8543184,-2.7715582,-6.2007979)"
        style="display:inline;fill:#ff0000;fill-opacity:1;stroke:none;stroke-opacity:1"><text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:'Catull BQ';-inkscape-font-specification:'Catull BQ, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
