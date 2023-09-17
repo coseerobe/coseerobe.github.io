@@ -1,20 +1,28 @@
-site_name: a riga di comando
-site_url: https://arigadicomando.it/
-site_description: Quanto è comoda la riga di comando con i dati
+## Project information
+site_name: Cose&Robe | Rielaborazioni dataset opendata
+site_url: https://coseerobe.it
+site_description: Cose&Robe | Rielaborazioni dataset opendata @gbvitrano
+site_author: gbvitrano
 
+## Repository
+# repo_name: coseerobe.it
+# repo_url: https://github.com/coseerobe/coseerobe.it
+# edit_uri: edit/main/docs/ #disables edit button
 
-repo_url: https://github.com/aborruso/arigadicomando
-repo_name: arigadicomando
-edit_uri: edit/master/docs/
+# Copyright
+copyright: '<b>cose&robe</b> è un''idea di <a href="https://twitter.com/gbvitrano" target="_blank">Giovan Battista Vitrano</a> | <a href="../tags/" title="Tags" target="_parent">Tags</a> | Privacy
 
-copyright: '<span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><path d="M257.981 272.971 63.638 467.314c-9.373 9.373-24.569 9.373-33.941 0L7.029 444.647c-9.357-9.357-9.375-24.522-.04-33.901L161.011 256 6.99 101.255c-9.335-9.379-9.317-24.544.04-33.901l22.667-22.667c9.373-9.373 24.569-9.373 33.941 0L257.981 239.03c9.373 9.372 9.373 24.568 0 33.941zM640 456v-32c0-13.255-10.745-24-24-24H312c-13.255 0-24 10.745-24 24v32c0 13.255 10.745 24 24 24h304c13.255 0 24-10.745 24-24z"></path></svg></span> <b>a riga di comando</b> è un''idea di <a href="https://twitter.com/aborruso" target="_blank">Andrea Borruso</a> | licenza <a href="https://creativecommons.org/licenses/by/4.0/deed.it" target="_blank">CC BY 4.0</a>'
+ <br> Tutti i contenuti sono in licenza <a href="https://creativecommons.org/licenses/by/4.0/deed.it" target="_blank">CC BY 4.0</a> tranne diversa indicazione. <br> Disclaimer: Questo è un blog amatoriale che non supporta finalità commerciali. <br>
+This is an amateur blog that does not support commercial purposes.'
 
 theme:
   name: material
   highlightjs: true
+  language: it
   palette:
-    - scheme: preference
-      primary: blue
+#    - scheme: preference
+    primary: white
+    accent: red
 #      toggle:
 #        icon: material/weather-night
 #        name: Switch to dark mode
@@ -25,105 +33,120 @@ theme:
 #        icon: material/weather-sunny
 #        name: Switch to light mode
   language: it
-  favicon: images/favicon.png
+  favicon: assets/img/favicon.png
   icon:
-    logo: fontawesome/solid/terminal
+    admonition:
+      note: octicons/tag-16
+      abstract: octicons/checklist-16
+      info: octicons/info-16
+      tip: octicons/squirrel-16
+      success: octicons/check-16
+      question: octicons/question-16
+      warning: octicons/alert-16
+      failure: octicons/x-circle-16
+      danger: octicons/zap-16
+      bug: octicons/bug-16
+      example: octicons/beaker-16
+      quote: octicons/quote-16
+    tag:
+      default: material/tag
+      html: fontawesome/brands/html5
+      js: fontawesome/brands/js
+      css:  fontawesome/brands/css3    
+      Incendi: fontawesome/solid/fire
+  logo: assets/img/logo.svg
   features:
+  #  - header.autohide
+  #  - navigation.path 
     - navigation.top
-#    - navigation.instant
+    - navigation.instant
+    - toc.integrate
     - navigation.tabs
-    - navigation.sections
+ #   - navigation.tabs.sticky
+  #  - navigation.sections
     - navigation.tracking
     - navigation.indexes
     - content.code.annotate
     - content.action.edit
     - content.action.view
     - navigation.footer
+    - navigation.prune
+
   font:
-    text: Montserrat
+    text: Roboto
     code: Fira Code
-  custom_dir: overrides
-
-# foglio di stile personalizzato
-extra_css:
-  - stylesheets/style.css
-
-# menu
-nav:
-  - Home: index.md
-  - La CLI: cli.md
-  - Dati:
-    - Introduzione: dati/index.md
-    - Esplora: dati/esplora.md
-    - Converti: dati/converti.md
-    - Trasforma: dati/trasforma.md
-    - Descrivi: dati/descrivi.md
-  - Monografie:
-    - Introduzione: monografie.md
-    - Miller:
-      - miller/index.md
-      - Formati:
-        - Gestione formati: miller/formati.md
-        - Eterogeneità record: miller/eterogeneita_record.md
-      - Flag: miller/flag.md
-      - Verbi: miller/verbi.md
-      - DSL: miller/dsl.md
-      - Ricette Miller: miller/ricette.md
-      - Contributi: miller/contributi.md
-    - Frictionless:
-      - frictionless/index.md
-      - Descrivere: frictionless/descrivere.md
-      - Validare: frictionless/validare.md
-      - Tipi di errore: frictionless/tipi-errore.md
-      - Ricette frictionless: frictionless/ricette.md
-    - CKAN API cli:
-      - ckanapi/index.md
-    - GDAL/OGR:
-      - gdal-ogr/index.md
-      - Ricette GDAL/OGR: gdal-ogr/ricette.md
-      - Installazione/Compilazione: gdal-ogr/installazione.md
-    - csvkit:
-      - csvkit/index.md
-      - csvstat: csvkit/csvstat.md
-    - xsv:
-      - xsv/index.md
-      - stats: xsv/stats.md
-    - Nushell:
-      - nushell/index.md
-      - Ricette Nushell: nushell/ricette.md
-  - Ricette:
-    - ricette/index.md
-    - Come rendere più leggibile un file XML: ricette/xmlstarlet-rendere-leggibile-file-xml.md
-    - Forzare chiamata tor da un determinato paese: ricette/tor-forzare-chiamata-italia.md
-    - Lista file e cartelle in JSON: ricette/tree-lista-file-cartelle.md
-    - Salvare una pagina web in unico file: ricette/salvare-paginaweb-completa-unicofile.md
-    - Suddividere un file in parti: ricette/split-suddividere-file-parti.md
-    - Unire colonne da file distinti: ricette/paste-unire-due-file-per-colonne.md
-  - Partecipa: partecipa.md
-  - Utility: utilities/index.md
-  - Letture: letture.md
-  - Blog:
-    - blog/index.md
-  - Grazie: grazie.md
+  custom_dir: 'docs/assets/overrides'
+  static_templates:
+    - 404.html
+    
+#  analytics:
+#    provider: google
+#    property: xxxxx
 
 extra:
+  tags:
+    HTML5: html
+    JavaScript: js
+    CSS: css
+    Incendi: Incendi
+  manifest: "manifest.webmanifest"
   social:
+    - icon: ods
+      link: http://opendatasicilia.it/
+      name: opendatasicilia.it  
+    - icon: fontawesome/solid/envelope
+      link: mailto:coseerobe.gbvitrano@gmail.com
+      name: coseerobe.gbvitrano@gmail.com
+    - icon: fontawesome/brands/twitter
+      link: http://twitter.com/gbvitrano
+      name: Twitter
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/gbvitrano
+      name: Facebook      
     - icon: fontawesome/solid/rss
       link: https://arigadicomando.it/feed_rss_created.xml
       name: Feed RSS
+    - icon: fontawesome/brands/creative-commons
+      link: https://creativecommons.org/licenses/by-sa/4.0/deed.it
+      name: Attribuzione - Condividi allo stesso modo 4.0 Internazionale (CC BY-SA 4.0)     
+    - icon: fontawesome/brands/creative-commons-by
+      link: https://creativecommons.org/licenses/by-sa/4.0/deed.it
+      name: Attribuzione - Condividi allo stesso modo 4.0 Internazionale (CC BY-SA 4.0)   
+    - icon: fontawesome/brands/creative-commons-sa
+      link: https://creativecommons.org/licenses/by-sa/4.0/deed.it
+      name: Attribuzione - Condividi allo stesso modo 4.0 Internazionale (CC BY-SA 4.0)         
 
+      
+ ## Consenso ai cookie     
+  consent:
+    title: Consenso ai cookie
+    description: >-
+        <img src="http://localhost:8000/assets/img/logo.png" class="immagonobox"  alt=Cose&#038;Robe &#8211; Rielaborazioni dataset opendata" title="Cose&#038;Robe &#8211; Rielaborazioni dataset opendata" width="100" border="0"><br><b>Questo sito, cose&robe.it.it utilizza i cookie, anche di terze parti, per migliorare la vostra esperienza di navigazione web.</b> <br>Chiudendo questo messaggio, scorrendo questa pagina o cliccando su qualunque suo elemento acconsenti all&rsquo;uso dei cookie.<br> Per maggiori informazioni o per negare il consenso a tutti o ad alcuni cookie, consulta l&rsquo;<a href="https://hfcqgis.opendatasicilia.it/privacy/" title="Informativa privacy estesa" target="_parent">informativa</a>!
+        
 plugins:
 - search:
       lang: it
+- glightbox:
+      auto_caption: true 
 - mkdocstrings
+# - macros
 #- charts
 - tags:
     tags_file: tags.md
+        
 - blog:
+ #   blog_dir: blog
+ #   post_dir: blog/posts
+    pagination_keep_content: true
+    pagination_format: "$link_first $link_previous ~2~ $link_next $link_last"
+    pagination_per_page: 10
     authors_file: blog/.authors.yml
-    blog_toc: true
-    post_url_format: "{date}/{slug}"
+    blog_toc: false
+    categories_toc: false
+    archive_toc: false
+    post_url_format: "{categories}/{slug}"
     post_slugify_separator: "-"
+ 
     post_slugify: !!python/object/apply:pymdownx.slugs.slugify
       kwds:
         case: lower
@@ -141,17 +164,21 @@ plugins:
     categories:
       - categories
       - tags
-- social
+# Social Card      
+- social:
+     cards_dir: assets/img/social
 
-
-#- rss
-
+ # foglio di stile personalizzato
+extra_css:
+   - assets/stylesheets/gbextra.css
+  # - assets/stylesheets/gbextra_00.css   
+   
 extra_javascript:
   # - https://cdnjs.cloudflare.com/ajax/libs/tablesort/5.2.1/tablesort.min.js
   # - javascripts/tables.js
   - https://unpkg.com/mermaid/dist/mermaid.min.js
-  - javascripts/varie.js
-  - javascripts/mathjax.js
+  - assets/javascripts/varie.js
+  - assets/javascripts/mathjax.js
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
   - https://cdn.jsdelivr.net/npm/vega@5
@@ -174,6 +201,9 @@ markdown_extensions:
   - pymdownx.emoji:
         emoji_index: !!python/name:materialx.emoji.twemoji
         emoji_generator: !!python/name:materialx.emoji.to_svg
+        options:
+          custom_icons:
+            - overrides/.icons        
   - pymdownx.highlight:
       anchor_linenums: true
   - pymdownx.inlinehilite
@@ -200,3 +230,17 @@ markdown_extensions:
   - pymdownx.arithmatex:
         generic: true
   - pymdownx.keys
+  
+# menu
+nav:
+ # - Home:  index.md
+ #  - index.md
+  #  - blog/index.md    
+  - Home: 
+      - blog/index.md
+  - Mappe: blog/category/mappe/
+  - Opendata: blog/category/opendata/
+  - Tutorial: blog/category/tutorial/
+  - News: blog/category/news/
+  - Link utili: link_utili.md 
+  - Perchè: perche.md  

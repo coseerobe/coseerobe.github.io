@@ -1,0 +1,202 @@
+site_name: a riga di comando
+site_url: https://arigadicomando.it/
+site_description: Quanto è comoda la riga di comando con i dati
+
+
+repo_url: https://github.com/aborruso/arigadicomando
+repo_name: arigadicomando
+edit_uri: edit/master/docs/
+
+copyright: '<span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><path d="M257.981 272.971 63.638 467.314c-9.373 9.373-24.569 9.373-33.941 0L7.029 444.647c-9.357-9.357-9.375-24.522-.04-33.901L161.011 256 6.99 101.255c-9.335-9.379-9.317-24.544.04-33.901l22.667-22.667c9.373-9.373 24.569-9.373 33.941 0L257.981 239.03c9.373 9.372 9.373 24.568 0 33.941zM640 456v-32c0-13.255-10.745-24-24-24H312c-13.255 0-24 10.745-24 24v32c0 13.255 10.745 24 24 24h304c13.255 0 24-10.745 24-24z"></path></svg></span> <b>a riga di comando</b> è un''idea di <a href="https://twitter.com/aborruso" target="_blank">Andrea Borruso</a> | licenza <a href="https://creativecommons.org/licenses/by/4.0/deed.it" target="_blank">CC BY 4.0</a>'
+
+theme:
+  name: material
+  highlightjs: true
+  palette:
+    - scheme: preference
+      primary: blue
+#      toggle:
+#        icon: material/weather-night
+#        name: Switch to dark mode
+#    - scheme: slate
+#      primary: indigo
+#      accent: indigo
+#      toggle:
+#        icon: material/weather-sunny
+#        name: Switch to light mode
+  language: it
+  favicon: images/favicon.png
+  icon:
+    logo: fontawesome/solid/terminal
+  features:
+    - navigation.top
+#    - navigation.instant
+    - navigation.tabs
+    - navigation.sections
+    - navigation.tracking
+    - navigation.indexes
+    - content.code.annotate
+    - content.action.edit
+    - content.action.view
+    - navigation.footer
+  font:
+    text: Montserrat
+    code: Fira Code
+  custom_dir: overrides
+
+# foglio di stile personalizzato
+extra_css:
+  - stylesheets/style.css
+
+# menu
+nav:
+  - Home: index.md
+  - La CLI: cli.md
+  - Dati:
+    - Introduzione: dati/index.md
+    - Esplora: dati/esplora.md
+    - Converti: dati/converti.md
+    - Trasforma: dati/trasforma.md
+    - Descrivi: dati/descrivi.md
+  - Monografie:
+    - Introduzione: monografie.md
+    - Miller:
+      - miller/index.md
+      - Formati:
+        - Gestione formati: miller/formati.md
+        - Eterogeneità record: miller/eterogeneita_record.md
+      - Flag: miller/flag.md
+      - Verbi: miller/verbi.md
+      - DSL: miller/dsl.md
+      - Ricette Miller: miller/ricette.md
+      - Contributi: miller/contributi.md
+    - Frictionless:
+      - frictionless/index.md
+      - Descrivere: frictionless/descrivere.md
+      - Validare: frictionless/validare.md
+      - Tipi di errore: frictionless/tipi-errore.md
+      - Ricette frictionless: frictionless/ricette.md
+    - CKAN API cli:
+      - ckanapi/index.md
+    - GDAL/OGR:
+      - gdal-ogr/index.md
+      - Ricette GDAL/OGR: gdal-ogr/ricette.md
+      - Installazione/Compilazione: gdal-ogr/installazione.md
+    - csvkit:
+      - csvkit/index.md
+      - csvstat: csvkit/csvstat.md
+    - xsv:
+      - xsv/index.md
+      - stats: xsv/stats.md
+    - Nushell:
+      - nushell/index.md
+      - Ricette Nushell: nushell/ricette.md
+  - Ricette:
+    - ricette/index.md
+    - Come rendere più leggibile un file XML: ricette/xmlstarlet-rendere-leggibile-file-xml.md
+    - Forzare chiamata tor da un determinato paese: ricette/tor-forzare-chiamata-italia.md
+    - Lista file e cartelle in JSON: ricette/tree-lista-file-cartelle.md
+    - Salvare una pagina web in unico file: ricette/salvare-paginaweb-completa-unicofile.md
+    - Suddividere un file in parti: ricette/split-suddividere-file-parti.md
+    - Unire colonne da file distinti: ricette/paste-unire-due-file-per-colonne.md
+  - Partecipa: partecipa.md
+  - Utility: utilities/index.md
+  - Letture: letture.md
+  - Blog:
+    - blog/index.md
+  - Grazie: grazie.md
+
+extra:
+  social:
+    - icon: fontawesome/solid/rss
+      link: https://arigadicomando.it/feed_rss_created.xml
+      name: Feed RSS
+
+plugins:
+- search:
+      lang: it
+- mkdocstrings
+#- charts
+- tags:
+    tags_file: tags.md
+- blog:
+    authors_file: blog/.authors.yml
+    blog_toc: true
+    post_url_format: "{date}/{slug}"
+    post_slugify_separator: "-"
+    post_slugify: !!python/object/apply:pymdownx.slugs.slugify
+      kwds:
+        case: lower
+    post_excerpt: optional
+    archive_name: Archivio
+    categories_slugify_separator: "-"
+    categories_slugify: !!python/object/apply:pymdownx.slugs.slugify
+      kwds:
+        case: lower
+- rss:
+    match_path: blog/posts/.*
+    use_git: false
+    date_from_meta:
+      as_creation: date
+    categories:
+      - categories
+      - tags
+- social
+
+
+#- rss
+
+extra_javascript:
+  # - https://cdnjs.cloudflare.com/ajax/libs/tablesort/5.2.1/tablesort.min.js
+  # - javascripts/tables.js
+  - https://unpkg.com/mermaid/dist/mermaid.min.js
+  - javascripts/varie.js
+  - javascripts/mathjax.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+  - https://cdn.jsdelivr.net/npm/vega@5
+  - https://cdn.jsdelivr.net/npm/vega-lite@5
+  - https://cdn.jsdelivr.net/npm/vega-embed@6
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - footnotes
+  - meta
+  - mkdocs-click
+  - pymdownx.betterem:
+        smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic:
+        mode: view
+  - pymdownx.details
+  - pymdownx.emoji:
+        emoji_index: !!python/name:materialx.emoji.twemoji
+        emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences:
+        custom_fences:
+          - name: mermaid
+            class: mermaid
+            format: !!python/name:pymdownx.superfences.fence_code_format
+#          - name: vegalite
+#            class: vegalite
+#            format: !!python/name:mkdocs_charts_plugin.fences.fence_vegalite
+  - pymdownx.tabbed:
+        alternate_style: true
+  - pymdownx.tasklist:
+        custom_checkbox: true
+        clickable_checkbox: true
+  - pymdownx.tilde
+  - toc:
+        permalink: true
+        toc_depth: 3
+  - pymdownx.arithmatex:
+        generic: true
+  - pymdownx.keys

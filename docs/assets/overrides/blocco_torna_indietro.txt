@@ -1,0 +1,41 @@
+
+					
+					
+					.md-nav__title {
+    color: var(--md-default-fg-color--light);
+    display: block;
+    font-weight: 700;
+    overflow: hidden;
+    padding: 0 .6rem;
+    text-overflow: ellipsis;
+}
+
+blocco originale
+
+                  <div class="md-nav__link">
+                    {% include ".icons/material/bookshelf.svg" %}
+                    <span class="md-ellipsis">
+                      {{ lang.t("blog.categories.in") }}
+                      {% for category in page.categories %}
+                        <a href="{{ category.url | url }}">
+                          {{- category.title -}}
+                        </a>
+                        {%- if loop.revindex > 1 %}, {% endif -%}
+                      {% endfor -%}
+                    </span>
+                  </div>
+						
+						
+	blocco mosificato					
+                             <div class="md-nav__link1">
+							 {% include ".icons/material/arrow-left.svg" %}
+                    <span class="md-ellipsis  ">
+					{{ lang.t("Torna all'indice") }}
+                      {% for category in page.categories %}
+                        <a href="{{ category.url | url }} " >
+                          {{- category.title -}}
+                        </a>
+                        {%- if loop.revindex > 1 %}, {% endif -%}
+                      {% endfor -%}
+                    </span>
+                  </div>						
