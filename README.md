@@ -3,6 +3,6 @@
 
 Tutti i contenuti sono esclusivamente **test personali finalizzati ad IMPARARE e usare strumenti Gis e WebGis** (da altri utenti e delle comunità on line come [opendatasicilia.it](http://opendatasicilia.it/) o [spaghettiopendata.org,](http://www.spaghettiopendata.org/) [opendatahacklab.org](http://opendatahacklab.org/site/) e tantissime altre), approfondire e condividere le mie conoscenze informatiche, tutto il materiale da me rielaborato e pubblicato in questo blog può essere clonato ed adattato liberamente ai propri scopi, con licenza **[CC BY-SA 4.0](https://creativecommons.org/licenses/by/4.0/deed.it)** – Attribuzione – Condividi allo stesso modo 4.0 Internazionale, tranne diversa indicazione.
 
-### cose&robe.it](https://coseerobe.it/) è realizzato con [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)
+### [cose&robe.it](https://coseerobe.it/) è realizzato con [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)
 
 
