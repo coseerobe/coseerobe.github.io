@@ -5,4 +5,3 @@ Tutti i contenuti sono esclusivamente **test personali finalizzati ad IMPARARE e
 
 ### cose&robe.it](https://coseerobe.it/) è realizzato con [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)
 
-
