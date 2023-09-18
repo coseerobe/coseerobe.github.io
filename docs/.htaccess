@@ -1,0 +1,10 @@
+<IfModule mod_rewrite.c>
+
+RewriteEngine On
+RewriteCond %{HTTP_HOST} !^www\.developers.coseerobe\.it$
+RewriteRule (.*) https://www.coseerobe.it//$1 [R=301,L]
+RewriteCond %{HTTP_HOST} !^developers.coseerobe\.it$
+RewriteRule (.*) https://www.coseerobe.it/$1 [R=301,L]
+RewriteRule (.*) https://coseerobe.it/$1 [R=301,L]
+
+</IfModule>
