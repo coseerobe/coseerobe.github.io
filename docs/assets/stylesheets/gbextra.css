@@ -1,10 +1,10 @@
 @font-face {font-family: DS-TERM; src: url(fonts/DS-TERM.TTF);}
-@font-face {font-family: ARCADE_C; src: url(fonts/ARCADE_C.ttf);}
+@font-face {font-family: PuffinArcade-Yoko; src: url(fonts/PuffinArcade-Yoko.otf); format('opentype');}
 
 
 /* testo nome pafine/post nell'header*/
 .md-header__topic:first-child {font-weight: lighter;}
-.md-header__title>.md-header__ellipsis { height: 100%;  position: relative;  width: 100%;  /*font-weight: 400!important;*/   font-family: DS-TERM; font-size: 1.5rem; margin-left: -32px;	color: #ff0000; /*text-shadow: 0.5px 0.5px 0px #07085d8a;*/}
+.md-header__title>.md-header__ellipsis { height: 100%;  position: relative;  width: 100%;  /*font-weight: 400!important;*/   font-family: DS-TERM; font-size: 1.12rem; margin-left: -32px; color: #ff0000; margin-top:-1px;  /*text-shadow: 0.5px 0.5px 0px #07085d8a;*/}
 
 /* gbvitrano*/
 .md-consent__overlay {display: none!important; }
@@ -48,7 +48,7 @@
 aside {display: none !important;}
 
 /* logo personalizzato*/
- .md-header__button.md-logo img, .md-header__button.md-logo svg {height:1.8rem!important;    /*width: 5rem!important; padding-right: 3rem!important;*/ box-shadow: none !important; border: none !important;	border-radius:  none !important;	moz-border-radius: none !important; -webkit-border-radius: none !important;	background-color: transparent !important;}
+ .md-header__button.md-logo img, .md-header__button.md-logo svg {height:1.28rem!important;    /*width: 5rem!important; padding-right: 3rem!important;*/ box-shadow: none !important; border: none !important;	border-radius:  none !important;	moz-border-radius: none !important; -webkit-border-radius: none !important;	background-color: transparent !important;}
 
 /* logo personalizzato mobile*/
  .md-nav__title .md-nav__button.md-logo img, .md-nav__title .md-nav__button.md-logo svg {fill: currentColor; display: block; height: 2rem!important; /*width: 2.5rem !important; padding-right: 3rem; */ box-shadow: none !important;  border: none !important; border-radius: none !important; moz-border-radius: none !important; -webkit-border-radius: none !important;   background-color: transparent !important;}
