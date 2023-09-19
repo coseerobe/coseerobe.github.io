@@ -45,7 +45,7 @@
 
 /*Banner*/
 .md-banner {height: 0px!important;  background-color: #07085d!important; }
-aside {display: none !important;}
+/*aside {display: none !important;}*/
 
 /* logo personalizzato*/
  .md-header__button.md-logo img, .md-header__button.md-logo svg {height:1.28rem!important;    /*width: 5rem!important; padding-right: 3rem!important;*/ box-shadow: none !important; border: none !important;	border-radius:  none !important;	moz-border-radius: none !important; -webkit-border-radius: none !important;	background-color: transparent !important;}
@@ -91,6 +91,7 @@ img {box-shadow: 0 1px 2.5px rgba(0,0,0,0.65);	border-radius: 5px;	moz-border-ra
 img.nobox {box-shadow: none !important; border: none !important;	border-radius:  none !important;	moz-border-radius: none !important; -webkit-border-radius: none !important;	background-color: transparent !important;	}
 /*Ridimensiona immagine*/
 img.resized10 { width: 10%; height: auto; margin:1px; }
+img.resized15 { width: 15%; height: auto; margin:1px; }
 img.resized33 { width: 32%; height: auto; margin:1px; }
 img.resized50 { width: 48%; height: auto; margin:1px; }	
 img.resized50c { width: 48%; height: auto; margin:0px auto; text-align: center; display: block; }	

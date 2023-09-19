@@ -1,11 +1,13 @@
 ## Project information
 site_name: Cose&Robe | Rielaborazioni dataset opendata, a lot things…
 site_url: https://coseerobe.it/
-site_description: Quando i dati sono disponibili (open, machine readable e con la licenza giusta) ciascuno di noi può dare libero sfogo alle proprie competenze e alla propria fantasia per far parlare quei dati al meglio, scegliendo o creando la rappresentazione che ritiene più efficace per evidenziare quelli che si ritengono gli aspetti salienti. (cit. Nino Galante)
 site_author: gbvitrano
+site_description: >-
+    Quando i dati sono disponibili (open, machine readable e con la licenza giusta) ciascuno di noi può dare libero sfogo alle proprie competenze e alla propria fantasia per far parlare quei dati al meglio, scegliendo o creando la rappresentazione che ritiene più efficace per evidenziare quelli che si ritengono gli aspetti salienti. (cit. Nino Galante)
+
 
 ## Repository
-# repo_name: coseerobe.it
+# repo_name: coseerobe
 # repo_url: https://github.com/coseerobe/coseerobe
 # edit_uri: edit/main/docs/ #disables edit button
 
@@ -90,14 +92,15 @@ extra:
   consent:
     title: Consenso ai cookie
     description: >-
-        <img src="https://coseerobe.it/assets/img/logo.png" class="immagonobox"  alt=Cose&#038;Robe &#8211; Rielaborazioni dataset opendata" title="Cose&#038;Robe &#8211; Rielaborazioni dataset opendata" width="100" border="0"><br><b>Questo sito, cose&robe.it.it utilizza i cookie, anche di terze parti, per migliorare la vostra esperienza di navigazione web.</b> <br>Chiudendo questo messaggio, scorrendo questa pagina o cliccando su qualunque suo elemento acconsenti all&rsquo;uso dei cookie.<br> Per maggiori informazioni o per negare il  consenso a tutti o ad alcuni cookie, consulta l&rsquo;<a href="https://hfcqgis.opendatasicilia.it/privacy/" title="Informativa privacy estesa" target="_parent">informativa</a>!
+        <img src="https://coseerobe.it/assets/img/logo.svg" class="immagonobox resized33"  alt=Cose&#038;Robe &#8211; Rielaborazioni dataset opendata" title="Cose&#038;Robe &#8211; Rielaborazioni dataset opendata" width="100" border="0"><br><b>Questo sito, cose&robe.it.it utilizza i cookie, anche di terze parti, per migliorare la vostra esperienza di navigazione web.</b> <br>Chiudendo questo messaggio, scorrendo questa pagina o cliccando su qualunque suo elemento acconsenti all&rsquo;uso dei cookie.<br> Per maggiori informazioni o per negare il  consenso a tutti o ad alcuni cookie, consulta l&rsquo;<a href="https://hfcqgis.opendatasicilia.it/privacy/" title="Informativa privacy estesa" target="_parent">informativa</a>!
     cookies:
       analytics:
         name: Google Analytics
-        checked: false
+        checked: true
     actions:
       - accept
-      - manage    
+      - manage   
+      
 # TAGS
   tags:
     HTML5: html
@@ -180,7 +183,7 @@ plugins:
 
  # foglio di stile personalizzato
 extra_css:
-   - assets/stylesheets/gbextra.css
+  - assets/stylesheets/gbextra.css
   # - assets/stylesheets/gbextra_00.css   
    
 extra_javascript:
