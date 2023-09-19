@@ -79,10 +79,6 @@ theme:
   static_templates:
     - 404.html
     
-#  analytics:
-#    provider: google
-#    property: xxxxx
-
 extra:
   tags:
     HTML5: html
@@ -115,7 +111,9 @@ extra:
     - icon: fontawesome/brands/creative-commons-sa
       link: https://creativecommons.org/licenses/by-sa/4.0/deed.it
       name: Attribuzione - Condividi allo stesso modo 4.0 Internazionale (CC BY-SA 4.0)         
-
+  analytics:
+    provider: google
+    property: G-Y2YZ7RDXWM
       
  ## Consenso ai cookie     
   consent:
