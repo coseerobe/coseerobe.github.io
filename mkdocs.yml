@@ -61,20 +61,24 @@ theme:
   
   features:
   #  - header.autohide
-  #  - navigation.path 
+  #  - navigation.path
+    - toc.integrate
+    - toc.follow
     - navigation.top
     - navigation.instant
-    - toc.integrate
+ #   - navigation.prune
     - navigation.tabs
- #   - navigation.tabs.sticky
-  #  - navigation.sections
+
+  #  - navigation.tabs.sticky
+   # - navigation.sections
+  #  - navigation.expand
+
     - navigation.tracking
     - navigation.indexes
     - content.code.annotate
     - content.action.edit
     - content.action.view
     - navigation.footer
-    - navigation.prune
 
   font:
     text: Roboto
@@ -159,7 +163,6 @@ plugins:
     archive_toc: false
     post_url_format: "{categories}/{slug}"
     post_slugify_separator: "-"
- 
     post_slugify: !!python/object/apply:pymdownx.slugs.slugify
       kwds:
         case: lower

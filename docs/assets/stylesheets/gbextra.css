@@ -1,10 +1,11 @@
 @font-face {font-family: DS-TERM; src: url(fonts/DS-TERM.TTF);}
-@font-face {font-family: PuffinArcade-Yoko; src: url(fonts/PuffinArcade-Yoko.otf); format('opentype');}
 
 
 /* testo nome pafine/post nell'header*/
 .md-header__topic:first-child {font-weight: lighter;}
 .md-header__title>.md-header__ellipsis { height: 100%;  position: relative;  width: 100%;  /*font-weight: 400!important;*/   font-family: DS-TERM; font-size: 1.12rem; margin-left: -32px; color: #ff0000; margin-top:-1px;  /*text-shadow: 0.5px 0.5px 0px #07085d8a;*/}
+
+/*/@media screen and (min-width: 76.25em) { .md-nav--primary .md-nav__title {display: none;}} */
 
 /* gbvitrano*/
 .md-consent__overlay {display: none!important; }
@@ -42,6 +43,9 @@
 	--md-footer-bg-color: #ffffff;
 	
 }	
+/*
+background: rgb(255,255,255);
+background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(7,8,93,0.7455357142857143) 50%, rgba(255,255,255,1) 100%);**
 
 /*Banner*/
 .md-banner {height: 0px!important;  background-color: #07085d!important; }
@@ -92,7 +96,9 @@ img.nobox {box-shadow: none !important; border: none !important;	border-radius: 
 /*Ridimensiona immagine*/
 img.resized10 { width: 10%; height: auto; margin:1px; }
 img.resized15 { width: 15%; height: auto; margin:1px; }
+img.resized20 { width: 20%; height: auto; margin:1px; }
 img.resized33 { width: 32%; height: auto; margin:1px; }
+img.resized35 { width: 33%; height: auto; margin:1px; }
 img.resized50 { width: 48%; height: auto; margin:1px; }	
 img.resized50c { width: 48%; height: auto; margin:0px auto; text-align: center; display: block; }	
 /*
