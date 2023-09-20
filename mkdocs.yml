@@ -57,7 +57,7 @@ theme:
       css:  fontawesome/brands/css3    
       Incendi: fontawesome/solid/fire
       
-  logo: assets/img/logo.svg
+  logo: assets/img/logo.png
   
   features:
   #  - header.autohide
