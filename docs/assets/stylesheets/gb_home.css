@@ -218,6 +218,8 @@ input, select, textarea {
 		top: -0.5em;
 		font-size: 0.8em;
 	}
+	
+	hr  {border: 0px    height: 0.5px;   background-image: linear-gradient(to right, #111524, #ff00002e, #111524)!important; margin-top:45px;margin-bottom:20px;}
 
 /*	hr {
 		border: 0;
