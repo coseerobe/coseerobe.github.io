@@ -59,11 +59,11 @@ html .md-footer-meta.md-typeset a {color: #ffffff!important;}
 .md-main {
     flex-grow: 1; height: 0px;background: rgb(255,255,255);
 background: linear-gradient(0deg, rgba(7,8,93)  0%, rgba(7,8,93,0.7455357142857143) 50%, rgba(255,255,255,1) 100%);}
-    
-.md-tabs {
-    background-color: transparent;}
-.md-header {
-    background: linear-gradient(#fff, #fff, #fff, #fff, #fff, #fff, #ffffff75);}
+    .md-tabs__link {     color: #fff;}
+	
+.md-tabs {  background-color: #111524;}
+/*.md-header {   background: linear-gradient(#fff, #fff, #fff, #fff, #fff, #fff, #ffffff75);}*/
+
 ol, ul {
 	list-style: none;
 }
@@ -244,7 +244,7 @@ input, select, textarea {
 	}
 
 	p {
-		text-align: justify; color: #07085d;  hyphens: auto;
+		text-align: justify; color: #111524;  hyphens: auto;
 	}
 
 /*	header {
@@ -270,11 +270,11 @@ input, select, textarea {
 	}
 
 	.featured {
-		text-align: center; color: #07085d;
+		text-align: center; color: #111524;
 	}
 
 		.featured p {
-			text-align: justify; line-height: 1.5rem; color: #07085d; hyphens: auto;
+			text-align: justify; line-height: 1.5rem; color: #111524; hyphens: auto;
 		}
 
 /* Container */
@@ -2215,12 +2215,12 @@ input, select, textarea {
 	#header {
 		position: relative;
 		margin: 0;
-		margin-top:-60px;
-		background-image:  url("../img/sfondo_01.png"); 
-		background-color: #fff;
+		margin-top:-0px;
+		background-image:  url("../img/gb.jpg"); 
+		background-color: #121423;
 		background-size:  cover;
-		background-position:  center center;
-		background-repeat: repeat;
+		background-position-y: 0px;
+		background-repeat: no-repeat;
 		padding:  3em 15em;
 		text-align: center;
 		color: #ff0000;
@@ -2244,7 +2244,7 @@ input, select, textarea {
 			line-height: 1.6;
 			text-align: left;
 			background-color:#ffffffe3;
-			border-radius: 15px; color: #07085d;
+			border-radius: 15px; color: #111524; #111524;
 		}
 
 	/*	#header footer {
@@ -2259,7 +2259,7 @@ input, select, textarea {
 	}
 
 		.main > header {
-			background:#111325;
+			background:#111524;
 			text-align: left;
 			padding: 0.5em 0 0.5em 0;
 			margin: 0;
