@@ -2216,11 +2216,11 @@ input, select, textarea {
 		position: relative;
 		margin: 0;
 		margin-top:-60px;
-		background-image:  url("../img/sfondo.png");
+		background-image:  url("../img/sfondo_01.png"); 
 		background-color: #fff;
 		background-size:  cover;
 		background-position:  center center;
-		background-repeat:  no-repeat;
+		background-repeat: repeat;
 		padding:  3em 15em;
 		text-align: center;
 		color: #ff0000;
@@ -2265,14 +2265,20 @@ input, select, textarea {
 			margin: 0;
 		}
 
-			.main > header h2 {
-				font-size: 2em;
+			.main > header h1 {
+				font-size: 1.8em;
 				font-weight: 100;
 				margin-bottom: 0;
 				color: #fff;
     font-weight: 300;
 			}
-
+			.main > header h2 {
+				font-size: 1.6em;
+				font-weight: 100;
+				margin-bottom: 0;
+				color: #fff;
+    font-weight: 300;
+			}
 			.main > header p {
 font-size: 1.1em;
     font-weight: 400;
