@@ -159,7 +159,7 @@ input, select, textarea {
 	}
 
 	p {
-		text-align: justify; color: #121423;  hyphens: auto;
+		text-align: justify; color: #121423bf;  hyphens: auto;     font-weight: 500;
 	}
 
 
@@ -172,7 +172,7 @@ input, select, textarea {
 	}
 
 		.featured p {
-			text-align: justify; line-height: 1.5rem; color: #121423; hyphens: auto;
+			text-align: justify; line-height: 1.5rem; color: #121423bf; hyphens: auto;     font-weight: 500;
 		}
 
 /* Container */
@@ -1891,14 +1891,14 @@ input, select, textarea {
 				font-size: 1.8em;
 				font-weight: 100;
 				margin-bottom: 0;
-				color: #fff;
+				color:#e2e3e98f;
     font-weight: 300;
 			}
 			.main > header h2 {
 				font-size: 1.6em;
 				font-weight: 100;
 				margin-bottom: 0;
-				color: #fff;
+				color: #e2e3e98f;
     font-weight: 300;
 			}
 			.main > header p {
@@ -1916,7 +1916,7 @@ font-size: 1.1em;
 
 			.main > .content h3 {
 font-size: 1.25em;
-    font-weight: 400;
+    font-weight: 700;
     letter-spacing: -.01em;
     line-height: 1.5;
     margin: 1.6em 0 .8em;
