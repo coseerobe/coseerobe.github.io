@@ -31,7 +31,7 @@ html .md-footer-meta.md-typeset a {color: #ffffff!important;}
 background: linear-gradient(0deg, rgba(7,8,93)  0%, rgba(7,8,93,0.7455357142857143) 50%, rgba(255,255,255,1) 100%);}
     .md-tabs__link {     color: #fff;}
 	
-.md-tabs {  background-color: #111524;}
+.md-tabs {  background-color: #121423;}
 /*.md-header {   background: linear-gradient(#fff, #fff, #fff, #fff, #fff, #fff, #ffffff75);}*/
 
 ol, ul {
@@ -138,7 +138,7 @@ input, select, textarea {
 		font-size: 0.8em;
 	}
 	
-	hr  {border: 0px    height: 0.5px;   background-image: linear-gradient(to right, #111524, #ff00002e, #111524)!important; margin-top:45px;margin-bottom:20px;}
+	hr  {border: 0px    height: 0.5px;   background-image: linear-gradient(to right, #121423, #ff00002e, #121423)!important; margin-top:45px;margin-bottom:20px;}
 
 	.dark hr {
 		border-top-color: rgba(255, 255, 255, 0.5);
@@ -159,7 +159,7 @@ input, select, textarea {
 	}
 
 	p {
-		text-align: justify; color: #111524;  hyphens: auto;
+		text-align: justify; color: #121423;  hyphens: auto;
 	}
 
 
@@ -168,11 +168,11 @@ input, select, textarea {
 	}
 
 	.featured {
-		text-align: center; color: #111524;
+		text-align: center; color: #121423;
 	}
 
 		.featured p {
-			text-align: justify; line-height: 1.5rem; color: #111524; hyphens: auto;
+			text-align: justify; line-height: 1.5rem; color: #121423; hyphens: auto;
 		}
 
 /* Container */
@@ -1837,7 +1837,7 @@ input, select, textarea {
 		position: relative;
 		margin: 0;
 		margin-top:-0px;
-		background-image:  url("../img/gb.jpg"); 
+		background-image:  url("../img/gb_01.png"); 
 		background-color: #121423;
 		background-size:  cover;
 		background-position-y: 0px;
@@ -1846,6 +1846,8 @@ input, select, textarea {
 		text-align: center;
 		color: #ff0000;
 		font-size:.95rem;
+
+}
 	}
 
 		#header header h1 {
@@ -1865,7 +1867,9 @@ input, select, textarea {
 			line-height: 1.6;
 			text-align: left;
 			background-color:#ffffffe3;
-			border-radius: 15px; color: #111524; #111524;
+			border-radius: 15px; color: #121423;		    max-width: 80%;
+    margin-right: auto;
+    margin-left: auto;
 		}
 
 
@@ -1877,7 +1881,7 @@ input, select, textarea {
 	}
 
 		.main > header {
-			background:#111524;
+			background:#121423;
 			text-align: left;
 			padding: 0.5em 0 0.5em 0;
 			margin: 0;
