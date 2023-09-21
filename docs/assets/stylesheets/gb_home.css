@@ -25,10 +25,10 @@ html .md-footer-meta.md-typeset a {color: #ffffff!important;}
 [data-md-color-primary=white] .md-tabs {
      border-bottom: .05rem solid #ffffff0d; 
 }
-
+/*
 .md-main {
     flex-grow: 1; height: 0px;background: rgb(255,255,255);
-background: linear-gradient(0deg, rgba(7,8,93)  0%, rgba(7,8,93,0.7455357142857143) 50%, rgba(255,255,255,1) 100%);}
+background: linear-gradient(0deg, rgba(7,8,93)  0%, rgba(7,8,93,0.7455357142857143) 50%, rgba(255,255,255,1) 100%);}*/
     .md-tabs__link {     color: #fff;}
 	
 .md-tabs {  background-color: #121423;}
