@@ -31,7 +31,7 @@ html .md-footer-meta.md-typeset a {color: #ffffff!important;}
 
 .md-tabs {  background-color: #121423;}
 
-
+ @media screen and (max-width: 640px) { img.resized33 {width:50%}}
 mark {
 	background-color: transparent;
 	color: inherit;
@@ -1879,7 +1879,7 @@ font-size: 1.25em;
 			}
 
 				#header header p {
-					margin-top: 1em; max-width: 100%;
+					margin-top: 1em; max-width: 100%; padding: 15px;
 				}
 
 
@@ -1983,9 +1983,8 @@ font-size: 1.25em;
 			}
 
 				.main > .content h3 {
-font-size: 1.25em;
-    font-weight: 400;
-    letter-spacing: -.01em;
+font-size: 2.3em;
+      letter-spacing: -.01em;
     line-height: 1.5;
     margin: 1.6em 0 .8em;
 }
