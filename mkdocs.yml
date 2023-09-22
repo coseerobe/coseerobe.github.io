@@ -12,7 +12,7 @@ site_description: >-
 # edit_uri: edit/main/docs/ #disables edit button
 
 # Copyright
-copyright: '<b>cose&robe</b> è un&#39;idea di <a href="https://twitter.com/gbvitrano" target="_blank">Giovan Battista Vitrano</a> | <a href="https://coseerobe.it/tags/" title="Tags" target="_parent">Tags</a> | <a href="https://coseerobe.it/privacy/" title="Informativa privacy estesa" target="_parent">Privacy</a>
+copyright: '<b>cose&robe</b> è un&#39;idea di <a href="https://twitter.com/gbvitrano" target="_blank">Giovan Battista Vitrano</a> | <a href="../tags/" title="Tags" target="_parent">Tags</a> | <a href="../privacy/" title="Informativa privacy estesa" target="_parent">Privacy</a>
  <br> Tutti i contenuti sono in licenza <a href="https://creativecommons.org/licenses/by/4.0/deed.it" target="_blank">CC BY 4.0</a> tranne diversa indicazione. <br> Disclaimer: Questo è un blog amatoriale che non supporta finalità commerciali. <br>This is an amateur blog that does not support commercial purposes.'
 
 theme:
@@ -170,6 +170,7 @@ plugins:
     categories_slugify: !!python/object/apply:pymdownx.slugs.slugify
       kwds:
         case: lower
+   
 - rss:
     match_path: blog/posts/.*
     use_git: false
@@ -178,6 +179,7 @@ plugins:
     categories:
       - categories
       - tags
+      
 # Social Card      
 - social:
      cards_dir: assets/img/social
