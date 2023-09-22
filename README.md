@@ -6,7 +6,7 @@
 
 Tutti i contenuti sono esclusivamente **test personali finalizzati ad IMPARARE e usare strumenti Gis e WebGis** (da altri utenti e delle comunità on line come [opendatasicilia.it](http://opendatasicilia.it/) o [spaghettiopendata.org,](http://www.spaghettiopendata.org/) [opendatahacklab.org](http://opendatahacklab.org/site/) e tantissime altre), approfondire e condividere le mie conoscenze informatiche, tutto il materiale da me rielaborato e pubblicato in questo blog può essere clonato ed adattato liberamente ai propri scopi, con licenza **[CC BY-SA 4.0](https://creativecommons.org/licenses/by/4.0/deed.it)** – Attribuzione – Condividi allo stesso modo 4.0 Internazionale, tranne diversa indicazione.
 
-### [cose&robe.it](https://coseerobe.it/) è realizzato con [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)
+### [cose&robe.it](https://coseerobe.it/) è realizzato con [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) [![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/coseerobe/coseerobe/gh-deploy.yml?label=Github%20Pages)](https://coseerobe.it/)
 <a href="https://www.mkdocs.org/" target="_black"> 
 <img src="https://img.shields.io/static/v1?label=Linguaggio%20di%20markup&message=Markdown&color=ff0000&logo=Markdown&logoColor=ff0000&style=for-the-badge" title="Linguaggio di markup: Markdown"></a>
 
