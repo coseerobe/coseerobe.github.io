@@ -18,7 +18,7 @@ jobs:
         if: ${{ github.event.head_commit.modified.contains('docs/') }}
         uses: JamesIves/github-pages-deploy-action@4.1.0
         with:
-          branch: gh-pages
+          branch: main
           folder: docs
           python-version: 3.x
       - run: pip install markdown>=3.2
