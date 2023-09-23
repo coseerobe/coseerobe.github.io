@@ -1,4 +1,5 @@
 @font-face {font-family: DS-TERM; src: url(fonts/DS-TERM.TTF);}
+@font-face {font-family: Nunito src: url(https://fonts.googleapis.com/css?family=Nunito+Sans:200,300,400,600,700,800,900&display=swap);}
 
 
 /* testo nome pafine/post nell'header*/
@@ -99,7 +100,8 @@ img.resized15 { width: 15%; height: auto; margin:1px; }
 img.resized20 { width: 20%; height: auto; margin:1px; }
 img.resized33 { width: 32%; height: auto; margin:1px;     }
 img.resized35 { width: 33%; height: auto; margin:1px; }
-img.resized50 { width: 48%; height: auto; margin:1px; }	
+img.resized50 { width: 48%; height: auto; margin:1px; }
+img.resized75 { width: 75%; height: auto; margin:1px; }	
 img.resized50c { width: 48%; height: auto; margin:0px auto; text-align: center; display: block; }	
 /*
 .off {visibility: visible; }

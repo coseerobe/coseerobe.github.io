@@ -4,198 +4,523 @@
 {% extends "main.html" %}
 {% block tabs %}
 {{ super() }}
- 
+   
+   <link rel="stylesheet" href="{{ config.site_url}}assets/stylesheets/home_gb.css" />
+    <link rel="stylesheet" href="{{ config.site_url}}assets/stylesheets/owl.carousel.min.css" />
 	
-		<link rel="stylesheet" href="{{ config.site_url}}assets/stylesheets/gb_home.css" />
-    
-	<body class="is-preload">
+   <!-- 
+      <title>ArcLab - Free Bootstrap 4 Template by Colorlib</title>
+<link href="https://fonts.googleapis.com/css?family=Nunito+Sans:200,300,400,600,700,800,900&display=swap" rel="stylesheet">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	 <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:200,300,400,600,700,800,900&display=swap" rel="stylesheet">
+   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+   <link rel="stylesheet" href="css/flaticon.css">
+   <link rel="stylesheet" href="css/animate.css">
+   <link rel="stylesheet" href="css/magnific-popup.css">
+   <link rel="stylesheet" href="css/owl.theme.default.min.css">
+	-->
 
-		<!-- Header -->
-			<section id="header" class="dark">
-				<header>
-			<!--		<h2>Benventi in Cose&Robe</h2><br> -->
-					<p><b><i>I dataset sono cose e robe facili da capire…</i></b><br><br>Per prima cosa, bisogna fare le robe, una prima fase è mettere a fuoco le cose da fare, poi c’è una seconda fase in cui si da un nome alle singole robe da fare, perché fare delle robe senza sapere di cosa stai parlando è stato sempre un problema! La terza fase è più complessa!<br>
+   <!--  	  
+	 <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
+	    <div class="container-fluid">
+	      <a class="navbar-brand" href="index.html">ArcLab.</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
+	        <span class="oi oi-menu"></span> Menu
+	      </button>
+
+	    <div class="collapse navbar-collapse" id="ftco-nav">
+	        <ul class="navbar-nav ml-auto">
+	          <li class="nav-item active"><a href="index.html" class="nav-link">Home</a></li>
+	          <li class="nav-item"><a href="about.html" class="nav-link">About</a></li>
+	          <li class="nav-item"><a href="agent.html" class="nav-link">Team</a></li>
+	          <li class="nav-item"><a href="services.html" class="nav-link">Services</a></li>
+	          <li class="nav-item"><a href="project.html" class="nav-link">Project</a></li>
+	          <li class="nav-item"><a href="blog.html" class="nav-link">Blog</a></li>
+	          <li class="nav-item"><a href="contact.html" class="nav-link">Contact</a></li>
+	        </ul>
+	      </div>
+	    </div>
+	  </nav> -->
+    <!-- END nav -->
+    
+    <section class="hero-wrap" style="/*background-color:#121423;*/ background-image: url('{{ config.site_url}}assets/img/matrix_gray_01.jpg'); background-size: cover; background-repeat: no-repeat;" data-stellar-background-ratio="0.3">
+      <div class="overlay"></div>
+      <div class="container">
+        <div class="row no-gutters slider-text align-items-center">
+          <div class="col-md-10 col-lg-7  d-flex align-items-end">
+          	<div class="text">
+	            <h1 class="mb-4">I dataset sono cose e robe facili da capire…</h1>
+	            <p style="font-size: 14.5px;">Per prima cosa, bisogna fare le robe, una prima fase è mettere a fuoco le cose da fare, poi c’è una seconda fase in cui si da un nome alle singole robe da fare, perché fare delle robe senza sapere di cosa stai parlando è stato sempre un problema! La terza fase è più complessa!<br>
   Una volta che hai le robe giuste, è tutta un’altra cosa!<br>
   Con queste robe, cose da fare c’è ne sono tante, dalle cose più semplici alle cose più complesse, senza dimenticarsi quelle robe li!<br>
   Un esempio concreto è…che con i dataset ci sono un sacco di cose che si fanno, perché fare le cose è una roba concreta, è un modello che funziona!<br>
   Quando c’è voglia di fare le cose e le robe, è solo questione di prime e seconde fasi…<br>
 Se siamo in tanti a fare cose sul territorio sono sicuro che ci viene bene… c’è chi fa più robe, c’è chi fa più cose, ma se queste cose e queste robe li mettiamo al servizio del Paese, avremo tanti territori pieni di cose e di robe che funzionano e la gente ne ha bisogno, ma attenzione a con confondere le cose con le robe, altrimenti si impazzisce!<br><br>
 <em>a lot things…</em><br> <br> <em><a href="https://youtu.be/ZF20yFbJRXU?t=1m01s" class="gb">Crozza…docet</a></em></p>
-				</header>
-				<footer>
-					<a href="{{ 'blog/' | url }}" title="Cose&#038;Robe &#8211; Rielaborazioni dataset opendata" class="button scrolly">Quick Start</a>
-					</footer>
-			</section>
-		<!-- Atlante -->
-			<section id="third" class="main">
-				<header><hr>
-					<div class="container ">
-					<h1>Il primo progetto con ODS</h1>
-						<h2>Osservare il cambiamento di una città grazie alla cartografia:<br> il caso di Palermo </h2>	
-						<p>Quest'atlante nasce dopo aver letto l’articolo di <a href="https://napo.medium.com/mappa-di-trento-1915-da-un-libro-di-cesare-battisti-84935794b1ed" Title="mappa di Trento 1915 — da un libro di Cesare Battisti">@napo mappa di Trento 1915 – da un libro di Cesare Battisti</a>, ne sono rimasto affascinato, sia per il gran lavoro fatto dalla biblioteca comunale di Trento, nel digitalizzare il contenuto del libro e renderlo di dominio pubblico e sia per la parte tecnica e dall’analisi, che si può fare agevolmente, mettendo a confronto una carta storica ed una di oggi.<br>
-Dopo un riscontro positivo all'atlante storico è nata l'idea di <a href="https://palermohub.opendatasicilia.it/" Title="PalermoHub di opendatasicilia.it è un contenitore di mappe realizzate/rielaborate da liberi cittadini o da civic hackers prevalentemente sul territorio comunale di Palermo, non ha alcun intento commerciale, l’unica finalità è mostrare le possibilità di rielaborazione e comunicazione offerte dagli open data o dati pubblici comunali, regionali e nazionali."> PalermoHub </a></p>
-					</div>
-				</header>
-				<div class="content dark featured">
-					<div class="container">
-						<span ><a href="https://palermohub.opendatasicilia.it/index_atlante.html#14/38.1117/13.3501" title="Osservare il cambiamento di una città grazie alla cartografia: il caso di Palermo"><img src="{{ config.site_url}}assets/img/atlante.jpg" class="image fit gray" title="Osservare il cambiamento di una città grazie alla cartografia: il caso di Palermo"alt="" /></a></span>						
-						<div class="row">
-							<div class="col-4 col-12-narrow">
-							<p>Realizzare tecnicamente l'Atlante è stato semplice, utilizzando lo scrpt Leaflet</b> e il <b>plugin leaflet-tileoverlay-mask</b>,  si ottiene un effetto <b>“spot”</b>  sulle cartografie, che ci permette di mettere a confronto, dinamicamente e istantaneamente, una carta storica con lo stato attuale. Nel corso degli anni il codice sorgente della mappa è stato modificato e migliorato per poter confrontare più mappe conteporaneamenmte. </p>	
-			  			<p>All'inizo (2016) era solo possibie effettuare la comparazione tra carta tecnica OMIRA del 1935 con oggi, l'attuale base cartografica di OpenStreetMap e la foto aerea di GoogleMaps.</p>
-								<p> <b>Carta Tecnia di Palermo OMIRA</b>, 17 tavole scala 1:5000  (1935/37). </p>
-								<p>Cartografia realizzata colmetodo aerofotogrammetrico “Nistri” dalla Soc. An. Ottico Meccanica Italianae Rilevamenti Aerofotogrammetrici. </p>							
-							</div>
-							<div class="col-4 col-12-narrow">
-								<p>Come la <b>Città di Palermo 1580</b> - carta di Maiocco e Bonifacio e la <b>Città di Palermo 1882 | 1:1000</b> - Biblioteca nazionale di Francia;<br>	
-								la <b>Veduta di Palermo nel 1677</b> -  Biblioteca Francisco de Zabálburu di Madrid;<br>
-								la <b>Nuova pianta della Città di Palermo</b> 1862 1:10k e la <b>Nuova pianta della Città di Palermo 1891</b> 1:10k - Harvard Map Collection, Harvard University								</p>
-								<p>Grazie a @napo per la segnalazione della mappe d'Italia del 1941 negli di archivi USA negli archivi online University of Texas Libraries | The University of Texas at Austin sezione Perry-Castañeda Library Map Collection | Italy Maps con licenza Public Domain.<br>
-								Sono state aggiunte le seguenti cartografie:<br><b>Italy City Plans 1943-1944</b> U.S. Army Map Service<br><b>Italy 1:25,000 | Series 4228</b>, U.S. Army Map Service, 1943 </p>
-							</div>
-							<div class="col-4 col-12-narrow">
-							<p><b>Italy 1:50,000 | Series 4229</b>, U.S. Army Map Service, 1941</p>
-							<p>Inoltre sono stati aggiunti gli attuali strumenti urbanisiti, VarianteGenerale al PRG. e il PPE della Città Storica,. attualmente vigenti(2023), e su richiesta di molti tecnici è stato aggiunto il vecchio Piano regolatore del 1962, aggionato con i provvedimenti del d.p.r.s. n 110/a del 28/06/1962 e con le successive varianti fino a giugno 1984.</p>
-							<p>Attualmente l'Atlante contine 16 cartografie storiche e viene consultato giornalmente da persone curiose di scoprire i cambiamti subiti dalla città e da tecnici proffessionisti che usano l'atante per lavoro. </p>
-							<br><br>				
-								<footer>
-									<a href="https://palermohub.opendatasicilia.it/index_atlante.html#14/38.1113/13.3534" title="Osservare il cambiamento di una città grazie alla cartografia: il caso di Palermo"class="button scrolly">Consulta l'Atlante Stotico</a>
-								</footer>
-							</div>
-						</div>
-					</div>
-				</div>
-			</section>
+	            <div class="d-flex meta">
+		            <div class=""><p class="mb-0"><a href="blog/" title="Esplora il Blog"class="btn btn-primary py-3 px-2 px-md-4">Esplora il Blog</a></p></div>
+		   <!--         <a href="#" class="d-flex align-items-center button-link">
+		            	<div class="button-video d-flex align-items-center justify-content-center">
+			            	<span class="fa fa-play"></span>
+			            </div>
+			            <span>Watch our video</span>
+		            </a> -->
+		          </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+	
+<!-- -->
+    <section class="ftco-section ftco-no-pb ftco-no-pt bg-primary">
+      <div class="container">
+        <div class="row d-flex no-gutters">
+          <div class="col-md-3 d-flex align-items-stretch ">
+            <div class="media block-6 services services-bg d-block text-center px-4 py-5">
+            	<div class="icon d-flex justify-content-center align-items-center"><a href="blog/category/mappe/" Title="Cose%Robe | Sezione Mappe" Class="gblink"><img src="{{ config.site_url}}assets/img/maps.svg"  height="60" Class="immagonobox resized75" Title="Esplora le mappe" /></a></div>
+              <div class="media-body py-md-4">
+                <h3><a href="blog/category/mappe/" Title="Cose%Robe | Sezione Mappe" Class="gblink">Mappe</a></h3>
+            <!--     <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>  -->
+              </div>
+            </div>      
+          </div>
+          <div class="col-md-3 d-flex align-items-stretch ">
+            <div class="media block-6 services services-bg services-darken d-block text-center px-4 py-5">
+            	<div class="icon d-flex justify-content-center align-items-center"><a href="blog/category/opendata/" Title="Cose%Robe | Sezione Opendata" Class="gblink"><img src="{{ config.site_url}}assets/img/ods_01.png" Class="immagonobox resized75" height="60" Title="Esplora gli opendata" /></a></div>
+              <div class="media-body py-md-4">
+                <h3><a href="blog/category/opendata/" Title="Cose%Robe | Sezione Opendata" Class="gblink">Opendata</a></h3>
+            <!--     <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>  -->
+              </div>
+            </div>      
+          </div>
+          <div class="col-md-3 d-flex align-items-stretch ">
+            <div class="media block-6 services services-bg services-lighten d-block text-center px-4 py-5">
+            	<div class="icon d-flex justify-content-center align-items-center"><a href="blog/category/tutorial/" Title="Cose%Robe | Sezione Tutorial" Class="gblink"><img src="{{ config.site_url}}assets/img/book-open.svg" Class="immagonobox resized75" height="60" Title="Esplora i tutorial" /></a></div>
+              <div class="media-body py-md-4">
+               <h3><a href="blog/category/tutorial/" Title="Cose%Robe | Sezione Tutorial" Class="gblink">Tutorial</a></h3>
+          <!--       <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>  -->
+              </div>
+            </div>      
+          </div>
+          <div class="col-md-3 d-flex align-items-stretch ">
+            <div class="media block-6 services services-bg d-block text-center px-4 py-5">
+            	<div class="icon d-flex justify-content-center align-items-center"><a href="blog/category/news/" Title="Cose%Robe | Sezione News" Class="gblink"><img src="{{ config.site_url}}assets/img/news.svg" Class="immagonobox resized75" height="60" Title="Esplora le news" /></a></div>
+              <div class="media-body py-md-4">
+                <h3><a href="blog/category/news/" Title="Cose%Robe | Sezione News" Class="gblink">News</a></h3>
+           <!--      <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>  -->
+              </div>
+            </div>      
+          </div>
+        </div>
+      </div>
+    </section>
+	
 
+    <!-- -->
+    <section class="ftco-section ftco-no-pb ftco-no-pt">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-7 order-md-last d-md-flex align-items-stretch">
 
-		<!-- Progetti ODS -->
-			<section id="second" class="main">
-				<header>
-					<div class="container">
-						<h2>Progetti OpenDataSicilia</h2>
-						<p>Da quando faccio parte della community di <a href="https://opendatasicilia.it/" Title="Open Data Sicilia">OpenDataSicilia</a> la mia cresita personale e professionale è stata esponenziele 😀 <br> Crescita personale perché ho incontrato persone che mi hanno trasmesso l’amore e la passione per gli open data, crescita proffesionale perché ho sviluppato esperienze, compentenze (skills) e conoscenze nella gestione di software e dati che mai avrei pensato di avere. <br>
-						Partecipare a progetti di pubblico interesse è il mio modo di mettere a disposizione di tutti, quello che mi è stato trasmesso.
-						</p>
+						<a href="https://palermohub.opendatasicilia.it/index_atlante.html#14/38.1113/13.3534" target="_blank" title="Osservare il cambiamento di una città grazie alla cartografia: il caso di Palermo" alt="Atlante" >
+						<div  class="img_gb w-100 img-2 mr-md-2" style="background-image: url({{ config.site_url}}assets/img/atlante.jpg); "> 
+						
+
+						</div> </a>
 					</div>
-				</header>
-				<div class="content dark featured">
-					<div class="container">
-						<div class="row">
-							<div class="col-4 col-12-narrow">
-								<section>
-									<p><a href="https://palermohub.opendatasicilia.it/" Title="PalermoHub"><b>PalermoHub</b></a> | Un contenitore di mappe realizzate/rielaborate da liberi cittadini o da civic hackers prevalentemente sul territorio comunale di Palermo,</p>
-									<p><a href="http://hfcqgis.opendatasicilia.it/" Title="Help funzioni calcolatore di campi di QGIS"><b>HfcQGIS</b></a> | Help funzioni calcolatore di campi di QGIS </p>
-									<p><a href="https://tansignari.opendatasicilia.it/" Title="Uno spazio per mettere a fattore comune scambi di conoscenza/esperienza sopratutto su dati aperti, strumenti per elaborarli, Linked Open Data, analisi e trasformazione di dati"><b>Tansignari</b></a> | Uno spazio per mettere a fattore comune scambi di conoscenza/esperienza sopratutto su dati aperti, strumenti per elaborarli, Linked Open Data, analisi e trasformazione di dati</p>
-									<p><a href="https://opendatasicilia.github.io/palermomeltingpot/" Title="Palermo Melting Pot | 2020"><b>Palermo Melting Pot 2020</b></a> | Da dove arrivano, quanti sono, chi sono e dove vivono gli stranieri residenti nel Comune di Palermo ?</p>
-									<p><a href="https://fontanelle.ondata.it/mappa/#13/38.1375/13.3475" Title="Fontanelle a Palermo acqua pubblica"><b>Fontanelle a Palermo</b></a> | "Le fontanelle sono lontane!". Abbiamo realizzata la mappa delle aree da cui si raggiungono a piedi in 5 minuti (no scuse).</p>
-									<p> <a href="https://opendatasicilia.github.io/OpenDataSicilia-per-il-Coronavirus/" Title="Progetti OpenDataSicilia per il #Coronavirus"><b>OpenDataSicilia per il #Coronavirus</b></a> </p>
-															
-							<!--		<footer>
-										<a href="#third" class="button scrolly">Accumsan nisi tempor</a>
-									</footer> -->
-								</section>
-							</div>
-							<div class="col-8 col-12-narrow">
-								<div class="row">
-									<div class="col-6"><a href="https://palermohub.opendatasicilia.it/" Title="palermohub.opendatasicilia" class="image fit gray"><img src="{{ config.site_url}}assets/img/Palermohub_100.webp" Title="palermohub.opendatasicilia" alt="palermohub.opendatasicilia" /></a></div>
-									<div class="col-6"><a href="http://hfcqgis.opendatasicilia.it/" Title="Help funzioni calcolatore di campi di QGIS"  class="image fit gray"><img src="{{ config.site_url}}assets/img/hfc_social.png"  Title="Help funzioni calcolatore di campi di QGIS" alt="Help funzioni calcolatore di campi di QGIS" /></a></div>
-									<div class="col-6"><a href="https://tansignari.opendatasicilia.it/" Title="Uno spazio per mettere a fattore comune scambi di conoscenza/esperienza sopratutto su dati aperti, strumenti per elaborarli, Linked Open Data, analisi e trasformazione di dati." class="image fit gray"><img src="{{ config.site_url}}assets/img/tansignari.jpg"  Title="Uno spazio per mettere a fattore comune scambi di conoscenza/esperienza sopratutto su dati aperti, strumenti per elaborarli, Linked Open Data, analisi e trasformazione di dati." alt="tansignari.opendatasicilia.it" /></a></div>			
-									<div class="col-6"><a href="https://opendatasicilia.github.io/palermomeltingpot/" class="image fit gray"><img src="{{ config.site_url}}assets/img/Palermo_World_Ukraine_clip.jpg"  Title="Palermo Melting Pot | 2020" alt="Palermo Melting Pot | 2020" /></a></div>
-									<div class="col-6"><a href="https://fontanelle.ondata.it/mappa/#13/38.1375/13.3475" Title="Fontanelle a Palermo, un progetto per scoprire quelle di acqua potabile - Rielaborazione dati OpenDataSicilia.it e Associazione onData.it" class="image fit gray"><img src="{{ config.site_url}}assets/img/fontanelle.jpg"  Title="Fontanelle a Palermo, un progetto per scoprire quelle di acqua potabile - Rielaborazione dati OpenDataSicilia.it e Associazione onData.it" alt="Fontanelle Palermo" /></a></div>
-									<div class="col-6"><a href="https://opendatasicilia.github.io/OpenDataSicilia-per-il-Coronavirus/" Title="Progetti OpenDataSicilia per il #Coronavirus" class="image fit gray gray"><img src="{{ config.site_url}}assets/img/card_sicilia.png"  Title="Progetti OpenDataSicilia per il #Coronavirus" alt="Coronavirus" /></a></div>
-								</div>
-							</div>
-						</div>
+					<div class="col-lg-5 wrap-about py-md-5 "> 
+	          <div class="heading-section pr-md-5">
+	            <h2 class="mb-4">Cose&Robe</h2>
+
+	            <p>Cose&Robe è un sito amatoriale realizzato con molta passione, sacrificio e senza alcun intento commerciale, l’unica finalità è esplorare le possibilità di rielaborazione e comunicazione offerte dagli open data o dati pubblici, perché,</p>
+	            <p>"Quando i dati sono disponibili (open, machine readable e con la licenza giusta) ciascuno di noi può dare libero sfogo alle proprie competenze e alla propria fantasia per far parlare quei dati al meglio, scegliendo o creando la rappresentazione che ritiene più efficace per evidenziare quelli che si ritengono gli aspetti salienti." (cit. Nino Galante)</p>
+				<p>Tutto il materiale da me rielaborato e pubblicato in questo blog può essere clonato ed adattato liberamente ai propri scopi, con licenza <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.it/" Title="CC BY 4.0"> CC BY 4.0</a> – Attribuzione – Condividi allo stesso modo 4.0 Internazionale, tranne diversa indicazione. </p>
+	          </div>
 					</div>
 				</div>
-			</section>
+			</div>
+		</section>
 
 
+
+<!-- Progetti -->
+    <section class="ftco-section ftco-portfolio">
+    	<div class="row justify-content-center no-gutters">
+        <div class="col-md-10 heading-section text-center  mb-5">
+        	<span class="subheading">Proggetti OpenDataSicilia</span>
+          <p class="mb-2">Da quando faccio parte della community di <a href="https://opendatasicilia.it/" Title="Open Data Sicilia">OpenDataSicilia</a> la mia cresita personale e professionale è stata esponenziele 😀 <br> Crescita personale perché ho incontrato persone che mi hanno trasmesso l’amore e la passione per gli open data, crescita proffesionale perché ho sviluppato esperienze, compentenze (skills) e conoscenze nella gestione di software e dati che mai avrei pensato di avere. <br>
+						Partecipare a progetti di pubblico interesse è il mio modo di mettere a disposizione di tutti, quello che mi è stato trasmesso.</p>
+        </div>
+      </div>
+
+<!-- PalermoHub -->
+    	<div class="container">
+    		<div class="row no-gutters">
+	  			<div class="col-md- portfolio-wrap">
+	  				<div class="row no-gutters align-items-center">
+	  					<div class="col-md-5 img js-fullheight" style="background-image: url({{ config.site_url}}assets/img/Palermohub_100.webp);">	
+	  					</div>
+	  					<div class="col-md-7">
+	  						<div class="text pt-5 pl-0 pl-lg-5 pl-md-4 ">
+	  							<div class="px-4 px-lg-4">
+	  								<div class="desc">
+		  								<div class="top">
+			  								<span class="subheading">{2017}</span>
+				  							<h2 class="mb-4"><a href="https://palermohub.opendatasicilia.it/" Title="PalermoHub">PalermoHub</a></h2>
+			  							</div>
+			  							<div class="absolute">
+				  							<p><a href="https://palermohub.opendatasicilia.it/" Title="PalermoHub">PalermoHub</a> | Un contenitore di mappe realizzate/rielaborate da liberi cittadini o da civic hackers prevalentemente sul territorio comunale di Palermo.</p>
+				  							<p><a href="https://palermohub.opendatasicilia.it/" Title="PalermoHub di opendatasicilia.it è un contenitore di mappe realizzate/rielaborate da liberi cittadini o da civic hackers prevalentemente sul territorio comunale di Palermo, non ha alcun intento commerciale, l’unica finalità è mostrare le possibilità di rielaborazione e comunicazione offerte dagli open data o dati pubblici comunali, regionali e nazionali." class="custom-btn">Visita il progetto</a></p>
+			  							</div>
+		  							</div>
+	  							</div>
+	  						</div>
+	  					</div>
+	  				</div>
+	  			</div>
+				
+<!--Fontanelle a Palermo -->
+	  			<div class="col-md-12 portfolio-wrap">
+	  				<div class="row no-gutters align-items-center">
+	  					<div class="col-md-5 order-md-last img js-fullheight" style="background-image: url({{ config.site_url}}assets/img/hfc_social.png);">
+	  					</div>
+	  					<div class="col-md-7">
+	  						<div class="text pt-5 pr-md-5 ">
+	  							<div class="px-4 px-lg-4">
+	  								<div class="desc text-md-right">
+		  								<div class="top">
+			  								<span class="subheading"> {2018}</span>
+				  							<h2 class="mb-4"><a href="http://hfcqgis.opendatasicilia.it/" Title="Help funzioni calcolatore di campi di QGIS">HfcQGIS</a></h2>
+			  							</div>
+			  							<div class="absolute">
+				  							<p><a href="http://hfcqgis.opendatasicilia.it/" Title="Help funzioni calcolatore di campi di QGIS">HfcQGIS</a> | Help funzioni calcolatore di campi di QGIS <br>Laguida nasce per rispondere alle numerose richieste di aiuto sull’uso del calcolatore di campi, a integrazione - con esempi e molti screenshot - della guida ufficiale di QGIS</p>
+				  							<p><a href="#" class="custom-btn">Visita il progetto</a></p>
+			  							</div>
+		  							</div>
+	  							</div>
+	  						</div>
+	  					</div>
+	  				</div>
+	  			</div>
+
+<!--Fontanelle a Palermo -->
+	  			<div class="col-md-12 portfolio-wrap">
+	  				<div class="row no-gutters align-items-center">
+	  					<div class="col-md-5 img js-fullheight" style="background-image: url({{ config.site_url}}assets/img/fontanelle.jpg);">				
+	  					</div>
+	  					<div class="col-md-7">
+	  						<div class="text pt-5 pl-md-5 pl-md-4 ">
+	  							<div class="px-4 px-lg-4">
+	  								<div class="desc">
+		  								<div class="top">
+			  								<span class="subheading">{2019}</span>
+				  							<h2 class="mb-4"><a  href="https://fontanelle.ondata.it/mappa/#13/38.1375/13.3475" Title="Fontanelle a Palermo acqua pubblica">Fontanelle a Palermo</a></h2>
+			  							</div>
+			  							<div class="absolute">
+				  						<p><a href="https://fontanelle.ondata.it/mappa/#13/38.1375/13.3475" Title="Fontanelle a Palermo acqua pubblica">Fontanelle a Palermo</a> | "Le fontanelle sono lontane!". Abbiamo realizzata la mappa delle aree da cui si raggiungono a piedi in 5 minuti (no scuse).</p>
+				  							<p><a href="https://fontanelle.ondata.it/mappa/#13/38.1375/13.3475" Title="Fontanelle a Palermo acqua pubblica" class="custom-btn">Visita il progetto</a></p>
+			  							</div>
+		  							</div>
+	  							</div>
+	  						</div>
+	  					</div>
+	  				</div>
+	  			</div>
+	  		</div>
+
+<!--Tansignari -->
+	  			<div class="col-md-12 portfolio-wrap">
+	  				<div class="row no-gutters align-items-center">
+	  					<div class="col-md-5 order-md-last img js-fullheight"" style="background-image: url({{ config.site_url}}assets/img/tansignari.jpg);">
+	  					</div>
+	  					<div class="col-md-7">
+	  						<div class="text pt-5 pr-md-5 ">
+	  							<div class="px-4 px-lg-4">
+	  								<div class="desc text-md-right">
+		  								<div class="top">
+			  								<span class="subheading">{2020}</span>
+				  							<h2 class="mb-4"><a href="https://tansignari.opendatasicilia.it/" Title="Uno spazio per mettere a fattore comune scambi di conoscenza/esperienza sopratutto su dati aperti, strumenti per elaborarli, Linked Open Data, analisi e trasformazione di dati">Tansignari</a></h2>
+			  							</div>
+			  							<div class="absolute">
+				  							<p><a href="https://tansignari.opendatasicilia.it/" Title="Uno spazio per mettere a fattore comune scambi di conoscenza/esperienza sopratutto su dati aperti, strumenti per elaborarli, Linked Open Data, analisi e trasformazione di dati">Tansignari</a> | Uno spazio per mettere a fattore comune scambi di conoscenza/esperienza sopratutto su dati aperti, strumenti per elaborarli, Linked Open Data, analisi e trasformazione di dati</p>
+				  							<p><a href="https://tansignari.opendatasicilia.it/" Title="Uno spazio per mettere a fattore comune scambi di conoscenza/esperienza sopratutto su dati aperti, strumenti per elaborarli, Linked Open Data, analisi e trasformazione di dati" class="custom-btn">Visita il progetto</a></p>
+			  							</div>
+		  							</div>
+	  							</div>
+	  						</div>
+	  					</div>
+	  				</div>
+	  			</div>
+				
+<!--Palermo Melting Pot -->
+	  			<div class="col-md-12 portfolio-wrap">
+	  				<div class="row no-gutters align-items-center">
+	  					<div class="col-md-5 img js-fullheight" style="background-image: url({{ config.site_url}}assets/img/Palermo_World_Ukraine_clip.jpg);">
+	  					</div>
+	  					<div class="col-md-7">
+	  						<div class="text pt-5 pl-md-5 pl-md-4 ">
+	  							<div class="px-4 px-lg-4">
+	  								<div class="desc">
+		  								<div class="top">
+			  								<span class="subheading">{2021}</span>
+				  							<h2 class="mb-4"><a href="https://opendatasicilia.github.io/palermomeltingpot/" Title="Palermo Melting Pot | 2020">Palermo Melting Pot</a></h2>
+			  							</div>
+			  							<div class="absolute">
+				  							<p><a href="https://opendatasicilia.github.io/palermomeltingpot/" Title="Palermo Melting Pot | 2020">Palermo Melting Pot 2020</a> | Da dove arrivano, quanti sono, chi sono e dove vivono gli stranieri residenti nel Comune di Palermo ?</p>
+				  							<p><a href="https://opendatasicilia.github.io/palermomeltingpot/" Title="Palermo Melting Pot | 2020" class="custom-btn">Visita il progetto</a></p>
+			  							</div>
+		  							</div>
+	  							</div>
+	  						</div>
+	  					</div>
+	  				</div>
+	  			</div>
+				
+<!--Tansignari -->
+	  			<div class="col-md-12 portfolio-wrap">
+	  				<div class="row no-gutters align-items-center">
+	  					<div class="col-md-5 order-md-last img js-fullheight"" style="background-image: url({{ config.site_url}}assets/img/card_sicilia.png);">
+	  					</div>
+	  					<div class="col-md-7">
+	  						<div class="text pt-5 pr-md-5 ">
+	  							<div class="px-4 px-lg-4">
+	  								<div class="desc text-md-right">
+		  								<div class="top">
+			  								<span class="subheading">{2021}</span>
+				  							<h2 class="mb-4"><a href="https://opendatasicilia.github.io/OpenDataSicilia-per-il-Coronavirus/" Title="Progetti OpenDataSicilia per il #Coronavirus">COVID-19</a></h2>
+			  							</div>
+			  							<div class="absolute">
+				  						<p> <a href="https://opendatasicilia.github.io/OpenDataSicilia-per-il-Coronavirus/" Title="Progetti OpenDataSicilia per il #Coronavirus">Progetti OpenDataSicilia per il #Coronavirus</a> </p>
+				  							<p><a href="https://opendatasicilia.github.io/OpenDataSicilia-per-il-Coronavirus/" Title="Progetti OpenDataSicilia per il #Coronavirus" class="custom-btn">Visita il progetto</a></p>
+			  							</div>
+		  							</div>
+	  							</div>
+	  						</div>
+	  					</div>
+	  				</div>
+	  			</div>
+
+		</div>
+    </section>
+
+<!--- Blog e guide consigliate -->
+    <section class="ftco-section testimony-section bg-light">
+      <div class="container">
+        <div class="row justify-content-center mb-5">
+         <div class="col-md-10 heading-section text-center  mb-5">
+          	<span class="subheading">Blog e guide consigliate</span>
+            <p class="mb-2">Se sei interessato ad approfondire il mondo dell'OpenData e vuoi imparare a utilizzare QGIS e la riga di comando per analizzare i dati, ecco alcuni blog e siti che ti consiglio di visitare. Queste risorse offrono tutorial, guide e consigli utili per ampliare le tue conoscenze e sfruttare al meglio le opportunità offerte da queste aree.</p>
+          </div>
+        </div>
+        <div class="row ">
+          <div class="col-md-12">
+            <div class="carousel-testimony owl-carousel">
+              <div class="item">
+                <div class="testimony-wrap py-4">
+                  <div class="text">
+                  	<span class="fa fa-quote-left"></span>
+                    <p class="mb-4">Blog curato dal divulgatore <a href="https://twitter.com/totofiandaca" Title="Totò Fiandaca">Totò Fiandaca</a> dove scrive e parla di QGIS, Qfield, GitHub, SpatiaLite, GRASS GIS, PostegreSQL/PostGIS, OSGeo4W, GDAL/OGR,  SAGA GIS,  ed altri FOSS. Ama usare, nella professione e non solo, software OS.</p>
+                    <div class="d-flex align-items-center">
+                    	<a href="https://pigrecoinfinito.com/" Title="Pigrecoinfinito" target"_blank" >
+						<div class="user-img" style="background-image: url({{ config.site_url}}assets/img/logopigreco.png);height: 110px!important; width: 100px!important; "></div></a>
+                    	<div class="pl-3">
+						<p class="name"><a href="https://pigrecoinfinito.com/" Title="Pigrecoinfinito" target"_blank">Pigrecoinfinito</a></p>
+		                    <span class="position">Blog</span>
+		                  </div>
+	                  </div>
+                  </div>
+                </div>
+              </div>
+              <div class="item">
+                <div class="testimony-wrap py-4">
+                  <div class="text">
+                  	<span class="fa fa-quote-left"></span>
+                    <p class="mb-4"><a href="https://www.datibenecomune.it/" Title="Dati Bene Comune" target"_blank">#DatiBeneComune</a> è una campagna nata nel novembre 2020 per chiedere al Governo italiano di pubblicare in maniera aperta i dati sulla gestione della pandemia di COVID-19. Oggi dati aperti sui principali temi di interesse, a partire dai dati sul PNRR.</p>
+                    <div class="d-flex align-items-center">
+					<a href="https://www.datibenecomune.it/" Title="Dati Bene Comune" target"_blank">
+                    	<div class="user-img" style="background-image: url({{ config.site_url}}assets/img/dbc.png);height: 110px!important; width: 100px!important;"></div></a>
+                    	<div class="pl-3">
+		                    <p class="name"><a href="https://www.datibenecomune.it/" Title="Dati Bene Comune" target"_blank">Dati Bene Comune</a></p>
+		                    <span class="position">Blog</span>
+		                  </div>
+	                  </div>
+                  </div>
+                </div>
+              </div>
+              <div class="item">
+                <div class="testimony-wrap py-4">
+                  <div class="text">
+                  	<span class="fa fa-quote-left"></span>
+                    <p class="mb-4">Appunti del divulgatore <a href="https://twitter.com/aborruso" Title="Andrea Borruso">Andrea Borruso</a>. <br>La <a href="https://arigadicomando.it/" Title="Dati Bene Comune">  riga di comando</a> (la CLI) ha reso facile e comode tante delle cose che faccio con il PC. Allora ho voluto dedicargli uno spazio, sia per farne conoscere i pregi a chi ancora li ignora o sfrutta poco, sia per <b>mettere a fattor comune alcuni dei suoi appunti.</b></p>
+                    <div class="d-flex align-items-center">
+					<a href="https://arigadicomando.it/" Title="a riga di comando"target"_blank"  >
+                    	<div class="user-img" style="background-image: url({{ config.site_url}}assets/img/terminal.svg);height: 110px!important; width: 100px!important;"></div></a>
+                    	<div class="pl-3">
+		                    <p class="name"><a href="https://arigadicomando.it/" Title="a riga di comando" target"_blank">a riga di comando</a></p>
+		                    <span class="position">Documentation</span>
+		                  </div>
+	                  </div>
+                  </div>
+                </div>
+              </div>
+              <div class="item">
+                <div class="testimony-wrap py-4">
+                  <div class="text">
+                  	<span class="fa fa-quote-left"></span>
+                    <p class="mb-4">Guida del divulgatore <a href="https://twitter.com/aborruso" Title="Andrea Borruso" target"_blank">Andrea Borruso</a>. Questo progetto nasce per creare una guida per la pubblicazione sul web di dati in formato CSV. È un formato di testo strutturato, che può avere una riga di intestazione, in cui i valori di ogni colonna sono distinti con un separatore (,).</p>
+                    <div class="d-flex align-items-center">
+					<a href="https://ondata.github.io/guidaPraticaPubblicazioneCSV/" Title="Guida per la pubblicazione di CSV" >
+                    	<div class="user-img" style="background-image: url({{ config.site_url}}assets/img/table.svg);height: 110px!important; width: 100px!important;"></div></a>
+                    	<div class="pl-3">
+		                    <p class="name"><a href="https://ondata.github.io/guidaPraticaPubblicazioneCSV/" Title="Guida per la pubblicazione di CSV" target"_blank">Pubblicazione di CSV</a></p>
+		                    <span class="position">Documentation</span>
+		                  </div>
+	                  </div>
+                  </div>
+                </div>
+              </div>
+			                <div class="item">
+                <div class="testimony-wrap py-4">
+                  <div class="text">
+                  	<span class="fa fa-quote-left"></span>
+                    <p class="mb-4">Blog del divulgatore <a href="https://aborruso.github.io/posts/duckdb-intro-csv/" Title="Andrea Borruso" target"_blank">Andrea Borruso</a>. <br>Il formato CSV è uno dei formati più diffusi per lo <b>scambio di dati.</b> È un formato <b>testuale</b>, che può essere letto e scritto da quasi tutti i linguaggi di programmazione e da quasi tutti gli strumenti di analisi dati (i “quasi” si potrebbero levare).</p>
+                    <div class="d-flex align-items-center">
+					<a href="https://aborruso.github.io/posts/duckdb-intro-csv/" Title="Gestire file CSV grandi, brutti e cattivi" target"_blank">
+                    	<div class="user-img" style="background-image: url({{ config.site_url}}assets/img/csv.svg);height: 110px!important; width: 100px!important;"></div></a>
+                    	<div class="pl-3">
+		                    <p class="name"><a href="https://aborruso.github.io/posts/duckdb-intro-csv/" Title="Gestire file CSV grandi, brutti e cattivi" target"_blank">Gestire file CSV grandi</a></p>
+		                    <span class="position">Documentation</span>
+		                  </div>
+	                  </div>
+                  </div>
+                </div>
+              </div>
+              <div class="item">
+                <div class="testimony-wrap py-4">
+                  <div class="text">
+                  	<span class="fa fa-quote-left"></span>
+                    <p class="mb-4">OpenDataSicilia e’ una iniziativa civica, di un gruppo di cittadini con diverse storie, competenze, professioni, che si propone di far conoscere e diffondere la cultura dell’open government e le prassi dell’open data nel nostro territorio e aprire una discussione pubblica partecipata.</p>
+                    <div class="d-flex align-items-center">
+					<a href="https://opendatasicilia.it/" Title="Open Data Sicilia" target"_blank">
+                    	<div class="user-img" style="background-image: url({{ config.site_url}}assets/img/ods.png);height: 110px!important; width: 100px!important;"></div></a>
+                    	<div class="pl-3">
+		                    <p class="name"><a href="https://opendatasicilia.it/" Title="Open Data Sicilia" target"_blank">OpenDataSicilia</a></p>
+		                    <span class="position">Blog</span>
+		                  </div>
+	                  </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+<!-- Mappe più consultate -->
+    <section class="ftco-section">
+      <div class="container">
+        <div class="row justify-content-center mb-5">
+          <div class="col-md-10 heading-section text-center  mb-5">
+          	<span class="subheading">Mappe più consultate</span>
+          <p class="mb-2">Tutte le mappe realizzate si trovano su <a href="https://palermohub.opendatasicilia.it/" target="_blank" Title="PalermoHub">PalermoHub</a> | Un contenitore di mappe realizzate/rielaborate da liberi cittadini o da civic hackers prevalentemente sul territorio comunale di Palermo.</p> </p>
+          </div>
+        </div>
+        <div class="row">
+    			<div class="col-md-4 ">
+	          <div class="block-7">
+			  <div  Title="Mappa dei progetti Teca digitale, immagini storiche che il Sistema Bibliotecario Cittadino di Palermo ha reso disponibile online sul social network flickr, tutte pubblicate con una licenza aperta CC BY-SA 4.0 che ne consente il riuso - Rielaborazione dati OpenDataSicilia" class="img" style="background-image: url({{ config.site_url}}assets/img/teca_digitale_01.jpg)"></div> 
+	          <div class="d-lg-flex align-items-center w-100 bg-light py-2 px-4">
+				<p class="w-100 mb-0">			
+				<a href"http://palermohub.opendatasicilia.it/teca_digitale.html#15/38.1203/13.3651" target="_blank" Title="Mappa dei progettiTeca digitale, immagini storiche che il Sistema Bibliotecario Cittadino di Palermo ha reso disponibile online sulsocialnetwork flickr, tutte pubblicate con una licenza aperta CC BY-SA 4.0 che ne consente il riuso - Rielaborazione dati OpenDataSicilia" class="btn btn-primary d-block px-2 py-3">Viaggio nel tempo</a>									
+			          </p>
+			        </div>
+            </div>
+	        </div>
+	        <div class="col-md-4 ">
+	          <div class="block-7">
+	          	<div Title="Palermo hub - Strumenti urbanistici di attuazione - Vigenti al 2016 - Rielabolazione Opendata" class="img" style="background-image: url({{ config.site_url}}assets/img/variante_prg.jpg);"></div>
+		          <div class="d-lg-flex align-items-center w-100 bg-light py-2 px-4">
+								<p class="w-100 mb-0">
+			            <a href="https://palermohub.opendatasicilia.it/index_prg.html#14/38.1185/13.3595" Title="Palermo hub - Strumenti urbanistici di attuazione - Vigenti al 2016 - Rielabolazione Opendata" target="_blank" class="btn btn-primary d-block px-2 py-3">Variante Generale PRG</a>
+			          </p>
+			        </div>
+            </div>
+	        </div>
 			
-		<!-- Siti Consigliati -->
-			<section id="first" class="main">
-				<header>
-					<div class="container">
-	<h2>Blog e guide consigliate</h2>
-	<p>Se sei interessato ad approfondire il mondo dell'OpenData e vuoi imparare a utilizzare QGIS e la riga di comando per analizzare i dati, ecco alcuni blog e siti che ti consiglio di visitare. Queste risorse offrono tutorial, guide e consigli utili per ampliare le tue conoscenze e sfruttare al meglio le opportunità offerte da queste aree.</p>
-					</div>
-				</header>
-				<div class="content dark featured">
-					<div class="container">
-						<div class="row"> 
-							<div class="col-4 col-12-narrow">
-								<section>
-								<a href="https://opendatasicilia.it/" Title="Open Data Sicilia"><img src="{{ config.site_url}}assets/img/ods.png"  class="resized33 immagonobox" Title="Open Data Sicilia" alt="Open Data Sicilia" /></a>
-									<header>
-										<h3>OpenDataSicilia</h3>
-									</header>
-									<p><a href="https://opendatasicilia.it/" Title="Open Data Sicilia">#opendatasicilia</a> e’ una iniziativa civica, di un gruppo di cittadini con diverse storie, competenze, professioni, che si propone di far conoscere e diffondere la cultura dell’open government e le prassi dell’open data nel nostro territorio e aprire una discussione pubblica partecipata.</p>
-								</section>
-							</div> 
-							<div class="col-4 col-12-narrow">
-								<section>
-								<a href="https://pigrecoinfinito.com/" Title="Pigrecoinfinito "><img src="{{ config.site_url}}assets/img/logopigreco.png"  class="resized33 immagonobox" Title="Pigrecoinfinito " alt="Pigrecoinfinito " /></a>
-									<header>
-										<h3>Pigrecoinfinito </h3> 
-									</header>
-									<p>Blog curato dal divulgatore <a href="https://twitter.com/totofiandaca" Title="Totò Fiandaca">Totò Fiandaca</a> dove scrive e parla di QGIS, Qfield, GitHub, SpatiaLite, GRASS GIS, PostegreSQL/PostGIS, OSGeo4W, GDAL/OGR,  SAGA GIS,  ed altri FOSS. Ama usare, nella professione e non solo, software OS.</p>
-								</section>
-							</div>
-							<div class="col-4 col-12-narrow">
-								<section>
-										<a href="https://www.datibenecomune.it/" Title="Dati Bene Comune"><img src="{{ config.site_url}}assets/img/dbc.png"  class="resized33 immagonobox" Title="Dati Bene Comune" alt="Dati Bene Comune" /></a>
-									<header>
-										<h3>Dati Bene Comune</h3> 
-									</header>
-									<p><a href="https://www.datibenecomune.it/" Title="Dati Bene Comune">#DatiBeneComune</a> è una campagna nata nel novembre 2020 per chiedere al Governo italiano di pubblicare in maniera aperta i dati sulla gestione della pandemia di COVID-19. Oggi dati aperti sui principali temi di interesse, a partire dai dati sul PNRR.</p>
-								</section>
-							</div>
-							<div class="col-4 col-12-narrow">
-								<section>
-										<a href="https://arigadicomando.it/" Title="a riga di comando"><img src="{{ config.site_url}}assets/img/terminal.svg"  class="resized33 immagonobox" Title="a riga di comando" alt="a riga di comando" /></a>
-									<header>
-										<h3>a riga di comando</h3> 
-									</header>
-									<p>Appunti del divulgatore <a href="https://twitter.com/aborruso" Title="Andrea Borruso">Andrea Borruso</a>. <br>La <a href="https://arigadicomando.it/" Title="Dati Bene Comune">  riga di comando</a> (la CLI) ha reso facile e comode tante delle cose che faccio con il PC. Allora ho voluto dedicargli uno spazio, sia per farne conoscere i pregi a chi ancora li ignora o sfrutta poco, sia per <b>mettere a fattor comune alcuni dei suoi appunti.</b></p>
-								</section>
-							</div>
-							<div class="col-4 col-12-narrow">
-								<section>
-										<a href="https://ondata.github.io/guidaPraticaPubblicazioneCSV/" Title="Guida per la pubblicazione di CSV"><img src="{{ config.site_url}}assets/img/table.svg"  class="resized33 immagonobox" Title="Guida per la pubblicazione di CSV" alt="Guida per la pubblicazione di CSV" /></a>
-									<header>
-										<h3>La pubblicazione di CSV</h3> 
-									</header>
-									<p>Guida del divulgatore <a href="https://twitter.com/aborruso" Title="Andrea Borruso">Andrea Borruso</a>. <br>Questo progetto nasce per creare una <b>guida</b> per la <b>pubblicazione</b> sul web di <b>dati</b> in <b>formato CSV</b> (Comma Separated Values). È un formato di testo strutturato, che può avere una riga di intestazione, in cui i valori di ogni colonna sono distinti con un separatore (di solito è la ,).</p>
-								</section>
-							</div>
-							<div class="col-4 col-12-narrow">
-								<section>
-										<a href="https://aborruso.github.io/posts/duckdb-intro-csv/" Title="Gestire file CSV grandi, brutti e cattivi"><img src="{{ config.site_url}}assets/img/csv.svg"  class="resized33 immagonobox" Title="Gestire file CSV grandi, brutti e cattivi" alt="Gestire file CSV grandi, brutti e cattivi" /></a>
-									<header>
-										<h3>Gestire file CSV grandi</h3> 
-									</header>
-									<p>Blog del divulgatore <a href="https://aborruso.github.io/posts/duckdb-intro-csv/" Title="Andrea Borruso">Andrea Borruso</a>. <br>Il formato CSV è uno dei formati più diffusi per lo <b>scambio di dati.</b> È un formato <b>testuale</b>, che può essere letto e scritto da quasi tutti i linguaggi di programmazione e da quasi tutti gli strumenti di analisi dati (i “quasi” si potrebbero levare).</p>
-								</section>
-							</div>
-							</div>
-						</div>
-					</div>
-				</div>	
-			</section>		
-		<!-- Footer 
-		<section id="footer" class="main" >
-		<header><div class="container">
-			<div class="copyright	2">
-					<ul class="menu md-copyright  ">
-						<li><em><b>cose&robe</b> è un&#39;idea di <a href="https://twitter.com/gbvitrano" target="_blank">Giovan Battista Vitrano</a> | <a href="https://coseerobe.it/tags/" title="Tags" target="_parent">Tags</a> | <a href="https://coseerobe.it/privacy/" title="Informativa privacy estesa" target="_parent">Privacy</a>
- <br> Tutti i contenuti sono in licenza <a href="https://creativecommons.org/licenses/by/4.0/deed.it" target="_blank">CC BY 4.0</a> tranne diversa indicazione. <br> Disclaimer: Questo è un blog amatoriale che non supporta finalità commerciali. <br>This is an amateur blog that does not support commercial purposes.<br>Made with <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank"><b>Material for MkDocs</b></a> </em>
-  </li>
-  </ul>
-				</div>
-				</div>
-				</header>
-			</section>			-->
+	        <div class="col-md-4 ">
+	          <div class="block-7">
+	          	<div Title="Mappa delle Pericolosità e del Rischio Geomorfologico - Piano Stralcio di Bacino per l&lsquo;Assetto Idrogeologico (P.A.I.) Regione Sicilia - Palermo, su base opendata"  class="img" style="background-image: url({{ config.site_url}}assets/img/pai_pa.jpg);"></div>
+	           <div class="d-lg-flex align-items-center w-100 bg-light py-2 px-4">
+				<p class="w-100 mb-0">
+			     <a href="https://palermohub.opendatasicilia.it/index_pai.html#13/38.1504/13.3105" Title="Mappa delle Pericolosità e del Rischio Geomorfologico - Piano Stralcio di Bacino per l&lsquo;Assetto Idrogeologico (P.A.I.) Regione Sicilia - Palermo, su base opendata" target="_blank" class="btn btn-primary d-block px-2 py-3">Assetto Idrogeologico</a>
+			          </p>
+			        </div>
+	          </div>
+	        </div>
+			
+		        <div class="col-md-4 ">
+	          <div class="block-7">
+	          	<div Title="Italia | Incendi attivi VIIRS 375m / S-NPP"  class="img" style="background-image: url({{ config.site_url}}assets/img/incendi_attivi.jpg);"></div>
+	           <div class="d-lg-flex align-items-center w-100 bg-light py-2 px-4">
+				<p class="w-100 mb-0">
+			     <a href="https://palermohub.opendatasicilia.it/nasa_firms.html" Title="Italia | Incendi attivi VIIRS 375m / S-NPP" target="_blank" class="btn btn-primary d-block px-2 py-3">Incendi attivi VIIRS 375m</a>
+			          </p>
+			        </div>
+	          </div>
+	        </div>
+			
+					        <div class="col-md-4 ">
+	          <div class="block-7">
+	          	<div Title="The next map"  class="img" style="background-image: url({{ config.site_url}}assets/img/next.jpg);"></div>
+	           <div class="d-lg-flex align-items-center w-100 bg-light py-2 px-4">
+				<p class="w-100 mb-0">
+			     <a href="#" Title="The next map" target="_blank" class="btn btn-primary d-block px-2 py-3">The next map</a>
+			          </p>
+			        </div>
+	          </div>
+	        </div>
+			
+								        <div class="col-md-4 ">
+	          <div class="block-7">
+	          	<div Title="The next map"  class="img" style="background-image: url({{ config.site_url}}assets/img/next.jpg);"></div>
+	           <div class="d-lg-flex align-items-center w-100 bg-light py-2 px-4">
+				<p class="w-100 mb-0">
+			     <a href="#" Title="The next map" target="_blank" class="btn btn-primary d-block px-2 py-3">The next map</a>
+			          </p>
+			        </div>
+	          </div>
+	        </div>
+			
+			
+	      </div>
+      </div>   
+    </section>
+	
+  
+
+  <!-- loader -->
+  <div id="ftco-loader" class="show fullscreen"><svg class="circular" width="48px" height="48px"><circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee"/><circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10" stroke="#F96D00"/></svg></div>
+
+
+  <script src="{{ config.site_url}}assets/javascripts/home/jquery.min.js"></script>
+  <script src="{{ config.site_url}}assets/javascripts/home/jquery-migrate-3.0.1.min.js"></script>
+  <script src="{{ config.site_url}}assets/javascripts/home/popper.min.js"></script>
+  <script src="{{ config.site_url}}assets/javascripts/home/bootstrap.min.js"></script>
+  <script src="{{ config.site_url}}assets/javascripts/home/jquery.easing.1.3.js"></script>
+  <script src="{{ config.site_url}}assets/javascripts/home/jquery.waypoints.min.js"></script>
+  <script src="{{ config.site_url}}assets/javascripts/home/jquery.stellar.min.js"></script>
+  <script src="{{ config.site_url}}assets/javascripts/home/owl.carousel.min.js"></script>
+  <script src="{{ config.site_url}}assets/javascripts/home/jquery.magnific-popup.min.js"></script>
+  <script src="{{ config.site_url}}assets/javascripts/home/jquery.animateNumber.min.js"></script>
+  <script src="{{ config.site_url}}assets/javascripts/home/scrollax.min.js"></script>
+  <script src="{{ config.site_url}}assets/javascripts/home/main.js"></script>
+    
+
 {% endblock %}
 
 {% block content %}{% endblock %}
-{% block footer %} {% endblock %}
+{% block footer %} 
+{% include "partials/footer.html" %}
+{% endblock %}

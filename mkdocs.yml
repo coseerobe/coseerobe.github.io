@@ -79,7 +79,7 @@ theme:
     - navigation.footer
 
   font:
-    text: Roboto
+    text: Nunito
     code: Fira Code
   custom_dir: 'docs/assets/overrides'
   static_templates:
