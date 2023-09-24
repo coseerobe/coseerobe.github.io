@@ -7216,19 +7216,19 @@ button.bg-dark:focus {
   .mx-md-4 {
     margin-left: 1.5rem !important; }
   .m-md-5 {
-    margin: 3rem !important; }
+    margin: 1.5rem !important; }
   .mt-md-5,
   .my-md-5 {
-    margin-top: 3rem !important; }
+    margin-top: 1.5rem !important; }
   .mr-md-5,
   .mx-md-5 {
-    margin-right: 3rem !important; }
+    margin-right: 1.5rem !important; }
   .mb-md-5,
   .my-md-5 {
-    margin-bottom: 3rem !important; }
+    margin-bottom: 1.5rem !important; }
   .ml-md-5,
   .mx-md-5 {
-    margin-left: 3rem !important; }
+    margin-left: 1.5rem !important; }
   .p-md-0 {
     padding: 0 !important; }
   .pt-md-0,
@@ -7303,16 +7303,16 @@ button.bg-dark:focus {
     padding: 3rem !important; }
   .pt-md-5,
   .py-md-5 {
-    padding-top: 3rem !important; }
+    padding-top: 1.5rem !important; }
   .pr-md-5,
   .px-md-5 {
-    padding-right: 3rem !important; }
+    padding-right: 1.5rem !important; }
   .pb-md-5,
   .py-md-5 {
-    padding-bottom: 3rem !important; }
+    padding-bottom: 1.5rem !important; }
   .pl-md-5,
   .px-md-5 {
-    padding-left: 3rem !important; }
+    padding-left: 1.5rem !important; }
   .m-md-n1 {
     margin: -0.25rem !important; }
   .mt-md-n1,
@@ -9096,7 +9096,7 @@ textarea.form-control {
     background-repeat: no-repeat;
     background-position: center center;
     height: 280px!important;
-	max-width: 450px!important;
+	max-width: 472px!important;
     box-shadow: 0 1px 2.5px rgba(0,0,0,0.65);
     border-radius: 5px;
     moz-border-radius: 5px;
@@ -9162,7 +9162,7 @@ textarea.form-control {
         position: relative; }
         .portfolio-wrap .text .desc .top:after {
           position: absolute;
-          top: 25px;
+          top: 30px;
           left: -140px;
           content: '';
           width: 140px;
@@ -9178,7 +9178,8 @@ textarea.form-control {
             display: none; } }
       .portfolio-wrap .text .desc.text-md-right .top:after {
         right: -140px;
-        margin: 0 0 0 auto; }
+        margin: 0 0 0 auto;
+        z-index:1;		}
       .portfolio-wrap .text .desc:hover .top:after {
         width: 200px; }
 
