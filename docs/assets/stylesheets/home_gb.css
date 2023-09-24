@@ -8868,7 +8868,9 @@ textarea.form-control {
 
 .ftco-animate {
   opacity: 0;
-  visibility: hidden; }
+  visibility: hidden; 
+  max-height: 120px;
+  }
 
 .media-custom {
   background: #fff; }
