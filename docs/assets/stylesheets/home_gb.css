@@ -6644,23 +6644,23 @@ button.bg-dark:focus {
   margin-left: 1.5rem !important; }
 
 .m-5 {
-  margin: 3rem !important; }
+  margin: 1.5rem !important; }
 
 .mt-5,
 .my-5 {
-  margin-top: 3rem !important; }
+  margin-top: 1.5rem !important; }
 
 .mr-5,
 .mx-5 {
-  margin-right: 3rem !important; }
+  margin-right: 1.5rem !important; }
 
 .mb-5,
 .my-5 {
-  margin-bottom: 3rem !important; }
+  margin-bottom: 1.5rem !important; }
 
 .ml-5,
 .mx-5 {
-  margin-left: 3rem !important; }
+  margin-left: 1.5rem !important; }
 
 .p-0 {
   padding: 0 !important; }
@@ -6762,19 +6762,19 @@ button.bg-dark:focus {
 
 .pt-5,
 .py-5 {
-  padding-top: 3rem !important; }
+  padding-top: 1.5rem !important; }
 
 .pr-5,
 .px-5 {
-  padding-right: 3rem !important; }
+  padding-right: 1.5rem !important; }
 
 .pb-5,
 .py-5 {
-  padding-bottom: 3rem !important; }
+  padding-bottom: 1.5rem !important; }
 
 .pl-5,
 .px-5 {
-  padding-left: 3rem !important; }
+  padding-left: 1.5rem !important; }
 
 .m-n1 {
   margin: -0.25rem !important; }
@@ -9089,19 +9089,39 @@ textarea.form-control {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center; height: 720px!important;
-    width: 600px!important;}
+    width: 600px!important; box-shadow: 0 1px 2.5px rgba(0,0,0,0.65);	border-radius: 5px;	moz-border-radius: 5px; -webkit-border-radius: 5px;	border: 1px solid #fefefe;	padding: 1px;background-color: #fff; width: 100%; margin-left: auto; margin-right: auto; aspect-ratio: auto;}
+	
+.img_link {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 280px!important;
+	max-width: 450px!important;
+    box-shadow: 0 1px 2.5px rgba(0,0,0,0.65);
+    border-radius: 5px;
+    moz-border-radius: 5px;
+    /* -webkit-border-radius: 5px; */
+    /* border: 1px solid #fefefe; */
+    /* padding: 1px; */
+    /* background-color: #fff; */
+
+    /* margin-left: auto; */
+    /* margin-right: auto; */
+    aspect-ratio: auto;
+}	
 
  @media screen and (max-width: 767.98px) { .img_gb {height: 720px!important;
     width: 100%!important;}} 
 	
-	
-	
+
 .img,
 .blog-img,
 .user-img {
   background-size: cover;
   background-repeat: no-repeat;
-  background-position: center center; height: 280px!important;}
+  background-position: center center; height: 280px!important;
+  box-shadow: 0 1px 2.5px rgba(0,0,0,0.65);	border-radius: 5px;	moz-border-radius: 5px; -webkit-border-radius: 5px;	border: 1px solid #fefefe;	padding: 1px;background-color: #fff; width: 100%; margin-left: auto; margin-right: auto; aspect-ratio: auto;
+   }
 
 .portfolio-wrap {
   display: block;
