@@ -13,13 +13,13 @@ tags:
   - Sicilia
 --- 
 <style>.md-typeset code { background-color: #fff0;}  </style>
-[![Carte IGM di tutta l’Italia on line](gpn_igm_palermo_01.webp "Visualizzatore - consultare le mappe disponibili presso il Ministero dell’Ambiente e della Tutela del Territorio e del Mare" ){class="crop gray"}](index.md) 
+[![Carte IGM di tutta l’Italia on line](gpn_igm_palermo_01.webp "Visualizzatore - consultare le mappe disponibili presso il Ministero dell’Ambiente e della Tutela del Territorio e del Mare" ){class="crop gray" align=right}](index.md) 
 
-Il Ministero dell’Ambiente ha messo a disposizione, gratuitamente, per tutti, tutta la cartografia ufficiale IGM al 25000, 100000 e 250000 e molte altre carte. Tutto questo sul **[Geoportale Nazionale](http://www.pcn.minambiente.it/)**, che contiene anche altri servizi interessanti, quali la trasformazione di coordinate.<!-- more --> 
+Il Ministero dell’Ambiente ha messo a disposizione, gratuitamente, per tutti, tutta la cartografia ufficiale IGM al 25000, 100000 e 250000 e molte altre carte. Tutto questo sul **[Geoportale Nazionale](http://www.pcn.minambiente.it/)**, che contiene anche altri servizi interessanti, quali la trasformazione di coordinate.
 
 Le carte sono sovrapponibili in trasparenza alle viste da satellite e sono navigabili con vari strumenti messi a disposizione.
 
-E’ possibile anche riprendere **[misure di lunghezze ed aree](http://www.pcn.minambiente.it/viewer/)**.
+E’ possibile anche riprendere **[misure di lunghezze ed aree](http://www.pcn.minambiente.it/viewer/)**.<!-- more --> 
 
 **Complessivamente, su tutto il territorio nazionale, sono disponibili le seguenti carte:**
 

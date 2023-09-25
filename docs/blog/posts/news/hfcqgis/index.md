@@ -12,16 +12,16 @@ tags:
   - Calcolatore di campi
 ---  
 <style>.md-typeset code { background-color: #fff0;}  </style>
-[![BHfcQGIS: Help funzioni calcolatore di campi di QGIS](hfc.webp "HfcQGIS: Help funzioni calcolatore di campi di QGIS" ){class="crop gray"}](index.md) 
+[![BHfcQGIS: Help funzioni calcolatore di campi di QGIS](hfc.webp "HfcQGIS: Help funzioni calcolatore di campi di QGIS" ){class="crop gray" align=left}](index.md) 
 
 ## Cos'è HfcQGIS?
 **[HfcQGIS](http://hfcqgis.opendatasicilia.it/it/latest/index.html)** è una guida/manuale che spiega come usare il **[calcolatore di campi](http://hfcqgis.opendatasicilia.it/it/latest/calcolatore_campi/index.html)** e le relative funzioni/espressioni di **#QGIS**, realizzato da **[Salvatore Fiandaca](https://pigrecoinfinito.wordpress.com/)** (aka _pigreco_, per gli amici _Totò_). Totò è un componente attivo della comunità **#QGIS** e nella sua infinita bontà, pazienza è sempre disponibile a spiegare, aiutare e risolvere tutti problemi che noi utenti neofiti incontriamo nell’uso di [QGIS.](https://qgis.org/it/site/)<!-- more -->
 
-Come spesso accade quando chiediamo aiuto/suggerimenti nei vari social/forum/blog, siamo molto pigri e non usiamo mai il tasto **CERCA ** (o se lo usiamo lo usiamo male),  _pretendiamo_ che ci venga data subito la soluzione al nostro _urgente problema,_ non pensando che la soluzione è già in quelle pagine o post, perchè già la stessa é stata data ad un’altro utente!
+Come spesso accade quando chiediamo aiuto/suggerimenti nei vari social/forum/blog, siamo molto pigri e non usiamo mai il tasto **CERCA** (o se lo usiamo lo usiamo male), _pretendiamo_ che ci venga data subito la soluzione al nostro _urgente problema,_ non pensando che la soluzione è già in quelle pagine o post, perchè già la stessa é stata data ad un’altro utente!
 
-Il mauale **[HfcQGIS](http://hfcqgis.opendatasicilia.it/it/latest/index.html)** nasce proprio per rispondere alle numerose richieste di aiuto sull’uso del **[calcolatore di campi](http://hfcqgis.opendatasicilia.it/it/latest/calcolatore_campi/index.html)** e per colmare un vuoto sulla [guida online di QGIS](https://qgis.org/it/docs/index.html), che giustamente non tratta, non può approfondire tutte le infinite possibilità date dallo strumento.
+Il mauale**[HfcQGIS](http://hfcqgis.opendatasicilia.it/it/latest/index.html)** nasce proprio per rispondere alle numerose richieste di aiuto sull’uso del **[calcolatore di campi](http://hfcqgis.opendatasicilia.it/it/latest/calcolatore_campi/index.html)** e per colmare un vuoto sulla [guida online di QGIS](https://qgis.org/it/docs/index.html), che giustamente non tratta, non può approfondire tutte le infinite possibilità date dallo strumento.
 
-La primissima versione di **[HfcQGIS](http://hfcqgis.opendatasicilia.it/it/latest/index.html)** è stata organizzata da **[Salvatore Fiandaca](https://pigrecoinfinito.wordpress.com/)** su [Github](https://github.com/pigreco/HfcQGIS/blob/master/README.md) qui il [link al blog pigrecoinfinito](https://pigrecoinfinito.wordpress.com/2018/05/21/hfcqgis/) dove Totò spiega il suo incredibile e meraviglioso lavoro reso a tutti noi utilizzatori di QGIS.
+La primissima versione di **[HfcQGIS](http://hfcqgis.opendatasicilia.it/it/latest/index.html)** è stata organizzata da**[Salvatore Fiandaca](https://pigrecoinfinito.wordpress.com/)** su [Github](https://github.com/pigreco/HfcQGIS/blob/master/README.md) qui il [link al blog pigrecoinfinito](https://pigrecoinfinito.wordpress.com/2018/05/21/hfcqgis/) dove Totò spiega il suo incredibile e meraviglioso lavoro reso a tutti noi utilizzatori di QGIS.
 
 ## HfcQGIS in Read the Docs (RTD) by @OpendataSicilia
 **[HfcQGIS](http://hfcqgis.opendatasicilia.it/it/latest/index.html)** in [Read the Docs](https://docs.readthedocs.io/en/latest/index.html#) nasce dalla collabborazione di un gruppetto di persone della comunità [@OpendataSicilia](http://opendatasicilia.it/) , in particolare da [Andrea Borruso](https://twitter.com/aborruso), [Totò Fiandaca](https://twitter.com/totofiandaca) e [Giovan Battista Vitrano.](https://twitter.com/gbvitrano)

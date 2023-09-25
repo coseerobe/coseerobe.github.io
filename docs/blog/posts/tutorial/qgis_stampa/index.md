@@ -15,15 +15,15 @@ tags:
   - Layer
 --- 
 <style>.md-typeset code { background-color: #fff0;}  </style>
-[![QGIS e la stampa in PDF layered (a strati)](pdflayered.webp "QGIS e la stampa in PDF layered (a strati)" ){class="crop gray"}](index.md)
+[![QGIS e la stampa in PDF layered (a strati)](pdflayered.webp "QGIS e la stampa in PDF layered (a strati)" ){class="crop gray" align=left}](index.md) 
 
 Come ottenere un file PDF multi livello dal compositore di stampe di QGIS?
 
-Fino ad oggi anche la versione 3.4.4 [QGIS](https://www.qgis.org/it/site/forusers/download.html) non crea livelli nei file pdf che vengono esportati, questo dipende, tra le altre cose, da tutte le proprietà del livello che rendono così grande [QGIS](https://www.qgis.org/it/site/forusers/download.html) per creare mappe e simboli eleganti. Non è semplice trasferire stili e colori trasparenti, nel formato pdf.
+Fino ad oggi anche la versione 3.4.4 [QGIS](https://www.qgis.org/it/site/forusers/download.html) non crea livelli nei file pdf che vengono esportati, questo dipende, tra le altre cose, da tutte le proprietà del livello che rendono così grande [QGIS](https://www.qgis.org/it/site/forusers/download.html) per creare mappe e simboli eleganti.Non è semplice trasferire stili e colori trasparenti, nel formato pdf.
 
-Ad oggi un metodo valido (probabilmente l’unico) è quello che [Totò Fiandaca](https://twitter.com/totofiandaca) spiega nel suo blog [pigrecoinfinito](https://pigrecoinfinito.wordpress.com/2016/10/01/qgis-e-la-stampa-in-pdf-layered-a-strati/), ideato nel 2015 da _magerlin_ e successivamente discusso [qui](http://gis.stackexchange.com/questions/7078/can-qgis-preserve-layers-when-exporting-to-pdf) gis.stackexchange.com. <!-- more --> Vi consiglio di leggerlo per capire in dettaglio la procedura,  io mi limiterò semplicemente a riprodurlo ed inserire una semplice variante.
+Ad oggi un metodo valido (probabilmente l’unico) è quello che [Totò Fiandaca](https://twitter.com/totofiandaca)  spiega nel suo blog [pigrecoinfinito](https://pigrecoinfinito.wordpress.com/2016/10/01/qgis-e-la-stampa-in-pdf-layered-a-strati/), <!-- more -->ideato nel 2015 da_magerlin_ e successivamente discusso [qui](http://gis.stackexchange.com/questions/7078/can-qgis-preserve-layers-when-exporting-to-pdf)gis.stackexchange.com. Vi consiglio di leggerlo per capire in dettaglio la procedura, io mi limiterò semplicemente a riprodurlo ed inserire una semplice variante.
 
-Il metodo è menzionato anche sul blog Svedese [geosupportsystem.se](https://geosupportsystem.se/2018/12/19/pdf-karta-med-lager/?fbclid=IwAR3_VmJ8qPbfdZqlDnfAwVazMVC4wm3YtwFamPEpsubHh-6GKsEHGJ5VzjM)  a conferma della bontà della procedura, qualora ce ne fosse bisogno.
+Il metodo è menzionato anche sul blog Svedese [geosupportsystem.se](https://geosupportsystem.se/2018/12/19/pdf-karta-med-lager/?fbclid=IwAR3_VmJ8qPbfdZqlDnfAwVazMVC4wm3YtwFamPEpsubHh-6GKsEHGJ5VzjM) a conferma della bontà della procedura, qualora ce ne fosse bisogno.
 
 La variante è dovuta al fatto che io sono un po distratto…e spesso qualche procedura, selezione o oggetto mi sfugge, soprattutto con layout complessi e ricchi di oggetti. In questi casi  devo fare il lavoro più volte 🙂 per non dimenticare, come dice il buon [Andrea Borruso](https://twitter.com/aborruso) cit. “_Questo post vale come nota personale, da rileggere quando mi servirà nuovamente_“
 

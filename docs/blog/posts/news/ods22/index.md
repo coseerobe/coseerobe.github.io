@@ -17,12 +17,12 @@ tags:
 .md-typeset code { background-color: #fff0;}  
 .md-typeset pre>code { background-color: #fff0;}  
 </style>
-[![Bandiere Blu 2023 Spiagge e Approdi](ods2022.webp "ODS2022, il nostro raduno del 2022 sarà a Catania!" ){class="crop gray"}](index.md) 
+[![Bandiere Blu 2023 Spiagge e Approdi](ods2022.webp "ODS2022, il nostro raduno del 2022 sarà a Catania!" ){class="crop gray" align=right}](index.md) 
 
 ## Che ci piaccia o meno, i dati sono ovunque.
-Raccogliamo e utilizziamo i dati ogni volta che guardiamo il nostro orologio fitness per vedere quanti passi abbiamo fatto. Ma non solo, i dati sono uno strumento importante per le pubbliche amministrazioni per prendere **decisioni** che hanno a che fare con la nostra vita di tutti i giorni. Ancora, sempre più aziende, al giorno d’oggi, usano dati di ogni natura per **scegliere** i candidati e le candidate per le loro posizioni di lavoro e i loro profili.<!-- more --> 
+Raccogliamo e utilizziamo i dati ogni volta che guardiamo il nostro orologio fitness per vedere quanti passi abbiamo fatto. Ma non solo, i dati sono uno strumento importante per le pubbliche amministrazioni per prendere **decisioni** che hanno a che fare con la nostra vita di tutti i giorni. Ancora, sempre più aziende, al giorno d’oggi, usano dati di ogni natura per **scegliere** i<!-- more --> candidati e le candidate per le loro posizioni di lavoro e i loro profili.
 
-È sempre più evidente che disporre di dati (soprattutto di qualità) costituisce una forma di detenzione del **potere**. Ecco perché il raduno Open Data Sicilia del 2022 ha come obiettivo quello di analizzare la **relazione che intercorre tra i dati e il potere**.
+È sempre più evidente che disporre di dati (soprattutto di qualità) costituisce una forma di detenzione del **potere**. Ecco perché il raduno Open Data Sicilia del 2022 ha come obiettivo quello di  analizzare la **relazione che intercorre tra i dati e il potere**.
 
 In che misura i dati pubblici veicolano il potere decisionale dell’attività politico-amministrativa? In che modo i dati aperti possono migliorare il rispetto del principio della **trasparenza** nell’intera filiera decisionale durante l’esercizio dell’attività politico-amministrativa? Quanto le policy che regolamentano i processi di erogazione di denaro pubblico promuovono la pubblicazione dei dati come **bene comune**? Quanto è vera l’equazione dati = potere? Quanto questa equazione può aiutare a mitigare i rischi di un uso improprio del denaro pubblico?
 Ne parleremo a **Catania** il **30 settembre** e **1 ottobre 2022** e se vuoi ricevere maggiori informazioni puoi visitare il [sito dedicato all’evento](https://ods2022.opendatasicilia.it/).

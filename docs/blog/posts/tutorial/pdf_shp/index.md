@@ -14,11 +14,10 @@ tags:
   - Palermo
 --- 
 <style>.md-typeset code { background-color: #fff0;}  </style>
-[![Tutorial da file pdf a shapefile](import_pdf_01.webp "Tutorial da file pdf a shapefile" ){class="crop gray off"}](index.md) 
-
+[![Tutorial da file pdf a shapefile](import_pdf_01.webp "Tutorial da file pdf a shapefile" ){class="crop gray off" align=right}](index.md) 
 Dopo il comunicato stampa sul sito del Comune di Palermo   [Tram – Entra nel vivo la fase di progettazione per le nuove linee verso ZEN-Mondello, Bonagia e lungo la costa](https://www.comune.palermo.it/noticext.php?cat=1&id=13959) con [Ciro Spataro](https://twitter.com/cirospat) abbiamo pensato di fare una delle nostre mappe…ovvero la [mappa del ferro](http://u.osmfr.org/m/143534/) come l’ha chiamata Ciro.<br>
-Per realizzare la mappa c’è quasi tutto, occorrono solo le nuove linee del tram in formato vettoriale.<br>
-Gran parte dei vettori, (linee tram esistenti, passante ferroviario, etc etc) sono reperibili su [OpenStreetMap](https://www.openstreetmap.org/#map=12/38.1373/13.3834), facili da estrarre con [overpass-turbo.eu](http://overpass-turbo.eu/), [qui](https://geomappando.com/2016/04/20/estrarre-dati-openstreetmap-overpass-turbo/) un articolo molto utile su [geomappando](https://geomappando.com/)  o un interessante [video](https://www.youtube.com/watch?v=I1PkPCbdtDI) di [GISTIPSTER](https://www.youtube.com/channel/UCEkiQYFsotUmbPTufps3TdA).<br> <!-- more -->
+Per realizzare la mappa c’è quasi tutto, occorrono solo le nuove linee del tram in formato vettoriale.<br> 
+Gran parte dei vettori, (linee tram esistenti, passante ferroviario, etc etc) sono reperibili su [OpenStreetMap](https://www.openstreetmap.org/#map=12/38.1373/13.3834), facili da estrarre con [overpass-turbo.eu](http://overpass-turbo.eu/), [qui](https://geomappando.com/2016/04/20/estrarre-dati-openstreetmap-overpass-turbo/)<!-- more --> un articolo molto utile su [geomappando](https://geomappando.com/)  o un interessante [video](https://www.youtube.com/watch?v=I1PkPCbdtDI) di [GISTIPSTER](https://www.youtube.com/channel/UCEkiQYFsotUmbPTufps3TdA).<br> 
 In alternativa si può scaricare l’intera cartografia di Palermo, o qualsiasi altra città, da [Estratti OpenStreetMap](http://osm-estratti.wmflabs.org/estratti/Sicilia/Palermo/Palermo),
 Per ricavare i vettoriali delle nuove linee del tram abbiamo pensato di usare il file pdf allegato al comunicato stampa [Tavola 14 – planimetria riassuntiva](https://www.comune.palermo.it/js/server/uploads/_05042017163230.pdf) scala 25.000 dell’intero sistema di trasporti su rotaia.<br>
 La stessa e tutte le altre tavole del progetto si trovano sul sito del Comune di Palermo, ([qui](https://www.comune.palermo.it/grandi_opere_tram.php) l’intero progetto in file pdf del trasporto pubblico di massa)<br>

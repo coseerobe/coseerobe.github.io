@@ -11,13 +11,13 @@ tags:
   - Opendata 
 ---  
 <style>.md-typeset code { background-color: #fff0;}  </style>
-[![Cosa sono gli opendata](opendata_def_pa.webp "Italia | Cosa sono gli opendata" ){class="crop gray"}](index.md)
+[![Cosa sono gli opendata](opendata_def_pa.webp "Italia | Cosa sono gli opendata" ){class="crop gray" align=left}](index.md)
 
-I **[dati aperti](https://it.wikipedia.org/wiki/Dati_aperti)**, comunemente chiamati con il termine [inglese](https://it.wikipedia.org/wiki/Lingua_inglese) **open data** anche nel contesto italiano, sono dati liberamente accessibili a tutti le cui eventuali restrizioni sono l’obbligo di citare la fonte o di mantenere la banca dati sempre aperta.<!-- more --> 
+I **[dati aperti](https://it.wikipedia.org/wiki/Dati_aperti)**, comunemente chiamati con il termine [inglese](https://it.wikipedia.org/wiki/Lingua_inglese) **open data** anche nel contesto italiano, sono dati liberamente accessibili a tutti le cui eventuali restrizioni sono l’obbligo di citare la fonte o di mantenere la banca dati sempre aperta.
 
-Il progetto Open Definition di [Open Knowledge Foundation](https://it.wikipedia.org/wiki/Open_Knowledge_Foundation) utilizza la seguente frase per definire dati (e contenuti) aperti: «un contenuto o un dato si definisce aperto se chiunque è in grado di utilizzarlo, ri-utilizzarlo e ridistribuirlo, soggetto, al massimo, alla richiesta di attribuzione e condivisione allo stesso modo».
+Il progetto Open Definition di [Open Knowledge Foundation](https://it.wikipedia.org/wiki/Open_Knowledge_Foundation) utilizza la seguente frase per definire dati (e contenuti) aperti: «un contenuto o un dato si definisce aperto se chiunque è in grado di utilizzarlo, <!-- more -->ri-utilizzarlo e ridistribuirlo, soggetto, al massimo, alla richiesta di attribuzione e condivisione allo stesso modo».
 
-La definizione, molto sintetica, viene poi meglio esplicata attraverso il documento “[Conoscenza Aperta](http://opendefinition.org/okd/italiano/)” i cui contenuti sono molto simili a quelli della [OSI definition](http://www.opensource.org/osd.html). Si tratta di 11 punti che mettono chiarezza sulle modalità di distribuzione e di accesso a tale informazioni. Fra questi ricordiamo: la possibilità di utilizzare a qualsiasi scopo i dati (quindi eliminando clausole quali la possibilità di lucro) e l’assenza di restrizioni tecnologiche (formati aperti ma anche il servizio d’accesso).
+La definizione, molto sintetica, viene poi meglio esplicata attraverso il documento “[Conoscenza Aperta](http://opendefinition.org/okd/italiano/)”  i cui contenuti sono molto simili a quelli della [OSI definition](http://www.opensource.org/osd.html). Si tratta di 11 punti che mettono chiarezza sulle modalità di distribuzione e di accesso a tale informazioni. Fra questi ricordiamo: la possibilità di utilizzare a qualsiasi scopo i dati (quindi eliminando clausole quali la possibilità di lucro) e l’assenza di restrizioni tecnologiche (formati aperti ma anche il servizio d’accesso).
 
 Il Legislatore italiano con la Legge **[17 dicembre 2012, n. 221](http://www.gazzettaufficiale.it/eli/id/2012/12/18/012G0244/sg)** ha formalizzato una definizione di dati aperti (formalmente “dati di tipo aperto”) inserendola all’interno dell’**[art. 68](http://www.agid.gov.it/cad/art-68-analisi-comparativa-soluzioni)** del **[Codice dell’Amministrazione Digitale](http://www.agid.gov.it/cad/codice-amministrazione-digitale)**. (CAD)
 

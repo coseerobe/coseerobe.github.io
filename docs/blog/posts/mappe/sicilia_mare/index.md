@@ -18,12 +18,12 @@ tags:
 .md-typeset code { background-color: #fff0;}  
 .md-typeset pre>code { background-color: #fff0;}  
 </style>
-[![Stagione balneare 2023 Acque di balneazione e Divieti](divieti_balneazione.jpg "Italia | Bandiere Blu 2023 Spiagge e Approdi" ){class="crop gray"}](index.md)
+[![Stagione balneare 2023 Acque di balneazione e Divieti](divieti_balneazione.jpg "Italia | Bandiere Blu 2023 Spiagge e Approdi" ){class="crop gray" align=right}](index.md)
 
-Il comma 1 dell’art. 2 del [D.lgs. 116/2008](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-05-30;116!vig=), fissa  la durata della  stagione balneare, in Sicilia inizia a partire dal **1° maggio 2023** e, in ragione delle esigenze degli operatori turistici e delle favorevoli condizioni climatiche, registrati negli ultimi anni nella Regione siciliana, abbia fine il **31 ottobre 2023**.<!-- more -->
+Il comma 1 dell’art. 2 del [D.lgs. 116/2008](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-05-30;116!vig=), fissa  la durata della  stagione balneare, in Sicilia inizia a partire dal **1° maggio 2023** e, in ragione delle esigenze degli operatori turistici e delle favorevoli condizioni climatiche, registrati negli ultimi anni nella Regione siciliana, abbia fine il **31 ottobre 2023**.
 
 ## Divieti
-La Sicilia ha **1.639 km** di costa e non tutta è adibita alla balneazione, la Regione Siciliana con il  **[DECRETO n. 339 del 4 aprile 2023](http://www.gurs.regione.sicilia.it/Gazzette/g23-16o/g23-16o.pdf)** indica i tratti di mare e costa adibiti alla balneazione e punti di monitoraggio delle acque e i tratti di mare dove la balneazione è vietata.
+La Sicilia ha **1.639 km** di costa e non tutta è adibita alla balneazione,<!-- more --> la Regione Siciliana con il  **[DECRETO n. 339 del 4 aprile 2023](http://www.gurs.regione.sicilia.it/Gazzette/g23-16o/g23-16o.pdf)** indica i tratti di mare e costa adibiti alla balneazione e punti di monitoraggio delle acque e i tratti di mare dove la balneazione è vietata.
 
 I divieti alla balneazione sono di diversa natura:
 

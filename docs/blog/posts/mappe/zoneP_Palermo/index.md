@@ -18,13 +18,13 @@ tags:
 .md-typeset code { background-color: #fff0;}  
 .md-typeset pre>code { background-color: #fff0;}  
 </style>
-[![Palermo - Nuove zone di tariffazione della sosta a pagamento](parcheggi.jpg "Palermo - Nuove zone di tariffazione della sosta a pagamento" ){class="crop gray"}](index.md)
+[![Palermo - Nuove zone di tariffazione della sosta a pagamento](parcheggi.jpg "Palermo - Nuove zone di tariffazione della sosta a pagamento" ){class="crop gray" align=left }](index.md)
 
-Con la **delibera n° 148 del 31/01/2023** il **Servizio Mobilità Urbana e Trasporto Pubblico di Massa** del Comune di Palermo revoca totalmente e/o parzialmente le zone **P1**, **P3**, **P8**, **P9**, **P11**, **P12**, **P13**, **P17**, **P18** per ridisegnare 4 nuove macro aree in città (A, B, C, F). <!-- more -->
+Con la **delibera n° 148 del 31/01/2023** il **Servizio Mobilità Urbana e Trasporto Pubblico di Massa** del Comune di Palermo revoca totalmente e/o parzialmente le zone **P1**, **P3**, **P8**, **P9**, **P11**, **P12**, **P13**, **P17**, **P18** per ridisegnare 4 nuove macro aree in città (A, B, C, F). 
 
 ## Le nuove Zone
 
-* **ZONA A** (2.166 stalli) **–** Perimetro: via Duca della Verdura, via Notarbartolo, via Sciuti, viale Lazio, piazza Don Bosco, via Marchese di Roccaforte, via Marchese di Villabianca, gestita da [Amat](https://www.amat.pa.it/zone-blu/);
+* **ZONA A** (2.166 stalli) **–** Perimetro: via Duca della Verdura, via Notarbartolo, via Sciuti, <!-- more -->viale Lazio, piazza Don Bosco, via Marchese di Roccaforte, via Marchese di Villabianca, gestita da [Amat](https://www.amat.pa.it/zone-blu/);
 * **ZONA B ** (1505 stalli) **–** Perimetro: via Enrico Albanese, via Catania, via Giacomo Cusmano,  piazza  Diodoro Siculo, via Generale Cantore, via Generale Di Maria, via Notarbartolo, via Duca della Verdura, via Pasquale Calvi, gestita da [Amat](https://www.amat.pa.it/zone-blu/);
 * **ZONA C ** (1879 stalli) **–** Perimetro: Perimetro: piazza Castelnuovo (tratti via Ruggero Settimo/via della Libertà e via della Libertà/via Dante), via Dante (tratto piazza Castelnuovo/piazza Stazione Lolli), piazza Stazione Lolli (tratto via Dante/via Guglielmo Marconi), via Guglielmo Marconi (tratto piazza Stazione Lolli/via Malaspina), via Malaspina (tratto via Guglielmo Marconi/via Catania), via Catania (tratto via Malaspina/via della Libertà), via Enrico Albanese (tratto via della libertà/ via Pasquale Calvi), via Pasquale Calvi (tratto E.Albanese e via Francesco Omodei/via Isidoro Carini), via Isidoro Carini (tratto via Francesco Omodei/piazza Nascè), piazza Nascè (tratto Isidoro Carini/via Quintino Sella), via Puglisi Bertolino Giuseppe (via Quintino Sella/via Giovanni di Giovanni), piazza Luigi Sturzo (tratto via Giovanni di Giovanni/via Roma), via Roma (tratto piazza Luigi Sturzo/via Camillo Cavour), via Camillo Cavour (tratto via Roma/via Ruggero Settimo), via Ruggero Settimo (tratto via Camillo Cavour/piazza Castelnuovo, gestita da [Amat](https://www.amat.pa.it/zone-blu/);
 * **Zona D** (400 stalli) – Sarà in vigore in estate la sosta tariffata a  Mondello, gestita da [Amat](https://www.amat.pa.it/zone-blu/).
