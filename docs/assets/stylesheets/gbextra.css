@@ -7,7 +7,7 @@
 .md-header__title>.md-header__ellipsis { height: 100%;  position: relative;  width: 100%;  /*font-weight: 400!important;*/   font-family: DS-TERM; font-size: 1.12rem; margin-left: -32px; color: #ff0000; margin-top:-1px;  /*text-shadow: 0.5px 0.5px 0px #1214238a;*/}
 
 /*/@media screen and (min-width: 76.25em) { .md-nav--primary .md-nav__title {display: none;}} */
-
+aside, body, input { color: #666666!important;}
 /* gbvitrano*/
 .md-consent__overlay {display: none!important; }
 /* Dimensione pagina Site width etc.*/
@@ -134,7 +134,7 @@ img.resized50c { width: 48%; height: auto; margin:0px auto; text-align: center; 
 
 /*Intestazioni H1 H2...*/
 .md-typeset h1, .md-typeset h2, .md-typeset h3  { color: var(--md-default-fg-color--light); font-weight: 500;} /* colore*/
-.md-typeset h1 {letter-spacing: -.01em; font-size: 1.4rem; }
+.md-typeset h1 {letter-spacing: -.01em; font-size: 1.4rem; color: #121423; }
 .md-typeset h2 {letter-spacing: -.01em;	font-size: 1rem; }
 .md-typeset h3 {letter-spacing: -.01em;font-size: .8rem; }
 	
@@ -148,11 +148,12 @@ img.resized50c { width: 48%; height: auto; margin:0px auto; text-align: center; 
 /*.md-tabs__link:active {color: var(--md-accent-fg-color); }*/
 
 
-a.toclink { text-decoration: none!important; font-weight: 600; color: var(--md-default-fg-color--light); } /*link testo titolo post*/
+a.toclink { text-decoration: none!important; font-weight: 500; color: var( --md-default-fg-color); } /*link testo titolo post*/
 .md-typeset a {text-decoration: underline;} /*generale paragrafo*/
 
+.md-post--excerpt .md-post__content>:first-child {font-size: 1.4rem;}
 
-
+nav.md-post__action a {text-decoration: underline!important;}
 
 /*Torna all'indice di categoria*/
 .md-nav__title1 {color: var(--md-default-fg-color--light); font-weight: bold; }

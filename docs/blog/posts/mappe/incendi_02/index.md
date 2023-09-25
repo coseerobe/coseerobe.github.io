@@ -20,8 +20,8 @@ tags:
 [![Incendio del 15/08/2023](monte_pellegrino.jpg "Monte Pellegrino - foto Raffaele Franco | Incendio del 15/08/2023" ){class="crop gray" align=right}](index.md)
 
 Non è la prima volta che OpenDataSicilia affronta il tema degli incendi boschivi, nel 2016 è stato affrontato da [Giuseppe Ragusa](https://twitter.com/giuragu) con “**_[Dati alle Fiamme](http://datiallefiamme.it/)_**“, l’anno successivo nel 2017 durante un’altra stagione calda per gli incendi, il tema è stato ripreso con gli amici di “**_Italia a Fuoco_**” e anche con l’ausilio dei dati [EFFIS – European Forest Fire Information System](http://effis.jrc.ec.europa.eu/applications/fire-news/) furono elaborate mappe e grafici (vedi [palermohub.opendatasicilia.it](https://palermohub.opendatasicilia.it/))
-
-## Comuni inadempienti<!-- more -->
+<!-- more -->
+## Comuni inadempienti
 Oggi lo riproponiamo perché pochi giorni fa la [Regione Siciliana](https://www.regione.sicilia.it/istituzioni/servizi-informativi/decreti-e-direttive/n-357serv-3-9082023) con **D. A. n.357/Sev. 3 del 09/08/2023** ha nominato i Commissari ad Acta per il catasto delle aree bruciate nei **147** Comuni _inadempienti_ (qui il **[nostro post](https://opendatasicilia.it/2023/08/10/catasto-delle-terre-bruciate/)**)
 
 ### La Normativa

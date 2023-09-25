@@ -13,7 +13,8 @@ tags:
   - shp
   - Palermo
 --- 
-<style>.md-typeset code { background-color: #fff0;}  </style>
+<style>.md-typeset code { background-color: #fff0;} 
+</style>
 [![Tutorial da file pdf a shapefile](import_pdf_01.webp "Tutorial da file pdf a shapefile" ){class="crop gray off" align=right}](index.md) 
 Dopo il comunicato stampa sul sito del Comune di Palermo   [Tram – Entra nel vivo la fase di progettazione per le nuove linee verso ZEN-Mondello, Bonagia e lungo la costa](https://www.comune.palermo.it/noticext.php?cat=1&id=13959) con [Ciro Spataro](https://twitter.com/cirospat) abbiamo pensato di fare una delle nostre mappe…ovvero la [mappa del ferro](http://u.osmfr.org/m/143534/) come l’ha chiamata Ciro.<br>
 Per realizzare la mappa c’è quasi tutto, occorrono solo le nuove linee del tram in formato vettoriale.<br> 

@@ -66,11 +66,9 @@ theme:
     - navigation.instant
  #   - navigation.prune
     - navigation.tabs
-
   #  - navigation.tabs.sticky
    # - navigation.sections
   #  - navigation.expand
-
     - navigation.tracking
     - navigation.indexes
     - content.code.annotate
@@ -79,7 +77,7 @@ theme:
     - navigation.footer
 
   font:
-    text: Nunito
+    text: Nunito Sans
     code: Fira Code
   custom_dir: 'docs/assets/overrides'
   static_templates:
@@ -254,6 +252,7 @@ nav:
   #  - blog/index.md    
   - Home:
      - blog/index.md
+ # - Autori: blog/authors.md
   - Mappe: blog/category/mappe/
   - Opendata: blog/category/opendata/
   - Tutorial: blog/category/tutorial/
