@@ -107,13 +107,15 @@
                         {{ lang.t("readtime.other") | replace("#", time) }}
                       {% endif %}
                     </span>
-                  </div>
+					</div>
                 </li>
               {% endif %}
             </ul>
           </nav>
-          {% if "toc.integrate" in features %}
-            {% include "partials/toc.html" %}
+	      {% if "toc.integrate" in features %}
+	      {% include "partials/toc.html" %}
+    <!-- immagine plus -->
+{% include "partials/immago_toc.html" %}
           {% endif %}
         </div>
       </div>

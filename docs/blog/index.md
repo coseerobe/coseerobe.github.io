@@ -2,7 +2,7 @@
 title: Indice Cose&Robe
 description:  I dataset sono cose e robe facili da capire…
 hide:
- #  - navigation
+  - navigation
   - toc
 ---
 
