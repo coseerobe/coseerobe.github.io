@@ -20,7 +20,7 @@ social_image: assets/img/social/dbsn.jpg
 .md-typeset code { background-color: #fff0;}  
 .md-typeset pre>code { background-color: #fff0;}  
 </style>
-[![IGM | DBSN – DATABASE DI SINTESI NAZIONALE](dbsn.webp "Italia | IGM | DBSN – DATABASE DI SINTESI NAZIONALE" ){class="crop gray" align=left}](index.md) 
+[![IGM | DBSN – DATABASE DI SINTESI NAZIONALE](../../../assets/img/social/dbsn.jpg "Italia | IGM | DBSN – DATABASE DI SINTESI NAZIONALE" ){class="crop gray" align=left}](index.md) 
 
 Il **DBSN** (DataBase di Sintesi Nazionale) è una banca dati geografica contenente le informazioni territoriali più significative per effettuare analisi tematiche e rappresentazioni in ambito nazionale. Per realizzare il DBSN, con l’obiettivo di elaborare dati sempre più completi ed aggiornati, si è fatto riferimento principalmente ai dati geotopografici regionali come fonte primaria di informazione. Nella fase iniziale del progetto sono stati raccolti i dati nella versione più aggiornata e si è operato una trasformazione di struttura per renderla omogenea a livello nazionale,<!-- more --> mantenendo il livello di dettaglio originario.   Successivamente si è provveduto all’integrazione con dati di Enti pubblici nazionali, ad esempio le mappe catastali dell’Agenzia delle Entrate, i dati dell’Istat, dati di altri Ministeri, considerando anche altre informazioni disponibili su web come i dati di Open Street Map (OSM).
 

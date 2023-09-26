@@ -15,7 +15,7 @@ tags:
 **[Gestire file CSV grandi, brutti e cattivi](https://aborruso.github.io/posts/duckdb-intro-csv/)** di [Andrea Borruso](https://twitter.com/aborruso)<br><br>
 
 ## Tutorial QGIS – video per l’introduzione all’uso di QGIS
-![ PIGREGOINFINITO - “Se la conoscenza deve essere aperta a tutti, perchè mai limitarne l’accesso?” R. Stallman](assets/img/pigrecoinfinito-120x120.jpg){align=left class="resized10 nobox" .off-glb }**PIGREGOINFINITO – “Se la conoscenza deve essere aperta a tutti, perchè mai limitarne l’accesso?” R. Stallman**<br><br>
+![ PIGREGOINFINITO - “Se la conoscenza deve essere aperta a tutti, perchè mai limitarne l’accesso?” R. Stallman](assets/img/logopigreco.png){align=left class="resized10 nobox" .off-glb }**PIGREGOINFINITO – “Se la conoscenza deve essere aperta a tutti, perchè mai limitarne l’accesso?” R. Stallman**<br><br>
 [#Blog](https://pigrecoinfinito.wordpress.com/) [#Canale YuoTube](https://www.youtube.com/channel/UC-rfLek_VKMP1mKG3QTa7rg)<br><br><br><hr>
 
 ![City Planner e Geospatial Revolution](assets/img/City_Planner.webp){align=left class="resized10 nobox" .off-glb }**City Planner e Geospatial Revolution**<br><br>

@@ -18,7 +18,7 @@ social_image: assets/img/social/Incendio_Pizzo_Manolfo.jpg
 .md-typeset code { background-color: #fff0;}  
 .md-typeset pre>code { background-color: #fff0;}  
 </style>
-[![Image title](Incendio_Pizzo_Manolfo.jpg "Incendio su Pizzo Manolfo - foto Giuseppe Schiraldi" ){class="crop gray" align=left}](index.md)
+[![Image title](../../../assets/img/social/Incendio_Pizzo_Manolfo.jpg "Incendio su Pizzo Manolfo - foto Giuseppe Schiraldi" ){class="crop gray" align=left}](index.md)
 
 La Sicilia, una splendida isola nel cuore del Mediterraneo, è purtroppo afflitta da un problema ricorrente e devastante: gli incendi boschivi. Questi eventi distruttivi mettono a rischio non solo l’ambiente e la biodiversità, ma anche le comunità locali. Tuttavia, oltre alla necessità di prevenire e combattere gli incendi, c’è un altro aspetto spesso trascurato: l’aggiornamento del catasto delle terre percorse dal fuoco. L’accurato censimento e la gestione aggiornata di queste aree sono fondamentali per una corretta valutazione delle conseguenze degli incendi e per la pianificazione strategica<!-- more --> della prevenzione futura. Ogni anno, vasti territori di pregevoli aree naturali vengono distrutti dalle fiamme, mettendo a rischio la flora, la fauna e l’equilibrio degli ecosistemi isolani. 
 

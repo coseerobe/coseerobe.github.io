@@ -19,7 +19,7 @@ social_image: assets/img/social/divieti_balneazione.jpg
 .md-typeset code { background-color: #fff0;}  
 .md-typeset pre>code { background-color: #fff0;}  
 </style>
-[![Stagione balneare 2023 Acque di balneazione e Divieti](divieti_balneazione.jpg "Italia | Bandiere Blu 2023 Spiagge e Approdi" ){class="crop gray" align=right}](index.md)
+[![Stagione balneare 2023 Acque di balneazione e Divieti](../../../assets/img/social/divieti_balneazione.jpg "Italia | Bandiere Blu 2023 Spiagge e Approdi" ){class="crop gray" align=right}](index.md)
 
 Il comma 1 dell’art. 2 del [D.lgs. 116/2008](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-05-30;116!vig=), fissa  la durata della  stagione balneare, in Sicilia inizia a partire dal **1° maggio 2023** e, in ragione delle esigenze degli operatori turistici e delle favorevoli condizioni climatiche, registrati negli ultimi anni nella Regione siciliana, abbia fine il **31 ottobre 2023**.
 

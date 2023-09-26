@@ -16,7 +16,7 @@ tags:
 social_image: assets/img/social/corel.jpg
 --- 
 <style>.md-typeset code { background-color: #fff0;}  </style>
-[![QGIS e la stampa in PDF layered (a strati)](pdflayered.webp "QGIS e la stampa in PDF layered (a strati)" ){class="crop gray" align=left}](index.md) 
+[![QGIS e la stampa in PDF layered (a strati)](../../../assets/img/social/corel.jpg "QGIS e la stampa in PDF layered (a strati)" ){class="crop gray" align=left}](index.md) 
 
 Come ottenere un file PDF multi livello dal compositore di stampe di QGIS?
 

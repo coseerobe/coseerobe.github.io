@@ -14,13 +14,13 @@ tags:
   - WRLD
   - Dataset
 
-social_image: assets/img/social/mappa_rischio_1024.jpg  
+social_image: assets/img/social/mappa_rischio.jpg 
 --- 
 <style>
 .md-typeset code { background-color: #fff0;}  
 .md-typeset pre>code { background-color: #fff0;}  
 </style>
-[![istat](mappa_rischio_1024.webp "ISTAT – Mappa dei rischi dei comuni italiani" ){class="crop gray" align=left}](index.md)
+[![istat](../../../assets/img/social/mappa_rischio.jpg   "ISTAT – Mappa dei rischi dei comuni italiani" ){class="crop gray" align=left}](index.md)
 
 L’**Istituto Nazionale di Statistica** e **Casa Italia**, struttura di missione della Presidenza del Consiglio, rendono disponibile un quadro informativo integrato sui rischi naturali in Italia.
 

@@ -18,7 +18,7 @@ social_image: assets/img/social/dati.jpg
 .md-typeset code { background-color: #fff0;}  
 .md-typeset pre>code { background-color: #fff0;}  
 </style>
-[![ods18](dati.webp "Palermo Capitale italiana della Cultura 2018: rendere accessibili e riutilizzabili i dati sugli eventi" ){class="crop gray" align=left}](index.md)
+[![ods18](../../../assets/img/social/dati.jpg "Palermo Capitale italiana della Cultura 2018: rendere accessibili e riutilizzabili i dati sugli eventi" ){class="crop gray" align=left}](index.md)
 
 Lettera che Assocazione [onData](http://blog.ondata.it/palermo-capitale-italiana-della-cultura-2018-rendere-accessibili-e-riutilizzabili-i-dati-sugli-eventi/) ha inviato al Comune di Palermo per chiedere di rendere accessibili e riutilizzabili i dati sugli eventi  di [Palermo Capitale italiana della Cultura 2018](http://www.palermocapitalecultura.it/)
 

@@ -18,7 +18,7 @@ social_image: assets/img/social/catasto_agenzia_entrate.jpg
 .md-typeset code { background-color: #fff0;}  
 .md-typeset pre>code { background-color: #fff0;}  
 </style>
-[![age](catasto_agenzia_entrate.webp "Mappe catastali: Web Map Service - attivo il nuovo servizio di navigazione geografica" ){class="crop gray" align=right}](index.md)
+[![age](../../../assets/img/social/catasto_agenzia_entrate.jpg "Mappe catastali: Web Map Service - attivo il nuovo servizio di navigazione geografica" ){class="crop gray" align=right}](index.md)
 
 L’[Agenzia delle Entrate](http://www.agenziaentrate.gov.it/wps/content/Nsilib/Nsi/Home/Servizi+online/serv_terr/senza_reg/Consultazione+della+cartografia+catastale+WMS/) mette a disposizione delle pubbliche amministrazioni, imprese, professionisti e cittadini il nuovo servizio di **navigazione geografica della cartografia catastale**, il catasto online in versione:
 

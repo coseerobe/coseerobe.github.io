@@ -19,7 +19,7 @@ social_image: assets/img/social/ods18.jpg
 .md-typeset code { background-color: #fff0;}  
 .md-typeset pre>code { background-color: #fff0;}  
 </style>
-[![ods18](ods18.jpg "(Linked) OpenData Sicilia" ){class="crop gray" align=left}](index.md)
+[![ods18](../../../assets/img/social/ods18.jpg "(Linked) OpenData Sicilia" ){class="crop gray" align=left}](index.md)
 
 **La comunità OpenDataSicilia si ritrova il 9 e il 10 novembre 2018 a Palermo per il proprio raduno dedicato al tema degli OpenData e aperto a chiunque voglia partecipare.**
 

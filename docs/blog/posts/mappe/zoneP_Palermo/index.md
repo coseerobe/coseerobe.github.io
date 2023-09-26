@@ -19,7 +19,7 @@ social_image: assets/img/social/parcheggi.jpg
 .md-typeset code { background-color: #fff0;}  
 .md-typeset pre>code { background-color: #fff0;}  
 </style>
-[![Palermo - Nuove zone di tariffazione della sosta a pagamento](parcheggi.jpg "Palermo - Nuove zone di tariffazione della sosta a pagamento" ){class="crop gray" align=left }](index.md)
+[![Palermo - Nuove zone di tariffazione della sosta a pagamento](../../../assets/img/social/parcheggi.jpg "Palermo - Nuove zone di tariffazione della sosta a pagamento" ){class="crop gray" align=left }](index.md)
 
 Con la **delibera n° 148 del 31/01/2023** il **Servizio Mobilità Urbana e Trasporto Pubblico di Massa** del Comune di Palermo revoca totalmente e/o parzialmente le zone **P1**, **P3**, **P8**, **P9**, **P11**, **P12**, **P13**, **P17**, **P18** per ridisegnare 4 nuove macro aree in città (A, B, C, F). 
 

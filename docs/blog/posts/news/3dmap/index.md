@@ -20,7 +20,7 @@ social_image: assets/img/social/3d_wrld.jpg
 .md-typeset code { background-color: #fff0;}  
 .md-typeset pre>code { background-color: #fff0;}  
 </style>
-[![3dmap](3d_wrld.webp "3D Maps WRLD" ){class="crop gray" align=left}](index.md)
+[![3dmap](../../../assets/img/social/3d_wrld.jpg "3D Maps WRLD" ){class="crop gray" align=left}](index.md)
 
 [WRLD](https://www.wrld3d.com/) è una piattaforma dinamica di mappatura 3D per edifici intelligenti, città, giochi, e esperienze virtuali.
 [WRLD](https://www.wrld3d.com/) fornisce un ambiente 3D completamente testurizzato che utilizza un sistema di coordinate globali in modo reale, quindi è pronto per essere utilizzato immediatamente – non è necessario creare un ambiente 3D o importare dati aggiuntivi di GIS. Crea stili personalizzati e utilizza lo strumento Unity per selezionare i livelli di dati desiderati – strade, edifici, alberi, etichette, ecc. <!-- more -->
