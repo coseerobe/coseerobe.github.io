@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 100 110"
+   version="1.1"
+   id="svg142"
+   sodipodi:docname="csv.svg"
+   width="100"
+   height="110"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs146">
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter4217"
+       x="-0.016314057"
+       y="-0.044243943"
+       width="1.0544482"
+       height="1.0884879">
+      <feFlood
+         flood-opacity="0.745098"
+         flood-color="rgb(7,8,93)"
+         result="flood"
+         id="feFlood4207" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite4209" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.623053"
+         result="blur"
+         id="feGaussianBlur4211" />
+      <feOffset
+         dx="2"
+         dy="0"
+         result="offset"
+         id="feOffset4213" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite4215" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="namedview144"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.4921875"
+     inkscape:cx="8.3769634"
+     inkscape:cy="256"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg142" />
+  <!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.-->
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:59.7126px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.49282;filter:url(#filter4217)"
+     x="1.4835221"
+     y="71.301537"
+     id="text4205"
+     transform="matrix(0.97226443,0,0,0.97226443,0.41451037,1.5254601)"><tspan
+       sodipodi:role="line"
+       id="tspan4203"
+       x="1.4835221"
+       y="71.301537"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:59.7126px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#07085d;fill-opacity:1;stroke-width:1.49282">csv</tspan></text>
+</svg>
