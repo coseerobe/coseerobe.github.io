@@ -18,7 +18,7 @@ tags:
 .md-typeset pre>code { background-color: #fff0;}  
 
 </style>
-[![Italia | PA Digitale 2026](pa_digitale_2026.jpg "Italia | PA Digitale 2026" ){class="crop gray" align=right}](index.md) 
+[![PA Digitale 2026](pa_digitale_2026.jpg "Italia | PA Digitale 2026" ){class="crop gray" align=right}](index.md) 
 
 E’ online la pagina di [#opendata](https://www.facebook.com/hashtag/opendata?__eep__=6&__cft__[0]=AZW8tm0CirnGotNdmDEH9RNh33wD-hb0_HcOid2qIXLQ1zFX1RYFmw0hLJXLSYbe0D_Jl7iHG3pjRPT3PsEAXKH9qjL4r3flyrsK1El3ET9RBDIvEMcnXmlcQyviYdLL4hJgZnWEInEk7FUVbXYVwIaK3LcPXIqykptWmCflHg9VJAnDnyPLYSTOlJpdKHZJFSU&__tn__=*NK-R) di **PA digitale 2026**. Informazioni disponibili sui fondi del [#PNRR](https://www.facebook.com/hashtag/pnrr?__eep__=6&__cft__[0]=AZW8tm0CirnGotNdmDEH9RNh33wD-hb0_HcOid2qIXLQ1zFX1RYFmw0hLJXLSYbe0D_Jl7iHG3pjRPT3PsEAXKH9qjL4r3flyrsK1El3ET9RBDIvEMcnXmlcQyviYdLL4hJgZnWEInEk7FUVbXYVwIaK3LcPXIqykptWmCflHg9VJAnDnyPLYSTOlJpdKHZJFSU&__tn__=*NK-R) dedicati alla digitalizzazione della Pubblica Amministrazione, gestiti dal Dipartimento per la trasformazione digitale della [Presidenza del Consiglio dei Ministri](https://www.governo.it/it/la-presidenza-del-consiglio-dei-ministri) 
 

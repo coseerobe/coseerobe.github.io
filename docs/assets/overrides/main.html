@@ -11,5 +11,11 @@
 {% include "partials/ribbon.html" %}
 {{ super() }}
 {% include "partials/pace.html" %}
+{% endblock %}
+
+<!-- blocco meta tag e social -->
+{% block extrahead %} 
+<!-- Social card -->	 
+{% include "partials/social_card.html" %}
 
 {% endblock %}

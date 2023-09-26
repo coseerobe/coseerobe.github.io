@@ -11,13 +11,13 @@ tags:
   - ods
   - Dati e potere
   - Raduno
-  - Sicilis
+  - Sicilia
 --- 
 <style>
 .md-typeset code { background-color: #fff0;}  
 .md-typeset pre>code { background-color: #fff0;}  
 </style>
-[![Bandiere Blu 2023 Spiagge e Approdi](ods2022.webp "ODS2022, il nostro raduno del 2022 sarà a Catania!" ){class="crop gray" align=right}](index.md) 
+[![ODS2022](ods2022.webp "ODS2022, il nostro raduno del 2022 sarà a Catania!" ){class="crop gray" align=right}](index.md) 
 
 ## Che ci piaccia o meno, i dati sono ovunque.
 Raccogliamo e utilizziamo i dati ogni volta che guardiamo il nostro orologio fitness per vedere quanti passi abbiamo fatto. Ma non solo, i dati sono uno strumento importante per le pubbliche amministrazioni per prendere **decisioni** che hanno a che fare con la nostra vita di tutti i giorni. Ancora, sempre più aziende, al giorno d’oggi, usano dati di ogni natura per **scegliere** i<!-- more --> candidati e le candidate per le loro posizioni di lavoro e i loro profili.
