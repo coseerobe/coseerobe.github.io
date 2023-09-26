@@ -13,6 +13,7 @@ tags:
   - Variante Generale
   - PRG
   - Piano Regolatore
+social_image: assets/img/social/strumenti_urbanistici_01.jpg  
 --- 
 [![Strumenti urbanistici Palermo](strumenti_urbanistici_01.jpg "Strumenti urbanistici Palermo" ){class="crop gray off" align=right}](index.md)
 

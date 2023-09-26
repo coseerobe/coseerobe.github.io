@@ -13,6 +13,7 @@ tags:
   - Zone blu
   - Divieti di balneazione
   - ZTL
+social_image: assets/img/social/parcheggi.jpg
 ---
 <style>
 .md-typeset code { background-color: #fff0;}  

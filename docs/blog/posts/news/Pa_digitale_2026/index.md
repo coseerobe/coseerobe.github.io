@@ -12,6 +12,7 @@ tags:
   - Italia
   - Opendata
   - PNRR
+social_image: assets/img/social/pa_digitale_2026.jpg 
 ---  
 <style>
 .md-typeset code { background-color: #fff0;}  

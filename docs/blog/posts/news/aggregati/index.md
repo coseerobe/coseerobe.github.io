@@ -12,6 +12,7 @@ tags:
   - DPC
   - Protezione Civile
   - Sicilia
+social_image: assets/img/social/aggregati.jpg  
 --- 
 <style>
 .md-typeset code { background-color: #fff0;}  

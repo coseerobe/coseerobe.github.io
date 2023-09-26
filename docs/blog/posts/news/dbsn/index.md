@@ -14,6 +14,7 @@ tags:
   - Geospatial
   - OSM
   - Opendata
+social_image: assets/img/social/dbsn.jpg 
 --- 
 <style>
 .md-typeset code { background-color: #fff0;}  

@@ -12,6 +12,7 @@ tags:
   - Dati e potere
   - Raduno
   - Sicilia
+social_image: assets/img/social/ods2022.jpg 
 --- 
 <style>
 .md-typeset code { background-color: #fff0;}  

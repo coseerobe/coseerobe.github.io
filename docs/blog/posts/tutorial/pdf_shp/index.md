@@ -12,6 +12,7 @@ tags:
   - pdf
   - shp
   - Palermo
+social_image: assets/img/social/pdf.jpg
 --- 
 <style>.md-typeset code { background-color: #fff0;} 
 </style>

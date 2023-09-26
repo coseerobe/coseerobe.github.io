@@ -13,6 +13,7 @@ tags:
   - Mare
   - Divieti di balneazione
   - Spiagge
+social_image: assets/img/social/divieti_balneazione.jpg
 ---
 <style>
 .md-typeset code { background-color: #fff0;}  

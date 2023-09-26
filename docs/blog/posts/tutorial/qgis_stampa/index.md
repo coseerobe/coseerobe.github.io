@@ -13,6 +13,7 @@ tags:
   - Stampa pdf
   - svg
   - Layer
+social_image: assets/img/social/corel.jpg
 --- 
 <style>.md-typeset code { background-color: #fff0;}  </style>
 [![QGIS e la stampa in PDF layered (a strati)](pdflayered.webp "QGIS e la stampa in PDF layered (a strati)" ){class="crop gray" align=left}](index.md) 

@@ -11,6 +11,7 @@ tags:
   - IGM
   - Italia
   - Sicilia
+social_image: assets/img/social/gpn_igm_palermo_01.jpg
 --- 
 <style>.md-typeset code { background-color: #fff0;} 
  </style>

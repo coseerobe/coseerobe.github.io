@@ -12,6 +12,7 @@ tags:
   - Sicilia
   - Catasto incendi
   - Terre bruciate
+social_image: assets/img/social/Incendio_Pizzo_Manolfo.jpg 
 ---
 <style>
 .md-typeset code { background-color: #fff0;}  

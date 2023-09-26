@@ -13,6 +13,7 @@ tags:
   - Mare
   - Bandiere Blu
   - Spiagge
+social_image: assets/img/social/bandiere-blu-2023.jpg
 ---
 <style>.md-typeset code { background-color: #fff0;}  </style>
 [![Bandiere Blu 2023 Spiagge e Approdi](bandiere-blu-2023.jpg "Italia | Bandiere Blu 2023 Spiagge e Approdi" ){class="crop gray" align=left}](index.md) 

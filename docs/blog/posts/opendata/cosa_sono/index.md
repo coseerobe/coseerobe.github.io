@@ -9,6 +9,7 @@ categories:
   - Opendata  
 tags:
   - Opendata 
+social_image: assets/img/social/opendata_def_pa.jpg 
 ---  
 <style>.md-typeset code { background-color: #fff0;}  </style>
 [![Cosa sono gli opendata](opendata_def_pa.webp "Italia | Cosa sono gli opendata" ){class="crop gray" align=left}](index.md)
