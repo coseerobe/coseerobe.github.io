@@ -12,6 +12,10 @@ aside, body, input { color: #666666!important;}
 /* Dimensione pagina Site width etc.*/
 .md-grid {  max-width: 65rem !important;
 	 /*max-width: 100% !important;*/}
+.md-typeset hr {      border-bottom: 0 rem solid var(--md-default-fg-color--lightest)!important;
+    display: flow-root;
+    margin: 0em 0!important;
+}
 
 /*Colori primari*/
 [data-md-color-primary=white] {

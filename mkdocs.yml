@@ -142,7 +142,7 @@ plugins:
 - glightbox:
       auto_caption: true 
 - mkdocstrings
-# - macros
+#- macros
 #- charts
 - tags:
     tags_file: tags.md
@@ -152,7 +152,7 @@ plugins:
     post_dir: blog/posts
     pagination_keep_content: true
     pagination_format: "$link_first $link_previous ~2~ $link_next $link_last"
-    pagination_per_page: 10
+    pagination_per_page: 7
     authors_file: blog/.authors.yml
     blog_toc: false
     categories_toc: false
