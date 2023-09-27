@@ -247,10 +247,10 @@ markdown_extensions:
   
 # menu
 nav:
- # - Home:   index.md
+  - Home:  'https://coseerobe.it/'
  #  - index.md
   #  - blog/index.md    
-  - Blog: 
+  - Indice Blog: 
      - blog/index.md
  # - Autori: blog/authors.md
   - Mappe: blog/category/mappe/
