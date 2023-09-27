@@ -66,6 +66,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://coseerobe.it/blog/mappe/italia-2019--earthquakes-today--mappe-e-grafici-dinamici/</loc>
+         <lastmod>2023-09-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://coseerobe.it/blog/mappe/sicilia--terre-percorse-dal-fuoco-negli-incendi-al-2022/</loc>
          <lastmod>2023-09-27</lastmod>
          <changefreq>daily</changefreq>
@@ -76,7 +81,7 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://coseerobe.it/blog/mappe/italia-covid-19--regioni-soggette-a-misure-restrittive-per-lemergenza-epidemiologica/</loc>
+         <loc>https://coseerobe.it/blog/mappe/italia-covid-19--regioni-soggette-a-misure-restrittive-per-l39emergenza-epidemiologica/</loc>
          <lastmod>2023-09-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -122,6 +127,11 @@
     </url>
     <url>
          <loc>https://coseerobe.it/blog/news/dpc--aggregati-strutturali-itg/</loc>
+         <lastmod>2023-09-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://coseerobe.it/blog/mappe/bollettini-covid-19--dati-epidemiologici-e-vaccinali--regione-sicilia/</loc>
          <lastmod>2023-09-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -186,6 +196,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://coseerobe.it/blog/news/piano-regolatore-generale-di-palermo-1962/</loc>
+         <lastmod>2023-09-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://coseerobe.it/blog/news/il-riuso-dei-dati-aperti-in-italia/</loc>
          <lastmod>2023-09-27</lastmod>
          <changefreq>daily</changefreq>
@@ -202,6 +217,26 @@
     </url>
     <url>
          <loc>https://coseerobe.it/blog/tutorial/carte-igm-di-tutta-litalia-on-line/</loc>
+         <lastmod>2023-09-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://coseerobe.it/blog/tutorial/suddividere-una-colonna-di-file-csv/</loc>
+         <lastmod>2023-09-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://coseerobe.it/blog/tutorial/host-on-netlify/</loc>
+         <lastmod>2023-09-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://coseerobe.it/blog/tutorial/hugo-server-linux-bash-shell-di-windows/</loc>
+         <lastmod>2023-09-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://coseerobe.it/blog/tutorial/google-sheets---importdata-file-csv-con-separatore-semicolon-/</loc>
          <lastmod>2023-09-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -227,6 +262,11 @@
     </url>
     <url>
          <loc>https://coseerobe.it/blog/archive/2021/</loc>
+         <lastmod>2023-09-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://coseerobe.it/blog/archive/2020/</loc>
          <lastmod>2023-09-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -296,7 +336,17 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://coseerobe.it/blog/page/7/</loc>
+         <lastmod>2023-09-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://coseerobe.it/blog/archive/2022/page/2/</loc>
+         <lastmod>2023-09-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://coseerobe.it/blog/archive/2021/page/2/</loc>
          <lastmod>2023-09-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -307,6 +357,11 @@
     </url>
     <url>
          <loc>https://coseerobe.it/blog/category/mappe/page/2/</loc>
+         <lastmod>2023-09-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://coseerobe.it/blog/category/mappe/page/3/</loc>
          <lastmod>2023-09-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
