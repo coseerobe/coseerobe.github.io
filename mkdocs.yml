@@ -247,15 +247,14 @@ markdown_extensions:
   
 # menu
 nav:
-  - Home:  'https://coseerobe.it/'
+ # - Home:  'https://coseerobe.it/'
  #  - index.md
   #  - blog/index.md    
-  - Indice Blog: 
+  - Home: 
      - blog/index.md
- # - Autori: blog/authors.md
-  - Mappe: blog/category/mappe/
-  - Opendata: blog/category/opendata/
-  - Tutorial: blog/category/tutorial/
-  - News: blog/category/news/
+#  - Mappe: blog/category/mappe/
+#  - Opendata: blog/category/opendata/
+#  - Tutorial: blog/category/tutorial/
+#  - News: blog/category/news/
   - Link utili: link_utili.md 
   - Perché: perche.md  

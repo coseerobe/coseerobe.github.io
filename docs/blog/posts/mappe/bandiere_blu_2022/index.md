@@ -16,11 +16,11 @@ tags:
 social_image: assets/img/social/bandiere-blu-2022.jpg
 ---
 <style>.md-typeset code { background-color: #fff0;}  </style>
-[![Bandiere Blu 2022 Spiagge e Approdi](bandiere-blu-2022.jpg "Italia | Bandiere Blu 2022 Spiagge e Approdi" ){class="crop gray" align=right}](index.md) 
+[![Bandiere Blu 2022 Spiagge e Approdi](bandiere-blu-2022.jpg "Italia | Bandiere Blu 2022 Spiagge e Approdi" ){class="crop gray" align=left}](index.md) 
 
 36° edizione per i riconoscimenti assegnati della ong danese Fee (**[FEE, Foundation for Environmental Education | Italia](http://www.bandierablu.org/common/index.asp)**)
 
-_La Bandiera Blu è un riconoscimento internazionale, istituito nel 1987 Anno europeo dell’Ambiente, che viene assegnato ogni anno in 49 paesi,<!-- more --> inizialmente solo europei, più recentemente anche extra-europei. Bandiera Blu è un eco-label volontario assegnato alle località turistiche balneari che rispettano criteri relativi alla gestione sostenibile del territorio._
+_La Bandiera Blu è un riconoscimento internazionale, istituito nel 1987 Anno europeo dell’Ambiente, che viene assegnato ogni anno in 49 paesi, inizialmente solo europei, più recentemente anche extra-europei. Bandiera Blu è un eco-label volontario assegnato alle località turistiche balneari che rispettano criteri relativi alla gestione sostenibile del territorio._<!-- more -->
 
 Fonte dati: **[FEE, Foundation for Environmental Education | Italia](http://www.bandierablu.org/common/index.asp) –  Mappa 50 Paesi [Blue Flag](https://www.blueflag.global/)**
 

@@ -18,7 +18,7 @@ social_image: assets/img/social/aggregati.jpg
 .md-typeset code { background-color: #fff0;}  
 .md-typeset pre>code { background-color: #fff0;}  
 </style>
-[![aggregati](aggregati.jpg "DPC-Aggregati-Strutturali-ITG | Palermo" ){class="crop gray" align=left}](index.md)
+[![aggregati](aggregati.jpg "DPC-Aggregati-Strutturali-ITG | Palermo" ){class="crop gray" align=right}](index.md)
 
 La **Presidenza del Consiglio dei Ministri – Dipartimento della Protezione Civile** ha pubblicato su [Github](https://github.com/pcm-dpc) il dataset nazionale degli aggregati strutturali, una raccolta dati sugli aggregati edilizi del nostro Paese.
 

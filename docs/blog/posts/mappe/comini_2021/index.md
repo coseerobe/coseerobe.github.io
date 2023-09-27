@@ -20,15 +20,15 @@ social_image: assets/img/social/comuni_2021.jpg
 .md-typeset code { background-color: #fff0;}  
 .md-typeset pre>code { background-color: #fff0;}  
 </style>
-[![Comuni Italiani 2021](comuni_2021.webp "Comuni Italiani 2021" ){class="crop gray" align=right }](index.md)
+[![Comuni Italiani 2021](comuni_2021.webp "Comuni Italiani 2021" ){class="crop gray" align=left }](index.md)
 
-Per realizzare il progetto **[InformaCOVID](https://informacovid.opendatasicilia.it/)** di [opendatasicilia](http://opendatasicilia.it/) è nata l’esigenza di avere una mappa/elenco di tutti i Comuni Italiani del 2021con tutti i dati principali che identificano ogni sigolo Comune (stemmi, dati popolazione, codici istat, lat, long). A questo scopo è stato attivato un [repository](https://github.com/opendatasicilia/comuni-italiani) sulla piattaforma [GitHub.](https://github.com/)<!-- more -->
+Per realizzare il progetto **[InformaCOVID](https://informacovid.opendatasicilia.it/)** di [opendatasicilia](http://opendatasicilia.it/) è nata l’esigenza di avere una mappa/elenco di tutti i Comuni Italiani del 2021con tutti i dati principali che identificano ogni sigolo Comune (stemmi, dati popolazione, codici istat, lat, long). A questo scopo è stato attivato un [repository](https://github.com/opendatasicilia/comuni-italiani) sulla piattaforma [GitHub.](https://github.com/)
 
-**Il [repository](https://github.com/opendatasicilia/comuni-italiani) contiene:**
+**Il [repository](https://github.com/opendatasicilia/comuni-italiani) contiene:**<!-- more -->
 
 * [Api](https://github.com/opendatasicilia/comuni-italiani/tree/main/api)
 * [file .csv](https://github.com/opendatasicilia/comuni-italiani/tree/main/dati)
-* immagini degli stemmi dei comuni italiani per [nome del comune](https://github.com/opendatasicilia/comuni-italiani/tree/main/img/stemmi_nomi_comuni) o per [codice istat](https://github.com/opendatasicilia/comuni-italiani/tree/main/img/stemmi_cod_istat)
+* immagini degli stemmi dei comuni italiani per [nome del comune](https://github.com/opendatasicilia/comuni-italiani/tree/main/img/stemmi_nomi_comuni) o per [codice istat](https://github.com/opendatasicilia/comuni-italiani/tree/main/img/stemmi_cod_istat) 
 * [file .geojson](https://github.com/opendatasicilia/comuni-italiani/tree/main/dati/geojson) con la localizzazione dei comuni
 
 Tutti i dati sono stati rielaborati e curati da [opendatasicilia.](http://opendatasicilia.it/)

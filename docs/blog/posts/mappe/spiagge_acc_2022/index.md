@@ -19,7 +19,7 @@ social_image: assets/img/social/Spiagge-per-tutti-accessibili-2022.jpg
 .md-typeset code { background-color: #fff0;}  
 .md-typeset pre>code { background-color: #fff0;}  
 </style>
-[![Spiagge accessibili](Spiagge-per-tutti-accessibili-2022.jpg "Sicilia | Spiagge accessibili – 2022" ){class="crop gray" align=right}](index.md)
+[![Spiagge accessibili](Spiagge-per-tutti-accessibili-2022.jpg "Sicilia | Spiagge accessibili – 2022" ){class="crop gray" align=left}](index.md)
 
 Il 5 luglio è stato presentato presso il **comando della Capitaneria di Porto** di Siracusa il progetto “**[Sicilia e Siracusa, Mare per tutti 2022](https://github.com/SiciliaHub/palermohub/raw/gh-pages/legend/Spiagge-per-tutti-accessibili-2022.pdf)”** che ha l’obiettivo di promuovere un turismo accessibile ed un’accoglienza di qualità, attraverso il superamento di tutti quegli ostacoli che impediscono di godere a pieno dell’esperienza turistica e di tutta la bellezza del territorio siciliano.
 
