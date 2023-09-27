@@ -12,7 +12,7 @@ tags:
 social_image: assets/img/social/opendata_def_pa.jpg 
 ---  
 <style>.md-typeset code { background-color: #fff0;}  </style>
-[![Cosa sono gli opendata](../../../assets/img/social/opendata_def_pa.jpg "Italia | Cosa sono gli opendata" ){class="crop gray" align=left}](index.md)
+[![Cosa sono gli opendata](opendata_def_pa.jpg "Italia | Cosa sono gli opendata" ){class="crop gray" align=left}](index.md)
 
 I **[dati aperti](https://it.wikipedia.org/wiki/Dati_aperti)**, comunemente chiamati con il termine [inglese](https://it.wikipedia.org/wiki/Lingua_inglese) **open data** anche nel contesto italiano, sono dati liberamente accessibili a tutti le cui eventuali restrizioni sono l’obbligo di citare la fonte o di mantenere la banca dati sempre aperta.
 

@@ -18,7 +18,7 @@ social_image: assets/img/social/monte_pellegrino.jpg
 .md-typeset code { background-color: #fff0;}  
 .md-typeset pre>code { background-color: #fff0;}  
 </style>
-[![Incendio del 15/08/2023](../../../assets/img/social/monte_pellegrino.jpg "Monte Pellegrino - foto Raffaele Franco | Incendio del 15/08/2023" ){class="crop gray" align=right}](index.md)
+[![Incendio del 15/08/2023](monte_pellegrino.jpg "Monte Pellegrino - foto Raffaele Franco | Incendio del 15/08/2023" ){class="crop gray" align=right}](index.md)
 
 Non è la prima volta che OpenDataSicilia affronta il tema degli incendi boschivi, nel 2016 è stato affrontato da [Giuseppe Ragusa](https://twitter.com/giuragu) con “**_[Dati alle Fiamme](http://datiallefiamme.it/)_**“, l’anno successivo nel 2017 durante un’altra stagione calda per gli incendi, il tema è stato ripreso con gli amici di “**_Italia a Fuoco_**” e anche con l’ausilio dei dati [EFFIS – European Forest Fire Information System](http://effis.jrc.ec.europa.eu/applications/fire-news/) furono elaborate mappe e grafici (vedi [palermohub.opendatasicilia.it](https://palermohub.opendatasicilia.it/))
 <!-- more -->

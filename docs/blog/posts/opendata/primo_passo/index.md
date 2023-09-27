@@ -15,7 +15,7 @@ tags:
   - Piano Regolatore
 social_image: assets/img/social/strumenti_urbanistici_01.jpg  
 --- 
-[![Strumenti urbanistici Palermo](../../../assets/img/social/strumenti_urbanistici_01.jpg "Strumenti urbanistici Palermo" ){class="crop gray off" align=right}](index.md)
+[![Strumenti urbanistici Palermo](strumenti_urbanistici_01.jpg "Strumenti urbanistici Palermo" ){class="crop gray off" align=right}](index.md)
 
 ![Cd Variante Gerenale al P.R.G.](etichetta_cd_01.webp "Cd Variante Gerenale al P.R.G."){align=left class="resized10 nobox" .off-glb }Nel dicembre del 1999, lavoravo presso la “_Ripartizione Urbanistica_” nel gruppo informatico, che si occupava di aggiornare e stampare la Variante Generale al P.R.G.
 Vista la richiesta, sempre crescente, di stampe e allegati del PRG, di mia iniziativa, progettai e realizzai, un cd multimediale e multipiattaforma win/mac, dove mettere a disposizione dei cittadini gli elaborati della Variante Generale in formato[.pdf](https://acrobat.adobe.com/it/it/why-adobe/about-adobe-pdf.html). Il cd fu presentato alla stampa locale dall’allora Vice Sindaco E. Arcuri. <br> <!-- more -->
