@@ -2,7 +2,7 @@
 title: Sicilia Covid-19 | 2022 – Comuni siciliani attualmente in zona rossa, arancione, gialla e vaccinazioni
 description: Sicilia Covid-19 | 2022 – Comuni siciliani attualmente in zona rossa, arancione, gialla e vaccinazioni
 draft: false
-date: 2022-01-08
+date: 2021-01-08
 authors:
   - gbvitrano
 categories:

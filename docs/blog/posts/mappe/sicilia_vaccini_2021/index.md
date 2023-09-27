@@ -18,7 +18,7 @@ social_image: assets/img/social/Guenter.jpg
 .md-typeset code { background-color: #fff0;}  
 .md-typeset pre>code { background-color: #fff0;}  
 </style>
-[![Dashboard vaccini](Guenter.webp "Sicilia | Dashboard vaccini covid19 aggiornato a Giugno 2021" ){class="crop gray off" align=right }](index.md)
+[![Dashboard vaccini](Guenter.webp "Sicilia | Dashboard vaccini covid19 aggiornato a Giugno 2021" ){class="crop gray off" align=left}](index.md)
 
 La [Regione Sicilia](https://www.regione.sicilia.it/) ha pubblicato in opendata il [dataset](https://dati.regione.sicilia.it/dataset/covid-19-vaccini-sicilia-target-e-vaccinati-per-comune-e-fasce-di-eta)  “ **[target e vaccinati per comune e fasce di età.](https://dati.regione.sicilia.it/dataset/covid-19-vaccini-sicilia-target-e-vaccinati-per-comune-e-fasce-di-eta)“**
 

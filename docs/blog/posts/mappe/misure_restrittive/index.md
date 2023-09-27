@@ -1,6 +1,6 @@
 ---
-title: Italia Covid 19 | Regioni soggette a misure restrittive per l’emergenza epidemiologica
-description: Italia Covid 19 | Regioni soggette a misure restrittive per l’emergenza epidemiologica
+title: Italia Covid 19 | Regioni soggette a misure restrittive per l&#39;emergenza epidemiologica
+description: Italia Covid 19 | Regioni soggette a misure restrittive per l&#39;emergenza epidemiologica
 draft: false
 date: 2022-01-24
 authors:
@@ -17,7 +17,7 @@ tags:
 social_image: assets/img/social/misure_restrittive.jpg
 ---
 <style>.md-typeset code { background-color: #fff0!important;}  </style>
-[![covid misure_restrittive](misure_restrittive.webp  "Italia Covid 19 | Regioni soggette a misure restrittive per l’emergenza epidemiologica" ){class="crop gray off" align=right}](index.md) 
+[![covid misure_restrittive](misure_restrittive.webp  "Italia Covid 19 | Regioni soggette a misure restrittive per l&#39;emergenza epidemiologica" ){class="crop gray off" align=right}](index.md) 
 
 Il **Dipartimento della Protezione Civile** pubblica i dati sulle **misure** di **contenimento** applicate a livello nazionale e/o nelle regioni e province autonome, ovvero l’assegnazione delle zone rosse, arancioni, gialle e bianche.
 

@@ -2,7 +2,7 @@
 title: DPC | Aggregati-Strutturali-ITG
 description: DPC | Aggregati-Strutturali-ITG
 draft: false
-date: 2022-05-13
+date: 2021-05-13
 authors:
   - gbvitrano
 categories:

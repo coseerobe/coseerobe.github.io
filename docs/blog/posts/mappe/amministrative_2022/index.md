@@ -18,7 +18,7 @@ social_image: assets/img/social/liste_consiglieri.jpg
 .md-typeset code { background-color: #fff0;}  
 .md-typeset pre>code { background-color: #fff0;}  
 </style>
-[![Spiagge accessibili](liste_consiglieri.jpg "Palermo | Elezioni Amministrative 2022 " ){class="crop gray off" align=right}](index.md)
+[![Spiagge accessibili](liste_consiglieri.jpg "Palermo | Elezioni Amministrative 2022 " ){class="crop gray off" align=left}](index.md)
 
 Domenica 12 giugno 2022 si è svolta a Palermo la consultazione per l’elezione diretta dei sindaci e dei consigli comunali, nonché per l’elezione dei consigli circoscrizionali nelle regioni a statuto ordinario.
 <br><br>

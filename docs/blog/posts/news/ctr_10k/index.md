@@ -17,7 +17,7 @@ social_image: assets/img/social/ctr10k.png
 .md-typeset code { background-color: #fff0;}  
 .md-typeset pre>code { background-color: #fff0;}  
 </style>
-[![CTR](ctr10k.png "Carta Tecnica Regione 10k" ){class="crop gray" align=right}](index.md) 
+[![CTR](ctr10k.png "Carta Tecnica Regione 10k" ){class="crop gray" align=left}](index.md) 
 
 Il 27 ottobre 2021 la Regione Sicilia pubblica, e sono disponibili per il download in formato [shapefile](https://www.sitr.regione.sicilia.it/download/download-carta-tecnica-regionale-10000/ata1213-shape/), i [tematismi](https://www.sitr.regione.sicilia.it/download/tematismi/) della **[Carta Tecnica Regionale in scala 1:10.000](https://www.sitr.regione.sicilia.it/download/download-carta-tecnica-regionale-10000/ata1213-shape/)** edizione ATA 2012-2013
 

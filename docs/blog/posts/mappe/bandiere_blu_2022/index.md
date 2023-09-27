@@ -16,7 +16,7 @@ tags:
 social_image: assets/img/social/bandiere-blu-2022.jpg
 ---
 <style>.md-typeset code { background-color: #fff0;}  </style>
-[![Bandiere Blu 2022 Spiagge e Approdi](bandiere-blu-2022.jpg "Italia | Bandiere Blu 2022 Spiagge e Approdi" ){class="crop gray" align=left}](index.md) 
+[![Bandiere Blu 2022 Spiagge e Approdi](bandiere-blu-2022.jpg "Italia | Bandiere Blu 2022 Spiagge e Approdi" ){class="crop gray" align=right}](index.md) 
 
 36° edizione per i riconoscimenti assegnati della ong danese Fee (**[FEE, Foundation for Environmental Education | Italia](http://www.bandierablu.org/common/index.asp)**)
 
