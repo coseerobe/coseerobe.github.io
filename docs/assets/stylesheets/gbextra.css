@@ -14,8 +14,9 @@ aside, body, input { color: #666666!important;}
 	 /*max-width: 100% !important;*/}
 .md-typeset hr {      border-bottom: 0!important;
     display: flow-root;
-    margin: 0em 0!important;
-}
+    margin: 0em 0!important;}
+	
+.md-pagination {margin-top: 90px!important;}
 
 /*Colori primari*/
 [data-md-color-primary=white] {
