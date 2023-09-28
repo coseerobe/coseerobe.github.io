@@ -5,3 +5,14 @@ Tutti i contenuti sono esclusivamente **test personali finalizzati ad IMPARARE e
 
 ### [cose&robe.it](https://coseerobe.it/) è realizzato con [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)  template della sola homepage in html 5 by [colorlib.com](https://colorlib.com/) free Themes
 [![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/coseerobe/coseerobe/gh-deploy.yml?label=Github%20Pages)](https://coseerobe.it/) [![GitHub last commit (branch)](https://img.shields.io/github/last-commit/coseerobe/coseerobe/main?label=Ultimo%20aggiornamento)](https://coseerobe.it/)  [![Website](https://img.shields.io/website?url=https%3A%2F%2Fcoseerobe.it%2Fblog%2F&label=Sito%20web%20onlie)](https://coseerobe.it/) [![GitHub](https://img.shields.io/github/license/coseerobe/coseerobe?label=Licenza)](https://github.com/coseerobe/coseerobe/blob/main/LICENSE.md) 
+<br><br>
+<a href="https://coseerobe.github.io" target="_black"> 
+<img src="https://img.shields.io/static/v1?label=URL%20di%20GitHub&message=coseerobe.github.io&color=ff0000&logo=HTML5&logoColor=ff0000&style=for-the-badge" title="URL GitHub"></a>
+<a href="https://coseerobe.it" target="_black"> 
+<img src="https://img.shields.io/static/v1?label=URL%20di%20redirectb&message=coseerobe.it&color=ff0000&logo=HTML5&logoColor=ff0000&style=for-the-badge" title="URL redirect"></a>
+<br> <br>
+<a href="https://www.mkdocs.org/" target="_black"> 
+<img src="https://img.shields.io/static/v1?label=Linguaggio%20di%20markup&message=Markdown&color=ff0000&logo=Markdown&logoColor=ff0000&style=for-the-badge" title="Linguaggio di markup: Markdown"></a>
+<a href="https://squidfunk.github.io/mkdocs-material/" target="_black"> 
+ <img src="https://img.shields.io/static/v1?label=Template%20di%20MkDocs&message=Material for MkDocs&color=ff0000&logo=Markdown&logoColor=ff0000&style=for-the-badge" title="[Material for MkDocs"> 
+</a>
