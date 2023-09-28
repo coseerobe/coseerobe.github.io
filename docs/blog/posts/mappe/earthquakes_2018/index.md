@@ -1,8 +1,8 @@
 ---
-title: Localizzazione Fontane e Fontanelle Palermo – 2019
-description: Localizzazione Fontane e Fontanelle Palermo – 2019
+title: Italia 2018 | Earthquakes today | Mappa terremoti
+description: Italia 2018 | Earthquakes today | Mappa terremoti
 draft: false
-date: 2019-08-26
+date: 2018-12-31
 authors:
   - gbvitrano
 categories:
@@ -12,17 +12,18 @@ tags:
   - aaaa
   - bbbb
   - yyyy
-social_image: assets/img/social/fontanelle.jpg
+social_image: assets/img/social/terremoti_italia_2018.jpg
 ---
 <style>
 .md-typeset code { background-color: #fff0;}  
 .md-typeset pre>code { background-color: #fff0;}  
 </style>
-[![fontanelle](fontanelle.webp "Localizzazione Fontane e Fontanelle Palermo – 2019" ){class="crop gray" align=left}](index.md)
+[![Earthquakes](terremoti_italia_2018.jpg "Italia 2018 | Earthquakes today | Mappa terremoti" ){class="crop gray" align=right}](index.md)
+
 
 ![workinprogress](https://coseerobe.it/assets/img/workinprogress.jpg "Work in progress"){class="nobox" .off-glb }
 
-https://coseerobe.gbvitrano.it/localizzazione-fontane-e-fontanelle-palermo-2019.html
+https://coseerobe.gbvitrano.it/mappa-terremoti-italia-today.html
 
 <hr>
 **Disclaimer:** Le informazioni visibili e condivise non comportano la visualizzazione di dati sensibili. Data la natura esclusivamente informativa degli elaborati grafici e dei testi riportati, questi non costituiscono atti ufficiali. Per accedere agli atti ufficiali si rinvia agli elaborati definitivi allegati alle specifiche deliberazioni.

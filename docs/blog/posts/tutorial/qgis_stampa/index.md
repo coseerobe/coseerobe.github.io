@@ -2,7 +2,7 @@
 title: QGIS e la stampa in PDF layered (a strati)
 description:  QGIS e la stampa in PDF layered (a strati)
 draft: false
-date: 2017-01-27
+date: 2019-01-27
 authors:
   - gbvitrano
 categories:

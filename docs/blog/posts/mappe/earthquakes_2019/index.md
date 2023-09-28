@@ -8,10 +8,10 @@ authors:
 categories:
   - Mappe
 tags:
-  - Amministrative
-  - Sicilia
-  - Palermo
-  - Elezioni
+  - xxxx
+  - aaaa
+  - bbbb
+  - yyyy
 social_image: assets/img/social/earthquakes.jpg
 ---
 <style>
