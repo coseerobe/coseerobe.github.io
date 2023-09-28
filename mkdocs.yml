@@ -114,6 +114,9 @@ extra:
     - icon: ods
       link: http://opendatasicilia.it/
       name: opendatasicilia.it  
+    - icon: fontawesome/brands/github
+      link: https://github.com/coseerobe/coseerobe.github.io
+      name: Repository GitHub  
     - icon: fontawesome/solid/envelope
       link: mailto:coseerobe.gbvitrano@gmail.com
       name: coseerobe.gbvitrano@gmail.com
@@ -129,12 +132,12 @@ extra:
     - icon: fontawesome/brands/creative-commons
       link: https://creativecommons.org/licenses/by-sa/4.0/deed.it
       name: Attribuzione - Condividi allo stesso modo 4.0 Internazionale (CC BY-SA 4.0)     
-    - icon: fontawesome/brands/creative-commons-by
-      link: https://creativecommons.org/licenses/by-sa/4.0/deed.it
-      name: Attribuzione - Condividi allo stesso modo 4.0 Internazionale (CC BY-SA 4.0)   
-    - icon: fontawesome/brands/creative-commons-sa
-      link: https://creativecommons.org/licenses/by-sa/4.0/deed.it
-      name: Attribuzione - Condividi allo stesso modo 4.0 Internazionale (CC BY-SA 4.0)         
+ #   - icon: fontawesome/brands/creative-commons-by
+ #     link: https://creativecommons.org/licenses/by-sa/4.0/deed.it
+ #     name: Attribuzione - Condividi allo stesso modo 4.0 Internazionale (CC BY-SA 4.0)   
+ #   - icon: fontawesome/brands/creative-commons-sa
+ #     link: https://creativecommons.org/licenses/by-sa/4.0/deed.it
+ #     name: Attribuzione - Condividi allo stesso modo 4.0 Internazionale (CC BY-SA 4.0)         
          
 plugins:
 - search:
