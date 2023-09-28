@@ -1,25 +1,26 @@
 ---
-title: Google Sheets - Importdata file csv con separatore semicolon (;)
-description:  Google Sheets - Importdata file csv con separatore semicolon (;)
+title: Ponti e viadotti italiani - Agosto 2018
+description:  Ponti e viadotti italiani - Agosto 2018
 draft: false
-date: 2019-08-29
+date: 2018-08-15
 authors:
   - gbvitrano
 categories:
-  - Tutorial
+  - Mappe
 tags:
-  - Google shetts
-  - importdata
-  - csv
-social_image: assets/img/social/importdata.jpg
+  - xxxx
+  - aaaa
+  - bbbb
+  - yyyy
+social_image: assets/img/social/mappa_pontieviadotti.jpg
 --- 
 <style>.md-typeset code { background-color: #fff0;} 
 </style>
-[![importdata](importdata.webp "Google Sheets - Importdata file csv con separatore semicolon (;)" ){class="crop gray" align=right}](index.md) 
+[![viadotti](mappa_pontieviadotti.jpg "Ponti e viadotti italiani - Agosto 2018" ){class="crop gray" align=left}](index.md) 
 
 ![workinprogress](https://coseerobe.it/assets/img/workinprogress.jpg "Work in progress"){class="nobox" .off-glb }
 
-https://coseerobe.gbvitrano.it/google-sheets-importadata-file-csv-con-separatore-semicolon.html
+https://coseerobe.gbvitrano.it/sicilia-ponti-e-viadotti.html
 
 <hr>
 **Disclaimer:** Le informazioni visibili e condivise non comportano la visualizzazione di dati sensibili. Data la natura esclusivamente informativa degli elaborati grafici e dei testi riportati, questi non costituiscono atti ufficiali. Per accedere agli atti ufficiali si rinvia agli elaborati definitivi allegati alle specifiche deliberazioni.

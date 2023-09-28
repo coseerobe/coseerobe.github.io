@@ -6,7 +6,7 @@ date: 2021-12-31
 authors:
   - gbvitrano
 categories:
-  - Mappe
+  - News
 tags:
   - Italia
   - Sicilia
@@ -17,7 +17,7 @@ tags:
 social_image: assets/img/social/api.jpg
 ---
 <style>.md-typeset code { background-color: #fff0!important;}  </style>
-[![api](api.webp  "Bollettini Covid 19 | Dati Epidemiologici e Vaccinali – Regione Sicilia" ){class="crop gray off" align=right}](index.md) 
+[![api](api.webp  "Bollettini Covid 19 | Dati Epidemiologici e Vaccinali – Regione Sicilia" ){class="crop gray" align=right}](index.md) 
 
 ![workinprogress](https://coseerobe.it/assets/img/workinprogress.jpg "Work in progress"){class="nobox" .off-glb }
 
