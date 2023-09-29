@@ -13,7 +13,7 @@ tags:
 social_image: assets/img/social/hfc_social.png
 ---  
 <style>.md-typeset code { background-color: #fff0;}  </style>
-[![HfcQGIS](hfc_social.png "HfcQGIS: Help funzioni calcolatore di campi di QGIS" ){class="crop gray" align=right}](index.md) 
+[![HfcQGIS](hfc_social.png "HfcQGIS: Help funzioni calcolatore di campi di QGIS" ){class="crop gray" align=left}](index.md) 
 
 ## Cos'è HfcQGIS?
 **[HfcQGIS](http://hfcqgis.opendatasicilia.it/it/latest/index.html)** è una guida/manuale che spiega come usare il **[calcolatore di campi](http://hfcqgis.opendatasicilia.it/it/latest/calcolatore_campi/index.html)** e le relative funzioni/espressioni di **#QGIS**, realizzato da **[Salvatore Fiandaca](https://pigrecoinfinito.wordpress.com/)** (aka _pigreco_, per gli amici _Totò_). Totò è un componente attivo della comunità **#QGIS** e nella sua infinita bontà, pazienza è sempre disponibile a spiegare, aiutare e risolvere tutti problemi che noi utenti neofiti incontriamo nell’uso di [QGIS.](https://qgis.org/it/site/)<!-- more -->
