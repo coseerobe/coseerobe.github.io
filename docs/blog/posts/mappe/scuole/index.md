@@ -1,8 +1,8 @@
 ---
-title: Concessioni Demaniali Marittime 2018
-description:  Concessioni Demaniali Marittime 2018
+title: Scuole pubbliche (Statale/Paritaria) per l'infanzia, primarie e secondarie sul territorio nazionale
+description:  Scuole pubbliche (Statale/Paritaria) per l'infanzia, primarie e secondarie sul territorio nazionale
 draft: false
-date: 2018-04-28
+date: 2018-03-10
 authors:
   - gbvitrano
 categories:
@@ -12,11 +12,11 @@ tags:
   - aaaa
   - bbbb
   - yyyy
-social_image: assets/img/social/Concessioni-Demaniali-Marittime-Aprile.jpg
+social_image: assets/img/social/mappa_scuola.jpg
 --- 
 <style>.md-typeset code { background-color: #fff0;} 
 </style>
-[![concessioni](Concessioni-Demaniali-Marittime-Aprile.jpg "Concessioni Demaniali Marittime 2018" ){class="crop gray" align=right}](index.md) 
+[![scuole](mappa_scuola.jpg "Scuole pubbliche (Statale/Paritaria) per l'infanzia, primarie e secondarie sul territorio nazionale" ){class="crop gray" align=left}](index.md) 
 
 ![workinprogress](https://coseerobe.it/assets/img/workinprogress.jpg "Work in progress"){class="nobox" .off-glb }
 

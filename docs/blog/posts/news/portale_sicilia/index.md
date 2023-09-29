@@ -20,7 +20,7 @@ social_image: assets/img/social/opendata_sicilia.jpg
 .md-typeset code { background-color: #fff0;}  
 .md-typeset pre>code { background-color: #fff0;}  
 </style>
-[![Open Data](opendata_sicilia.jpg "Sicilia lancia il portale Open Data" ){class="crop gray" align=right}](index.md)
+[![Open Data](opendata_sicilia.jpg "Sicilia lancia il portale Open Data" ){class="crop gray" align=left}](index.md)
 
 La Regione Sicilia, ha appena lanciato il suo nuovo [portale Open Data](https://dati.regione.sicilia.it/). Il portale è il punto di accesso per i dati aperti sulle aree di attività delle pubbliche amministrazioni regionali in Sicilia. È API accessibile e attualmente dispone di 21 set di dati, ma questo dovrebbe crescere nel prossimo futuro.
 
