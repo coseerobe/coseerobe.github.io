@@ -20,7 +20,7 @@ social_image: assets/img/social/mappa_rischio.jpg
 .md-typeset code { background-color: #fff0;}  
 .md-typeset pre>code { background-color: #fff0;}  
 </style>
-[![istat](mappa_rischio.jpg   "ISTAT – Mappa dei rischi dei comuni italiani" ){class="crop gray" align=right}](index.md)
+[![istat](mappa_rischio.jpg   "ISTAT – Mappa dei rischi dei comuni italiani" ){class="crop gray" align=left}](index.md)
 
 L’**Istituto Nazionale di Statistica** e **Casa Italia**, struttura di missione della Presidenza del Consiglio, rendono disponibile un quadro informativo integrato sui rischi naturali in Italia.
 

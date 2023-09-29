@@ -18,7 +18,7 @@ social_image: assets/img/social/lineguida_opendata_palermo.jpg
 .md-typeset code { background-color: #fff0;}  
 .md-typeset pre>code { background-color: #fff0;}  
 </style>
-[![linee-guida](lineguida_opendata_palermo.jpg "Palermo - Approvazione delle linee guida comunali open data versione 2017 partecipate" ){class="crop gray" align=left}](index.md)
+[![linee-guida](lineguida_opendata_palermo.jpg "Palermo - Approvazione delle linee guida comunali open data versione 2017 partecipate" ){class="crop gray" align=right}](index.md)
 
 [#Palermo, linee guida comunali #opendata 2017, la tradizione continua in modalità partecipata](http://opendatasicilia.it/2017/05/09/palermo-linee-guida-comunali-opendata-2017-la-tradizione-continua-in-modalita-partecipata/), un articolo di [Ciro Spataro](https://twitter.com/cirospat) su [opendatasicilia.it](http://opendatasicilia.it//) dove ci racconta tutto l’iter per la redazione delle **[linee guida open data partecipate](https://docs.google.com/document/d/1GNpfBB-kuUihzoTQmg7fgfloRIdph1tDQE7lx8lKZSo/edit)** di Palermo, fino all’approvazione del 4 maggio 2017 da parte dell’Amministrazione Comunale di Palermo, con la **Deliberazione di Giunta n. 97, [versione 2017 delle linee guida open data partecipate](https://docs.google.com/document/d/1GNpfBB-kuUihzoTQmg7fgfloRIdph1tDQE7lx8lKZSo/edit)**, la continuazione di un percorso culturale cominciato nel 2013.<!-- more -->
 

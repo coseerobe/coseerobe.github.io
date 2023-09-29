@@ -20,7 +20,7 @@ social_image: assets/img/social/opendata_fest.jpg
 .md-typeset code { background-color: #fff0;}  
 .md-typeset pre>code { background-color: #fff0;}  
 </style>
-[![ods17](opendata_fest.jpg "Opendatafest 2017 a Caltanissetta, il report di 3 giorni di lavori" ){class="crop gray" align=right}](index.md)
+[![ods17](opendata_fest.jpg "Opendatafest 2017 a Caltanissetta, il report di 3 giorni di lavori" ){class="crop gray" align=left}](index.md)
 
 Le comunità di [Opendatasicilia](https://groups.google.com/forum/#%21forum/opendatasicilia) e [Spaghetti Open Data](https://groups.google.com/forum/#%21forum/spaghettiopendata) hanno dato vita a questo report sui lavori della 3 giorni di incontri dell’opendatafest a Caltanissetta (2-4 giugno 2017).
 

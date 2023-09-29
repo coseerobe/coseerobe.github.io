@@ -19,7 +19,7 @@ social_image: assets/img/social/pnrr_card.jpg
 .md-typeset code { background-color: #fff0;}  
 .md-typeset pre>code { background-color: #fff0;}  
 </style>
-[![pnrr](pnrr_card.jpg "Piano Nazionale Ripresa e Resilienza (PNRR) | 2021 in opendata" ){class="crop gray" align=right}](index.md) 
+[![pnrr](pnrr_card.jpg "Piano Nazionale Ripresa e Resilienza (PNRR) | 2021 in opendata" ){class="crop gray" align=left}](index.md) 
 
 Piccolo restyling al gran lavoro di [Ciro Spataro](https://twitter.com/cirospat) sul [PNRR](https://cirospat.github.io/pnrr_2021_opendata/) , [qui](https://cirospat.medium.com/il-pnrr-facilmente-consultabile-72c508272743) un articolo su [Medium.com](https://cirospat.medium.com/il-pnrr-facilmente-consultabile-72c508272743) dove spiega come ha realizzato la prima versione.
 

@@ -20,7 +20,7 @@ social_image: assets/img/social/comuni_2021.jpg
 .md-typeset code { background-color: #fff0;}  
 .md-typeset pre>code { background-color: #fff0;}  
 </style>
-[![Comuni Italiani 2021](comuni_2021.webp "Comuni Italiani 2021" ){class="crop gray" align=right }](index.md)
+[![Comuni Italiani 2021](comuni_2021.webp "Comuni Italiani 2021" ){class="crop gray" align=left }](index.md)
 
 Per realizzare il progetto **[InformaCOVID](https://informacovid.opendatasicilia.it/)** di [opendatasicilia](http://opendatasicilia.it/) è nata l’esigenza di avere una mappa/elenco di tutti i Comuni Italiani del 2021con tutti i dati principali che identificano ogni sigolo Comune (stemmi, dati popolazione, codici istat, lat, long). A questo scopo è stato attivato un [repository](https://github.com/opendatasicilia/comuni-italiani) sulla piattaforma [GitHub.](https://github.com/)
 

@@ -15,7 +15,7 @@ social_image: assets/img/social/mappa_aree_emergenze.jpg
 --- 
 <style>.md-typeset code { background-color: #fff0;} 
 </style>
-[![mappa_aree_emergenze](mappa_aree_emergenze.jpg "Aree di Emergenza - Protezione Civile - Regione Sicilia" ){class="crop gray" align=right}](index.md) 
+[![mappa_aree_emergenze](mappa_aree_emergenze.jpg "Aree di Emergenza - Protezione Civile - Regione Sicilia" ){class="crop gray" align=left}](index.md) 
 
 ![workinprogress](https://coseerobe.it/assets/img/workinprogress.jpg "Work in progress"){class="nobox" .off-glb }
 

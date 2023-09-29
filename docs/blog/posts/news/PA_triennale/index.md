@@ -18,7 +18,7 @@ social_image: assets/img/social/piano_triennale.jpg
 .md-typeset code { background-color: #fff0;}  
 .md-typeset pre>code { background-color: #fff0;}  
 </style>
-[![p-triennale](piano_triennale.jpg "Il Piano Triennale per la Trasformazione Digitale della Pubblica Amministrazione" ){class="crop gray" align=right}](index.md)
+[![p-triennale](piano_triennale.jpg "Il Piano Triennale per la Trasformazione Digitale della Pubblica Amministrazione" ){class="crop gray" align=left}](index.md)
 
 **A che cosa serve il Piano Triennale?**
 

@@ -18,7 +18,7 @@ social_image: assets/img/social/terremoti_italia_2019.jpg
 .md-typeset code { background-color: #fff0;}  
 .md-typeset pre>code { background-color: #fff0;}  
 </style>
-[![Earthquakes](terremoti_italia_2019.jpg "Italia 2019 | Earthquakes today | Mappa terremoti" ){class="crop gray" align=right}](index.md)
+[![Earthquakes](terremoti_italia_2019.jpg "Italia 2019 | Earthquakes today | Mappa terremoti" ){class="crop gray" align=left}](index.md)
 
 
 ![workinprogress](https://coseerobe.it/assets/img/workinprogress.jpg "Work in progress"){class="nobox" .off-glb }

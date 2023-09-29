@@ -18,7 +18,7 @@ social_image: assets/img/social/targa_florio_pa.jpg
 .md-typeset code { background-color: #fff0;}  
 .md-typeset pre>code { background-color: #fff0;}  
 </style>
-[![targa_florio_pa](targa_florio_pa.jpg "Viabilità provvisoria in occasione della manifestazione Targa Florio Classica - Ferrari Tribute) by OpenDataSicilia - 14 Ottobre 2018" ){class="crop gray" align=left}](index.md)
+[![targa_florio_pa](targa_florio_pa.jpg "Viabilità provvisoria in occasione della manifestazione Targa Florio Classica - Ferrari Tribute) by OpenDataSicilia - 14 Ottobre 2018" ){class="crop gray" align=right}](index.md)
 
 
 ![workinprogress](https://coseerobe.it/assets/img/workinprogress.jpg "Work in progress"){class="nobox" .off-glb }

@@ -18,7 +18,7 @@ social_image: assets/img/social/deputati_ars.jpg
 .md-typeset code { background-color: #fff0;}  
 .md-typeset pre>code { background-color: #fff0;}  
 </style>
-[![ARS](deputati_ars.jpg "ARS - Deputati della XVII Legislatura - Hackathon #ods18" ){class="crop gray" align=left}](index.md)
+[![ARS](deputati_ars.jpg "ARS - Deputati della XVII Legislatura - Hackathon #ods18" ){class="crop gray" align=right}](index.md)
 
 
 ![workinprogress](https://coseerobe.it/assets/img/workinprogress.jpg "Work in progress"){class="nobox" .off-glb }

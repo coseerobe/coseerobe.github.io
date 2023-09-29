@@ -18,7 +18,7 @@ social_image: assets/img/social/app_rap.jpg
 .md-typeset code { background-color: #fff0;}  
 .md-typeset pre>code { background-color: #fff0;}  
 </style>
-[![incendi 2019](app_rap.jpg "Mappa interattiva delle segnalazioni alla RAP (Risorse Ambiente Palermo) by OpenDataSicilia - 14 Ottobre 2018" ){class="crop gray" align=right}](index.md)
+[![incendi 2019](app_rap.jpg "Mappa interattiva delle segnalazioni alla RAP (Risorse Ambiente Palermo) by OpenDataSicilia - 14 Ottobre 2018" ){class="crop gray" align=left}](index.md)
 
 
 ![workinprogress](https://coseerobe.it/assets/img/workinprogress.jpg "Work in progress"){class="nobox" .off-glb }
