@@ -14,7 +14,7 @@ social_image: assets/img/social/colonna_csv.jpg
 --- 
 <style>.md-typeset code { background-color: #fff0;} 
 </style>
-[![colonna_csv](colonna_csv.jpg "Suddividere una colonna di file csv" ){class="crop gray" align=right}](index.md) 
+[![colonna_csv](colonna_csv.jpg "Suddividere una colonna di file csv" ){class="crop gray" align=left}](index.md) 
 
 Come si può suddividere velocemente in più colonne una colonna che in ogni cella, il più delle volte ha un elenco puntato?
 

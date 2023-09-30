@@ -18,7 +18,7 @@ social_image: assets/img/social/Europee-2019-Liste-principali.jpg
 .md-typeset code { background-color: #fff0;}  
 .md-typeset pre>code { background-color: #fff0;}  
 </style>
-[![europee 2019](Europee-2019-Liste-principali.webp "Palermo - Elezioni del Parlamento Europeo - 2019" ){class="crop gray" align=right}](index.md)
+[![europee 2019](Europee-2019-Liste-principali.webp "Palermo - Elezioni del Parlamento Europeo - 2019" ){class="crop gray" align=left}](index.md)
 
 ![workinprogress](https://coseerobe.it/assets/img/workinprogress.jpg "Work in progress"){class="nobox" .off-glb }
 <!-- more -->

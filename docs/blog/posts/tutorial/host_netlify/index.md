@@ -15,7 +15,7 @@ social_image: assets/img/social/Netlify_logo.jpg
 --- 
 <style>.md-typeset code { background-color: #fff0;} 
 </style>
-[![Netlify](Netlify_logo.webp "Host on Netlify" ){class="crop gray" align=left}](index.md) 
+[![Netlify](Netlify_logo.webp "Host on Netlify" ){class="crop gray" align=right}](index.md) 
 
 ![workinprogress](https://coseerobe.it/assets/img/workinprogress.jpg "Work in progress"){class="nobox" .off-glb }
 <!-- more -->

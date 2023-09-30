@@ -155,7 +155,7 @@ plugins:
     post_dir: blog/posts
     pagination_keep_content: true
     pagination_format: "$link_first $link_previous ~2~ $link_next $link_last"
-    pagination_per_page: 7
+    pagination_per_page: 5
     authors_file: blog/.authors.yml
     blog_toc: false
     categories_toc: false
@@ -254,10 +254,10 @@ nav:
  #  - index.md
   #  - blog/index.md    
   - Home: 
-     - blog/index.md
-#  - Mappe: blog/category/mappe/
-#  - Opendata: blog/category/opendata/
-#  - Tutorial: blog/category/tutorial/
-#  - News: blog/category/news/
+    - blog/index.md
+  - Mappe: blog/category/mappe/
+  - News: blog/category/news/
+  - Tutorial: blog/category/tutorial/  
+  - Opendata: blog/category/opendata/
   - Link utili: link_utili.md 
   - Perché: perche.md  

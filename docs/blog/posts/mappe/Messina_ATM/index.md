@@ -16,7 +16,7 @@ social_image: assets/img/social/messina_fermate_linee.jpg
 --- 
 <style>.md-typeset code { background-color: #fff0;} 
 </style>
-[![messina_fermate_linee](messina_fermate_linee.jpg "Mappa Trasporti pubblici ATM Messina - GTFS - Dicembre 2017" ){class="crop gray" align=right}](index.md) 
+[![messina_fermate_linee](messina_fermate_linee.jpg "Mappa Trasporti pubblici ATM Messina - GTFS - Dicembre 2017" ){class="crop gray" align=left}](index.md) 
 
 ![workinprogress](https://coseerobe.it/assets/img/workinprogress.jpg "Work in progress"){class="nobox" .off-glb }
 <!-- more -->

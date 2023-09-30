@@ -18,7 +18,7 @@ social_image: assets/img/social/stranieri_pa_01.jpg
 .md-typeset code { background-color: #fff0;}  
 .md-typeset pre>code { background-color: #fff0;}  
 </style>
-[![milano_mp](stranieri_pa_01.webp "Milano e Palermo: le mappe della distribuzione della popolazione straniera residente nel 2018" ){class="crop gray" align=left}](index.md)
+[![milano_mp](stranieri_pa_01.webp "Milano e Palermo: le mappe della distribuzione della popolazione straniera residente nel 2018" ){class="crop gray" align=right}](index.md)
 
 
 ![workinprogress](https://coseerobe.it/assets/img/workinprogress.jpg "Work in progress"){class="nobox" .off-glb }

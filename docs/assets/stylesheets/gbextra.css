@@ -140,7 +140,7 @@ img.resized50c { width: 48%; height: auto; margin:0px auto; text-align: center; 
 
 /*Intestazioni H1 H2...*/
 .md-typeset h1, .md-typeset h2, .md-typeset h3  { color: var(--md-default-fg-color--light); font-weight: 500;} /* colore*/
-.md-typeset h1 {letter-spacing: -.01em; font-size: 1.4rem; color: #121423; }
+.md-typeset h1 {letter-spacing: -.01em; font-size: 1.8rem; color: #121423; }
 .md-typeset h2 {letter-spacing: -.01em;	font-size: 1rem; }
 .md-typeset h3 {letter-spacing: -.01em;font-size: .8rem; }
 	

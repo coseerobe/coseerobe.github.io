@@ -18,7 +18,7 @@ social_image: assets/img/social/Spiagge-accessibili-in-Sicilia-2019.jpg
 .md-typeset code { background-color: #fff0;}  
 .md-typeset pre>code { background-color: #fff0;}  
 </style>
-[![spiagge accessibili-in-sicilia-2019](Spiagge-accessibili-in-Sicilia-2019.webp "Spiagge accessibili in Sicilia – 2019" ){class="crop gray" align=right}](index.md)
+[![spiagge accessibili-in-sicilia-2019](Spiagge-accessibili-in-Sicilia-2019.webp "Spiagge accessibili in Sicilia – 2019" ){class="crop gray" align=left}](index.md)
 
 ![workinprogress](https://coseerobe.it/assets/img/workinprogress.jpg "Work in progress"){class="nobox" .off-glb }
 <!-- more -->

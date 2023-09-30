@@ -16,7 +16,7 @@ social_image: assets/img/social/Palermo_AirBnB.jpg
 --- 
 <style>.md-typeset code { background-color: #fff0;} 
 </style>
-[![Palermo_AirBnB](Palermo_AirBnB.jpg "Palermo AirBnB - Opendata Gennaio 2018" ){class="crop gray" align=left}](index.md) 
+[![Palermo_AirBnB](Palermo_AirBnB.jpg "Palermo AirBnB - Opendata Gennaio 2018" ){class="crop gray" align=right}](index.md) 
 
 ![workinprogress](https://coseerobe.it/assets/img/workinprogress.jpg "Work in progress"){class="nobox" .off-glb }
 <!-- more -->

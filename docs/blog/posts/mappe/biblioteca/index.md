@@ -18,7 +18,7 @@ social_image: assets/img/social/teca_digitale.jpg
 .md-typeset code { background-color: #fff0;}  
 .md-typeset pre>code { background-color: #fff0;}  
 </style>
-[![biblioteca](teca_digitale.jpg "Biblioteche e bene comune digitale" ){class="crop gray" align=left}](index.md)
+[![biblioteca](teca_digitale.jpg "Biblioteche e bene comune digitale" ){class="crop gray" align=right}](index.md)
 
 ![workinprogress](https://coseerobe.it/assets/img/workinprogress.jpg "Work in progress"){class="nobox" .off-glb }
 <!-- more -->

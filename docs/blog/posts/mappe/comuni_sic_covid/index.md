@@ -17,7 +17,7 @@ tags:
 social_image: assets/img/social/zona_arancione.jpg
 ---
 <style>.md-typeset code { background-color: #fff0!important;}  </style>
-[![covid misure_restrittive](zona_arancione.webp  "Sicilia Covid-19 | 2022 – Comuni siciliani attualmente in zona rossa, arancione, gialla e vaccinazioni" ){class="crop gray off" align=left}](index.md) 
+[![covid misure_restrittive](zona_arancione.webp  "Sicilia Covid-19 | 2022 – Comuni siciliani attualmente in zona rossa, arancione, gialla e vaccinazioni" ){class="crop gray off" align=right}](index.md) 
 
 La Regione Siciliana pubblica le ordinanze per le zone rosse solo tramite PDF (nel 2021 50% fotocopie) e sono raccolte nel [sito ufficiale](http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE) nella sezione SERVIZI INFORMATIVI | [ORDINANZE COVID-19](http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_Covid19OrdinanzePresidenzadellaRegione)).
 Per ovviare a questi brutti PDF, **[Totò Fiandaca](https://twitter.com/totofiandaca)** ha creato un [foglio elettronico](https://docs.google.com/spreadsheets/d/14f2AUf3k3jP60sPkUhzqhSIFlTEuUFCfac9b-1_29jc/edit#gid=1669181736) dove ha scritto, dopo aver aperto uno ad uno tutte le ordinanze del 2021 (lo faremo anche per il 2022), i comuni in zona rossa e relativo intervallo temporale, compreso anche di eventuale proroga e link al PDF.<!-- more -->

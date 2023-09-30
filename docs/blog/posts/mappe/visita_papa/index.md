@@ -16,7 +16,7 @@ social_image: assets/img/social/Visita-del-Papa-a-Palermo.jpg
 --- 
 <style>.md-typeset code { background-color: #fff0;} 
 </style>
-[![papa](Visita-del-Papa-a-Palermo.jpg "Palermo | Viabilità provvisoria in occasione della visita di Papa Francesco" ){class="crop gray" align=right}](index.md) 
+[![papa](Visita-del-Papa-a-Palermo.jpg "Palermo | Viabilità provvisoria in occasione della visita di Papa Francesco" ){class="crop gray" align=left}](index.md) 
 
 ![workinprogress](https://coseerobe.it/assets/img/workinprogress.jpg "Work in progress"){class="nobox" .off-glb }
 <!-- more -->

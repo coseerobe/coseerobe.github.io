@@ -16,7 +16,7 @@ social_image: assets/img/social/mappa_pontieviadotti.jpg
 --- 
 <style>.md-typeset code { background-color: #fff0;} 
 </style>
-[![viadotti](mappa_pontieviadotti.jpg "Ponti e viadotti italiani - Agosto 2018" ){class="crop gray" align=left}](index.md) 
+[![viadotti](mappa_pontieviadotti.jpg "Ponti e viadotti italiani - Agosto 2018" ){class="crop gray" align=right}](index.md) 
 
 ![workinprogress](https://coseerobe.it/assets/img/workinprogress.jpg "Work in progress"){class="nobox" .off-glb }
 <!-- more -->

@@ -18,7 +18,7 @@ social_image: assets/img/social/tansignari.jpg
 .md-typeset code { background-color: #fff0;}  
 .md-typeset pre>code { background-color: #fff0;}  
 </style>
-[![tansignari](tansignari.jpg "“T’ansignari e t’appeddiri!”, ti devo insegnare a fare qualcosa e ti devo perdere. - By @opendatasicilia" ){class="crop gray" align=left}](index.md)
+[![tansignari](tansignari.jpg "“T’ansignari e t’appeddiri!”, ti devo insegnare a fare qualcosa e ti devo perdere. - By @opendatasicilia" ){class="crop gray" align=right}](index.md)
 
 ![ona](https://coseerobe.it/assets/img/workinprogress.jpg "Work in progress"){class="nobox" .off-glb }
 <!-- more -->

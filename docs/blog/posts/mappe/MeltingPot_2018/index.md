@@ -18,7 +18,7 @@ social_image: assets/img/social/Palermo_mp18.jpg
 .md-typeset code { background-color: #fff0;}  
 .md-typeset pre>code { background-color: #fff0;}  
 </style>
-[![fontanelle](Palermo_mp18.webp "Palermo, popolazione residente per cittadinanza, UPL , Quartiere e Circoscrizione – 2018" ){class="crop gray" align=left}](index.md)
+[![fontanelle](Palermo_mp18.webp "Palermo, popolazione residente per cittadinanza, UPL , Quartiere e Circoscrizione – 2018" ){class="crop gray" align=right}](index.md)
 
 ![workinprogress](https://coseerobe.it/assets/img/workinprogress.jpg "Work in progress"){class="nobox" .off-glb }
 <!-- more -->

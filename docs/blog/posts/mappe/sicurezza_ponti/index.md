@@ -16,7 +16,7 @@ social_image: assets/img/social/umap_ponti_palermo.jpg
 --- 
 <style>.md-typeset code { background-color: #fff0;} 
 </style>
-[![viadotti](umap_ponti_palermo.jpg "Sicurezza ponti e cavalcavia - Palermo - Agosto 2018" ){class="crop gray" align=right}](index.md) 
+[![viadotti](umap_ponti_palermo.jpg "Sicurezza ponti e cavalcavia - Palermo - Agosto 2018" ){class="crop gray" align=left}](index.md) 
 
 ![workinprogress](https://coseerobe.it/assets/img/workinprogress.jpg "Work in progress"){class="nobox" .off-glb }
 <!-- more -->

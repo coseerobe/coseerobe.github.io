@@ -18,7 +18,7 @@ social_image: assets/img/social/riuso.jpg
 .md-typeset code { background-color: #fff0;}  
 .md-typeset pre>code { background-color: #fff0;}  
 </style>
-[![riuso](riuso.jpg  "Il riuso dei dati aperti in Italia" ){class="crop gray" align=right}](index.md)
+[![riuso](riuso.jpg  "Il riuso dei dati aperti in Italia" ){class="crop gray" align=left}](index.md)
 
 **Webinar 27 Giugno 2017 – ore 12:00**
 

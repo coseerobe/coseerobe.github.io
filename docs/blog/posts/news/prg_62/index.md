@@ -15,7 +15,7 @@ tags:
 social_image: assets/img/social/qu_prg_62.jpg
 ---
 <style>.md-typeset code { background-color: #fff0!important;}  </style>
-[![prg_62](qu_prg_62.webp  "Piano Regolatore Generale di Palermo 1962" ){class="crop gray" align=right}](index.md) 
+[![prg_62](qu_prg_62.webp  "Piano Regolatore Generale di Palermo 1962" ){class="crop gray" align=left}](index.md) 
 
 ![workinprogress](https://coseerobe.it/assets/img/workinprogress.jpg "Work in progress"){class="nobox" .off-glb }
 <!-- more -->

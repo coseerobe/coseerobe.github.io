@@ -16,7 +16,7 @@ social_image: assets/img/social/palermohub.jpg
 --- 
 <style>.md-typeset code { background-color: #fff0;} 
 </style>
-[![PalermoHub](palermohub.jpg "PalermoHub di opendatasicilia.it" ){class="crop gray" align=right}](index.md) 
+[![PalermoHub](palermohub.jpg "PalermoHub di opendatasicilia.it" ){class="crop gray" align=left}](index.md) 
 
 ![workinprogress](https://coseerobe.it/assets/img/workinprogress.jpg "Work in progress"){class="nobox" .off-glb }
 <!-- more -->
