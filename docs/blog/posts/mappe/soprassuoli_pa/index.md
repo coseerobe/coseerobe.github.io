@@ -22,6 +22,7 @@ social_image: assets/img/social/pa_catasto_fuoco.jpg
 
 
 ![workinprogress](https://coseerobe.it/assets/img/workinprogress.jpg "Work in progress"){class="nobox" .off-glb }
+<!-- more -->
 
 https://coseerobe.gbvitrano.it/palermo-aggiornamento-del-catasto-dei-soprassuoli-percorsi-dal-fuoco.html
 

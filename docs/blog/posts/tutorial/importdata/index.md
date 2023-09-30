@@ -18,6 +18,7 @@ social_image: assets/img/social/importdata.jpg
 [![importdata](importdata.webp "Google Sheets - Importdata file csv con separatore semicolon (;)" ){class="crop gray" align=right}](index.md) 
 
 ![workinprogress](https://coseerobe.it/assets/img/workinprogress.jpg "Work in progress"){class="nobox" .off-glb }
+<!-- more -->
 
 https://coseerobe.gbvitrano.it/google-sheets-importadata-file-csv-con-separatore-semicolon.html
 

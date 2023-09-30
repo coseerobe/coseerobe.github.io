@@ -18,6 +18,7 @@ social_image: assets/img/social/uni.jpg
 [![uni](uni.jpg "Offerta Formativa Università in Italia - A.A. 2017/18" ){class="crop gray" align=left}](index.md) 
 
 ![workinprogress](https://coseerobe.it/assets/img/workinprogress.jpg "Work in progress"){class="nobox" .off-glb }
+<!-- more -->
 
 https://coseerobe.gbvitrano.it/offerta-formativa-universita-in-italia-a-a-201718.html
 

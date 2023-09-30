@@ -21,6 +21,7 @@ social_image: assets/img/social/concentrazione_alberi.jpg
 [![infc](concentrazione_alberi.jpg "INFC - Categoria inventariale Boschi alti" ){class="crop gray" align=left}](index.md)
 
 ![workinprogress](https://coseerobe.it/assets/img/workinprogress.jpg "Work in progress"){class="nobox" .off-glb }
+<!-- more -->
 
 https://coseerobe.gbvitrano.it/infc-categoria-inventariale-boschi-alti.html
 <hr>

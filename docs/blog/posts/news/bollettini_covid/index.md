@@ -20,6 +20,7 @@ social_image: assets/img/social/api.jpg
 [![api](api.webp  "Bollettini Covid 19 | Dati Epidemiologici e Vaccinali – Regione Sicilia" ){class="crop gray" align=left}](index.md) 
 
 ![workinprogress](https://coseerobe.it/assets/img/workinprogress.jpg "Work in progress"){class="nobox" .off-glb }
+<!-- more -->
 
 https://coseerobe.gbvitrano.it/bollettini-covid-19-dati-epidemiologici-e-vaccinali-regione-sicilia.html
 

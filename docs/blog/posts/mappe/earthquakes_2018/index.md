@@ -22,6 +22,7 @@ social_image: assets/img/social/terremoti_italia_2018.jpg
 
 
 ![workinprogress](https://coseerobe.it/assets/img/workinprogress.jpg "Work in progress"){class="nobox" .off-glb }
+<!-- more -->
 
 https://coseerobe.gbvitrano.it/mappa-terremoti-italia-today.html
 

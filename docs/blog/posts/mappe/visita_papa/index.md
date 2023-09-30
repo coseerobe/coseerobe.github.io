@@ -19,6 +19,7 @@ social_image: assets/img/social/Visita-del-Papa-a-Palermo.jpg
 [![papa](Visita-del-Papa-a-Palermo.jpg "Palermo | Viabilità provvisoria in occasione della visita di Papa Francesco" ){class="crop gray" align=right}](index.md) 
 
 ![workinprogress](https://coseerobe.it/assets/img/workinprogress.jpg "Work in progress"){class="nobox" .off-glb }
+<!-- more -->
 
 https://coseerobe.gbvitrano.it/viabilita-provvisoria-in-occasione-della-visita-di-papa-francesco-a-palermo-settembre-2018.html
 

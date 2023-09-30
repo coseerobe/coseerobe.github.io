@@ -21,6 +21,7 @@ social_image: assets/img/social/intro-ona.jpg
 [![biblioteca](intro-ona.jpg "Mobile Data Collection - ona.io - webform" ){class="crop gray" align=right}](index.md)
 
 ![ona](https://coseerobe.it/assets/img/workinprogress.jpg "Work in progress"){class="nobox" .off-glb }
+<!-- more -->
 
 https://coseerobe.gbvitrano.it/webform.html
 <hr>

@@ -18,6 +18,7 @@ social_image: assets/img/social/Sicilia_upgrade.jpg
 [![Sicilia_upgrade](Sicilia_upgrade.jpg "Sicilia a fuoco - Grading Map - COPERNICUS - Emergency Management Service" ){class="crop gray" align=right}](index.md) 
 
 ![workinprogress](https://coseerobe.it/assets/img/workinprogress.jpg "Work in progress"){class="nobox" .off-glb }
+<!-- more -->
 
 https://coseerobe.gbvitrano.it/sicilia-a-fuoco-grading-map-copernicus-emergency-management-service.html
 

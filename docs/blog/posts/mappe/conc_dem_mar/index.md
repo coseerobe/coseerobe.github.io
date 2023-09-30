@@ -19,6 +19,7 @@ social_image: assets/img/social/Concessioni-Demaniali-Marittime-Aprile.jpg
 [![concessioni](Concessioni-Demaniali-Marittime-Aprile.jpg "Concessioni Demaniali Marittime 2018" ){class="crop gray" align=right}](index.md) 
 
 ![workinprogress](https://coseerobe.it/assets/img/workinprogress.jpg "Work in progress"){class="nobox" .off-glb }
+<!-- more -->
 
 https://coseerobe.gbvitrano.it/concessioni-demaniali-marittime.html
 

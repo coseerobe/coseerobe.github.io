@@ -19,6 +19,7 @@ social_image: assets/img/social/umap_ponti_palermo.jpg
 [![viadotti](umap_ponti_palermo.jpg "Sicurezza ponti e cavalcavia - Palermo - Agosto 2018" ){class="crop gray" align=right}](index.md) 
 
 ![workinprogress](https://coseerobe.it/assets/img/workinprogress.jpg "Work in progress"){class="nobox" .off-glb }
+<!-- more -->
 
 https://coseerobe.gbvitrano.it/sicurezza-ponti-e-cavalcavia-palermo-agosto-2018.html
 

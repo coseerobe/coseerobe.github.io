@@ -22,6 +22,7 @@ social_image: assets/img/social/anagrafe_scuola_pa.jpg
 
 
 ![workinprogress](https://coseerobe.it/assets/img/workinprogress.jpg "Work in progress"){class="nobox" .off-glb }
+<!-- more -->
 
 https://coseerobe.gbvitrano.it/localizzazione-degli-edifici-scolastici-attivi-anno-scolastico-2017-18-provincia-palermo.html
 

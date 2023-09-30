@@ -18,7 +18,7 @@ social_image: assets/img/social/Netlify_logo.jpg
 [![Netlify](Netlify_logo.webp "Host on Netlify" ){class="crop gray" align=left}](index.md) 
 
 ![workinprogress](https://coseerobe.it/assets/img/workinprogress.jpg "Work in progress"){class="nobox" .off-glb }
-
+<!-- more -->
 
 https://coseerobe.gbvitrano.it/host-on-netlify.html
 

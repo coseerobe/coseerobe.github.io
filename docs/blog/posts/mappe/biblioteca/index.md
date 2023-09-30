@@ -21,6 +21,7 @@ social_image: assets/img/social/teca_digitale.jpg
 [![biblioteca](teca_digitale.jpg "Biblioteche e bene comune digitale" ){class="crop gray" align=left}](index.md)
 
 ![workinprogress](https://coseerobe.it/assets/img/workinprogress.jpg "Work in progress"){class="nobox" .off-glb }
+<!-- more -->
 
 https://coseerobe.gbvitrano.it/biblioteche-e-bene-comune-digitale.html
 

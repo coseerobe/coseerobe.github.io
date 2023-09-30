@@ -19,6 +19,7 @@ social_image: assets/img/social/ponti_tableau.jpg
 [![viadotti](ponti_tableau.jpg "Mappa dei ponti e viadotti siciliani interattiva e grafica dinamica elaborata con Tableau Public" ){class="crop gray" align=left}](index.md) 
 
 ![workinprogress](https://coseerobe.it/assets/img/workinprogress.jpg "Work in progress"){class="nobox" .off-glb }
+<!-- more -->
 
 https://coseerobe.gbvitrano.it/mappa-dei-ponti-e-viadotti-siciliani-interattiva-e-grafica-dinamica-elaborata-con-tableau-public.html
 <hr>

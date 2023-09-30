@@ -18,6 +18,7 @@ social_image: assets/img/social/mappa_comuniafuoco.jpg
 [![mappa_comuniafuoco](mappa_comuniafuoco.jpg "Comuni a fuoco - #FoiaeFiamme - Richiesta di accesso civico" ){class="crop gray" align=right}](index.md) 
 
 ![workinprogress](https://coseerobe.it/assets/img/workinprogress.jpg "Work in progress"){class="nobox" .off-glb }
+<!-- more -->
 
 https://coseerobe.gbvitrano.it/comuni-a-fuoco-foiaefiamme.html
 

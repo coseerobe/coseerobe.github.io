@@ -22,6 +22,7 @@ social_image: assets/img/social/mappa_incendi_2019.jpg
 
 
 ![workinprogress](https://coseerobe.it/assets/img/workinprogress.jpg "Work in progress"){class="nobox" .off-glb }
+<!-- more -->
 
 https://coseerobe.gbvitrano.it/italia-mappa-news-incendi-registrati-nel-2019-firenews-copernicus.html
 

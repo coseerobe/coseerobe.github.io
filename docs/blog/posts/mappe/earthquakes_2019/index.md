@@ -21,6 +21,7 @@ social_image: assets/img/social/earthquakes.jpg
 [![Earthquakes](earthquakes.jpg "Italia 2019 | Earthquakes today | Mappe e grafici dinamici" ){class="crop gray" align=left}](index.md)
 
 ![workinprogress](https://coseerobe.it/assets/img/workinprogress.jpg "Work in progress"){class="nobox" .off-glb }
+<!-- more -->
 
 https://coseerobe.gbvitrano.it/italia-2019-earthquakes-today-mappe-e-grafici-dinamici.html
 

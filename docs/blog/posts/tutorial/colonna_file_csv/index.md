@@ -16,9 +16,10 @@ social_image: assets/img/social/colonna_csv.jpg
 </style>
 [![colonna_csv](colonna_csv.jpg "Suddividere una colonna di file csv" ){class="crop gray" align=right}](index.md) 
 
-Come si può suddividere velocemente in più colonne una colonna che in ogni cella, il più delle volte ha un elenco puntato?
+Come si può suddividere velocemente in più colonne una colonna che in ogni cella, il più delle volte ha un elenco puntato?
 
 ![workinprogress](https://coseerobe.it/assets/img/workinprogress.jpg "Work in progress"){class="nobox" .off-glb }
+<!-- more -->
 
 https://coseerobe.gbvitrano.it/suddividere-una-colonna-di-file-csv.html
 

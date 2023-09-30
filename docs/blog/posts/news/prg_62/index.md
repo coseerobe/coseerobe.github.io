@@ -18,6 +18,7 @@ social_image: assets/img/social/qu_prg_62.jpg
 [![prg_62](qu_prg_62.webp  "Piano Regolatore Generale di Palermo 1962" ){class="crop gray" align=right}](index.md) 
 
 ![workinprogress](https://coseerobe.it/assets/img/workinprogress.jpg "Work in progress"){class="nobox" .off-glb }
+<!-- more -->
 
 https://coseerobe.gbvitrano.it/piano-regolatore-generale-di-palermo-1962.html
 

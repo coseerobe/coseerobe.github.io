@@ -18,6 +18,7 @@ social_image: assets/img/social/PAI-Geomorfologia.jpg
 [![PAI-Geomorfologia](PAI-Geomorfologia.jpg "P.A.I. Geomorfologia e Idraulica di Palermo" ){class="crop gray" align=left}](index.md) 
 
 ![workinprogress](https://coseerobe.it/assets/img/workinprogress.jpg "Work in progress"){class="nobox" .off-glb }
+<!-- more -->
 
 https://coseerobe.gbvitrano.it/p-a-i-geomorfologia-e-idraulica-di-palermo.html
 

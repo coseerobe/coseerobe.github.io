@@ -19,6 +19,7 @@ social_image: assets/img/social/sinistri_2017.jpg
 [![incidenti 2017](sinistri_2017.jpg "Sinistri stradali Palermo 2017" ){class="crop gray" align=left}](index.md) 
 
 ![workinprogress](https://coseerobe.it/assets/img/workinprogress.jpg "Work in progress"){class="nobox" .off-glb }
+<!-- more -->
 
 https://coseerobe.gbvitrano.it/sinistri-stradali-palermo-2017.html
 

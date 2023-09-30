@@ -22,6 +22,7 @@ social_image: assets/img/social/targa_florio_pa.jpg
 
 
 ![workinprogress](https://coseerobe.it/assets/img/workinprogress.jpg "Work in progress"){class="nobox" .off-glb }
+<!-- more -->
 
 https://coseerobe.gbvitrano.it/viabilita-provvisoria-in-occasione-della-manifestazione-targa-florio-classica-ferrari-tribute.html
 

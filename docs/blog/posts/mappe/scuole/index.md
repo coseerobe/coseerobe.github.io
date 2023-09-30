@@ -19,6 +19,7 @@ social_image: assets/img/social/mappa_scuola.jpg
 [![scuole](mappa_scuola.jpg "Scuole pubbliche (Statale/Paritaria) per l'infanzia, primarie e secondarie sul territorio nazionale" ){class="crop gray" align=left}](index.md) 
 
 ![workinprogress](https://coseerobe.it/assets/img/workinprogress.jpg "Work in progress"){class="nobox" .off-glb }
+<!-- more -->
 
 https://coseerobe.gbvitrano.it/concessioni-demaniali-marittime.html
 

@@ -19,6 +19,7 @@ social_image: assets/img/social/Palermo_AirBnB.jpg
 [![Palermo_AirBnB](Palermo_AirBnB.jpg "Palermo AirBnB - Opendata Gennaio 2018" ){class="crop gray" align=left}](index.md) 
 
 ![workinprogress](https://coseerobe.it/assets/img/workinprogress.jpg "Work in progress"){class="nobox" .off-glb }
+<!-- more -->
 
 https://coseerobe.gbvitrano.it/italia-mappa-news-incendi-registrati-nel-2018.html
 

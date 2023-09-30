@@ -21,6 +21,7 @@ social_image: assets/img/social/amt.jpg
 [![amt](amt.jpg "Azienda Metropolitana Trasporti (AMT) Catania - Marzo 2019" ){class="crop gray" align=left}](index.md)
 
 ![workinprogress](https://coseerobe.it/assets/img/workinprogress.jpg "Work in progress"){class="nobox" .off-glb }
+<!-- more -->
 
 https://coseerobe.gbvitrano.it/azienda-metropolitana-trasporti-amt-catania-marzo-2019.html
 <hr>

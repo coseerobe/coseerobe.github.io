@@ -19,6 +19,7 @@ social_image: assets/img/social/messina_fermate_linee.jpg
 [![messina_fermate_linee](messina_fermate_linee.jpg "Mappa Trasporti pubblici ATM Messina - GTFS - Dicembre 2017" ){class="crop gray" align=right}](index.md) 
 
 ![workinprogress](https://coseerobe.it/assets/img/workinprogress.jpg "Work in progress"){class="nobox" .off-glb }
+<!-- more -->
 
 https://coseerobe.gbvitrano.it/mappa-trasporti-pubblici-atm-messina-gtfs-dicembre-2017.html
 

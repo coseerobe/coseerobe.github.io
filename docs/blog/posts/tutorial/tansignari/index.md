@@ -21,6 +21,7 @@ social_image: assets/img/social/tansignari.jpg
 [![tansignari](tansignari.jpg "“T’ansignari e t’appeddiri!”, ti devo insegnare a fare qualcosa e ti devo perdere. - By @opendatasicilia" ){class="crop gray" align=left}](index.md)
 
 ![ona](https://coseerobe.it/assets/img/workinprogress.jpg "Work in progress"){class="nobox" .off-glb }
+<!-- more -->
 
 https://coseerobe.gbvitrano.it/tansignari-e-tappeddiri-ti-devo-insegnare-a-fare-qualcosa-e-ti-devo-perdere.html
 

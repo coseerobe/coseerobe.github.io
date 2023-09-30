@@ -19,6 +19,7 @@ social_image: assets/img/social/fire_news_2018.jpg
 [![copernicus](fire_news_2018.jpg "Italia – Mappa news incendi registrati nel 2018 - Firenews Copernicus" ){class="crop gray" align=right}](index.md) 
 
 ![workinprogress](https://coseerobe.it/assets/img/workinprogress.jpg "Work in progress"){class="nobox" .off-glb }
+<!-- more -->
 
 https://coseerobe.gbvitrano.it/italia-mappa-news-incendi-registrati-nel-2018.html
 

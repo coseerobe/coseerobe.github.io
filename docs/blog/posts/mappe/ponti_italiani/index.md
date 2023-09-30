@@ -19,6 +19,7 @@ social_image: assets/img/social/mappa_pontieviadotti.jpg
 [![viadotti](mappa_pontieviadotti.jpg "Ponti e viadotti italiani - Agosto 2018" ){class="crop gray" align=left}](index.md) 
 
 ![workinprogress](https://coseerobe.it/assets/img/workinprogress.jpg "Work in progress"){class="nobox" .off-glb }
+<!-- more -->
 
 https://coseerobe.gbvitrano.it/sicilia-ponti-e-viadotti.html
 

@@ -21,6 +21,7 @@ social_image: assets/img/social/Spiagge-accessibili-in-Sicilia-2019.jpg
 [![spiagge accessibili-in-sicilia-2019](Spiagge-accessibili-in-Sicilia-2019.webp "Spiagge accessibili in Sicilia – 2019" ){class="crop gray" align=right}](index.md)
 
 ![workinprogress](https://coseerobe.it/assets/img/workinprogress.jpg "Work in progress"){class="nobox" .off-glb }
+<!-- more -->
 
 https://coseerobe.gbvitrano.it/spiagge-accessibili-in-sicilia-2019.html
 

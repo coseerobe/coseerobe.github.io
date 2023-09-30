@@ -21,6 +21,7 @@ social_image: assets/img/social/fontanelle.jpg
 [![fontanelle](fontanelle.webp "Localizzazione Fontane e Fontanelle Palermo – 2019" ){class="crop gray" align=left}](index.md)
 
 ![workinprogress](https://coseerobe.it/assets/img/workinprogress.jpg "Work in progress"){class="nobox" .off-glb }
+<!-- more -->
 
 https://coseerobe.gbvitrano.it/localizzazione-fontane-e-fontanelle-palermo-2019.html
 

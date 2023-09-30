@@ -21,6 +21,7 @@ social_image: assets/img/social/Palermo_mp18.jpg
 [![fontanelle](Palermo_mp18.webp "Palermo, popolazione residente per cittadinanza, UPL , Quartiere e Circoscrizione – 2018" ){class="crop gray" align=left}](index.md)
 
 ![workinprogress](https://coseerobe.it/assets/img/workinprogress.jpg "Work in progress"){class="nobox" .off-glb }
+<!-- more -->
 
 https://coseerobe.gbvitrano.it/palermo-popolazione-residente-per-cittadinanza-upl-quartiere-e-circoscrizione-2018.html
 <hr>

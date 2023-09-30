@@ -21,6 +21,7 @@ social_image: assets/img/social/Sinistri-stradali-Palermo-2018.jpg
 [![incidenti_2018](Sinistri-stradali-Palermo-2018.jpg "Sinistri stradali Palermo 2018" ){class="crop gray" align=right}](index.md)
 
 ![workinprogress](https://coseerobe.it/assets/img/workinprogress.jpg "Work in progress"){class="nobox" .off-glb }
+<!-- more -->
 
 https://coseerobe.gbvitrano.it/sinistri-stradali-palermo-2018.html
 

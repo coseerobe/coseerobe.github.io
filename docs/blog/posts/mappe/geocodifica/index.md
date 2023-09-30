@@ -19,6 +19,7 @@ social_image: assets/img/social/geo_ods.jpg
 [![geo_ods](geo_ods.jpg "Geocodifica il tuo indirizzo - Utility Google API" ){class="crop gray" align=left}](index.md) 
 
 ![workinprogress](https://coseerobe.it/assets/img/workinprogress.jpg "Work in progress"){class="nobox" .off-glb }
+<!-- more -->
 
 https://coseerobe.gbvitrano.it/italia-mappa-news-incendi-registrati-nel-2018.html
 
