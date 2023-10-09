@@ -7,6 +7,7 @@ authors:
   - gbvitrano
 categories:
   - Mappe
+slug: atlante-storico-palermo   
 tags:
   - xxxx
   - aaaa

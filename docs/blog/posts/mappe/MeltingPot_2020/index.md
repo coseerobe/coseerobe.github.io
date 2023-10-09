@@ -7,6 +7,7 @@ authors:
   - gbvitrano
 categories:
   - Mappe
+slug: palermo-melting-pot-2020
 tags:
   - Italia
   - Sicilia

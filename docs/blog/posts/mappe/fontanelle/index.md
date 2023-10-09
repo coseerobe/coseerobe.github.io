@@ -7,6 +7,7 @@ authors:
   - gbvitrano
 categories:
   - Mappe
+slug: fontanelle-palermo  
 tags:
   - xxxx
   - aaaa

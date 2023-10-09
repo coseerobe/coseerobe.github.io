@@ -7,6 +7,7 @@ authors:
   - gbvitrano
 categories:
   - Tutorial
+slug: tansignari 
 tags:
   - xxxx
   - aaaa

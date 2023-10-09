@@ -6,7 +6,8 @@ date: 2018-07-23
 authors:
   - gbvitrano
 categories:
-  - News 
+  - News
+slug: hfcqgis 
 tags:
   - QGIS
   - Calcolatore di campi
