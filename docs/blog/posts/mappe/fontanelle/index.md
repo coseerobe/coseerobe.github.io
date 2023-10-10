@@ -12,6 +12,7 @@ tags:
   - AMAP
   - Fontanelle
   - Palermo
+  - PlasticFree
 social_image: assets/img/social/fontanelle.jpg
 ---
 <style>

@@ -8,10 +8,11 @@ authors:
 categories:
   - Mappe
 tags:
-  - xxxx
-  - aaaa
-  - bbbb
-  - yyyy
+  - Palermo
+  - Popolazione
+  - Stranieri
+  - Residenti
+  - Mappa densità
 social_image: assets/img/social/Palermo_mp18.jpg
 ---
 <style>

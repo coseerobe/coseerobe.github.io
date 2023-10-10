@@ -9,11 +9,11 @@ categories:
   - Mappe
 slug: palermo-melting-pot-2020
 tags:
-  - Italia
-  - Sicilia
-  - Mare
-  - Bandiere Blu
-  - Spiagge
+  - Palermo
+  - Popolazione
+  - Stranieri
+  - Residenti
+  - Mappa densità
 social_image: assets/img/social/Palermo_World_Ukraine_clip.jpg
 ---
 <style>.md-typeset code { background-color: #fff0;}  </style>
