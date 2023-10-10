@@ -44,7 +44,7 @@ Li abbiamo semplicemente chiesti. <br>
 
 [![fontanlle_circoscrizione](fontanlle_circoscrizione.jpg "DATI - Fontanelle nelle varie Circosrizioni"){.off-glb style="display: block; margin: 0 auto" }](http://fontanellepalermo.opendatasicilia.it/presentazione/#/0/3)<br>
 **150** Fontanelle distribuite nelle **8** Circoscrizioni<br>
-Per alcune bastano 5 minuti a piedi, se ti piace camminare, in 10 minuti sono ancora di più da tutta la città almeno una in auto in 5 minuti
+Per alcune bastano 5 minuti a piedi, se ti piace camminare, in 10 minuti sono ancora di più da tutta la città e almeno una in auto in 5 minuti
 
 <hr>
 
