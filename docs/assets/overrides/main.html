@@ -17,5 +17,10 @@
 {% block extrahead %} 
 <!-- Social card -->	 
 {% include "partials/social_card.html" %}
+{% endblock %}
 
+{% block scripts %}
+{{ super() }}
+<!-- script bottom	-->
+{% include "partials/script_bottom.html" %}
 {% endblock %}
