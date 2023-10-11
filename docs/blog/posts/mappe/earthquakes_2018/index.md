@@ -8,10 +8,11 @@ authors:
 categories:
   - Mappe
 tags:
-  - xxxx
-  - aaaa
-  - bbbb
-  - yyyy
+  - INGV
+  - Earthquakes today
+  - Sisma
+  - Terremoti
+  - Italia
 social_image: assets/img/social/terremoti_italia_2018.jpg
 ---
 <style>
