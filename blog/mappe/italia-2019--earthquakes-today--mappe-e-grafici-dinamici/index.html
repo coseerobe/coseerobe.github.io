@@ -275,6 +275,11 @@
     <label class="md-overlay" for="__drawer"></label>
     <div data-md-component="skip">
       
+        
+        <a href="#la-raccolta-dei-dati" class="md-skip">
+          Vai al contenuto
+        </a>
+      
     </div>
     <div data-md-component="announce">
       
@@ -1179,7 +1184,7 @@
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 20a8 8 0 0 0 8-8 8 8 0 0 0-8-8 8 8 0 0 0-8 8 8 8 0 0 0 8 8m0-18a10 10 0 0 1 10 10 10 10 0 0 1-10 10C6.47 22 2 17.5 2 12A10 10 0 0 1 12 2m.5 5v5.25l4.5 2.67-.75 1.23L11 13V7h1.5Z"/></svg>
                     <span class="md-ellipsis">
                       
-                        1 minuto di lettura
+                        4 minuti di lettura
                       
                     </span>
 					</div>
@@ -1194,6 +1199,62 @@
   
   
   
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Indice
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#la-raccolta-dei-dati" class="md-nav__link">
+    La raccolta dei dati
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#le-mappe-dinamiche" class="md-nav__link">
+    Le mappe dinamiche
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#flourish" class="md-nav__link">
+    Flourish
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tableau" class="md-nav__link">
+    Tableau
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#conclusioni" class="md-nav__link">
+    Conclusioni
+  </a>
+  
+    <nav class="md-nav" aria-label="Conclusioni">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#ringrazziamenti" class="md-nav__link">
+    Ringrazziamenti
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
   
 </nav>
     <!-- immagine plus -->
@@ -1219,7 +1280,7 @@
       
     
     
-      <a href="../../../tags/#xxxx" class="md-tag md-tag-icon">xxxx</a>
+      <a href="../../../tags/#ingv" class="md-tag md-tag-icon">INGV</a>
     
   
     
@@ -1228,7 +1289,7 @@
       
     
     
-      <a href="../../../tags/#aaaa" class="md-tag md-tag-icon">aaaa</a>
+      <a href="../../../tags/#earthquakes-today" class="md-tag md-tag-icon">Earthquakes today</a>
     
   
     
@@ -1237,7 +1298,7 @@
       
     
     
-      <a href="../../../tags/#bbbb" class="md-tag md-tag-icon">bbbb</a>
+      <a href="../../../tags/#sisma" class="md-tag md-tag-icon">Sisma</a>
     
   
     
@@ -1246,7 +1307,16 @@
       
     
     
-      <a href="../../../tags/#yyyy" class="md-tag md-tag-icon">yyyy</a>
+      <a href="../../../tags/#terremoti" class="md-tag md-tag-icon">Terremoti</a>
+    
+  
+    
+    
+      
+      
+    
+    
+      <a href="../../../tags/#italia" class="md-tag md-tag-icon">Italia</a>
     
   
 </nav>
@@ -1257,13 +1327,60 @@
 
 <style>
 .md-typeset code { background-color: #fff0;}  
-.md-typeset pre>code { background-color: #fff0;}  
+.md-typeset pre>code { background-color: #fff0;} 
 </style>
 <p><a href="./"><img align="left" alt="Earthquakes" class="crop gray" src="../earthquakes_2019/earthquakes.jpg" title="Italia 2019 | Earthquakes today | Mappe e grafici dinamici" /></a></p>
-<p><img alt="workinprogress" class="nobox off-glb" src="https://coseerobe.it/assets/img/workinprogress.jpg" title="Work in progress" /></p>
-<!-- more -->
+<h2 id="la-raccolta-dei-dati">La raccolta dei dati<a class="headerlink" href="#la-raccolta-dei-dati" title="Permanent link">&para;</a></h2>
+<p>Dopo il terremoto del <a href="https://www.repubblica.it/cronaca/2018/12/26/news/paura_nella_notte_a_catania_forte_scossa_di_terremoto_magnitudo_4_8-215132862/">26 Dicembre 2018 a Catania</a> mi è venuto in mente di realizzare una <a href="http://u.osmfr.org/m/278617/">Mappa</a> per monitorare gli eventi sismici giornalieri/mensili [earthquakes today] in Italia durante il 2019, in rete ho trovato molte mappe sia statiche che dinamiche, tutte ben fatte, come ad esempio la mappa dell’<a href="https://ingv.maps.arcgis.com/apps/webappviewer/index.html?id=e1dc92fce0424c668c1d2ed95c02def2">INGV sui terremoti del 2018</a>, ma poco <em>user friendly</em> dal mio punto di vista.<!-- more --> Mi sono chiesto…perchè non provare a realizzare una mappa dinamica di facile utilizzo, (riutilizzando i dati resi disponibili da <a href="https://ingvterremoti.wordpress.com/">IGNV – Centro Nazionale Terremoti</a>) dove è  semplice estrarre informazioni sugli eventi ad un determita ora/giorno/mese, luogo o magnitudo anche per i non addetti ai lavori…? </p>
+<p>Con l’aiuto di <a href="https://twitter.com/aborruso">Andrea Borruso</a> e <a href="https://coseerobe.gbvitrano.it/mappa-terremoti-italia-2019.html">studiando la documentazione</a> dell’<a href="http://webservices.ingv.it/swagger-ui/dist/?url=http://webservices.ingv.it/fdsnws/event/1/swagger.yml">INGV CNT FDSNWS event Web Service Documentation</a> come descritto in questo breve <a href="https://coseerobe.gbvitrano.it/mappa-terremoti-italia-2019.html">post</a> e usando semplicemnte Google Sheets abbiamo ottenuto i datset mensili degli eventi del 2019.</p>
+<p>Anche se il file csv ottenuto dalla query:</p>
+<p><div class="highlight"><pre><span></span><code><a id="__codelineno-0-1" name="__codelineno-0-1" href="#__codelineno-0-1"></a>http://webservices.ingv.it/fdsnws/event/1/query?starttime=2019-01-01T00%3A00%3A00&amp;endtime=2019-01-31T23%3A59%3A59&amp;minmag=-1&amp;maxmag=10&amp;mindepth=-10&amp;maxdepth=1000&amp;minlat=35&amp;maxlat=49&amp;minlon=5&amp;maxlon=20&amp;minversion=100&amp;orderby=time-asc&amp;format=text&amp;limit=10000
+</code></pre></div>
+<em>(esempio di query per gennaio 2019)</em> è un csv anomalo, in quanto il separatore non è la classica <em><strong>virgola</strong></em> [<strong>,</strong>] ma il <em><strong>pipe</strong></em> [<strong>|</strong>] con un barbatrucco siamo stati in grado di far caricare velocemente ed automaticamente i dati a Google Sheets.</p>
+<p><img alt="Google sheets" class="off-glb" src="../earthquakes_2019/google_01.webp" style="display: block; margin: 0 auto" title="Google sheets" /></p>
+<p>IMPORTDATA(“url”) senza barbatrucco</p>
+<p><img alt="Google sheets" class="off-glb" src="../earthquakes_2019/google_02.webp" style="display: block; margin: 0 auto" title="Google sheets" /></p>
+<p>IMPORTDATA(“url”) con barbatrucco, per maggiori dettagli vi invito a leggere questo <a href="http://tansignari.opendatasicilia.it/it/latest/ricette/csv/semicoln_googlesheets.html">post su tansignari</a>.</p>
+<p>Infine utilizzando <a href="https://www.qgis.org/it/site/">QGIS</a> e  i <a href="https://www.istat.it/it/archivio/222527">confini delle unità amministrative a fini statistici al 1 gennaio 2019</a> dell’ISTAT sono stati aggiunti le regioni e le province al dataset dell’INGV.</p>
+<hr>
 
-<p>https://coseerobe.gbvitrano.it/italia-2019-earthquakes-today-mappe-e-grafici-dinamici.html</p>
+<h2 id="le-mappe-dinamiche">Le mappe dinamiche<a class="headerlink" href="#le-mappe-dinamiche" title="Permanent link">&para;</a></h2>
+<p>Ricavati i dataset, quale applicazione/i usare per rappresentare i dati in modo semplice, veloce e dinamico i dati?</p>
+<p>Ci sono molte applicazioni in grado di realizzare mappe e viz dinamici funzionali e gradevoli, in questo caso abbiamo scelto <a href="https://public.flourish.studio/">flourish.studio</a> per ottenere mappe e grafici a scorrimento temporale e <a href="https://public.tableau.com/">public.tableau.com</a> per realizzare viz interrogabili.</p>
+<hr>
+
+<h2 id="flourish">Flourish<a class="headerlink" href="#flourish" title="Permanent link">&para;</a></h2>
+<p>Con Flourish sono state realizzate singolarmente le mappe e grafici a scorrimento temporale e poi assemblate in unica presentazione.</p>
+<p>La mappa della prima slide mostra gli eventi in sequenza temporale durante i mesi dell’anno, per ottenere le informazioni sull’evento basta bloccare l’animazione e cliccare sull’evento o sulla legenda in alto a sinistra.</p>
+<div class="flourish-embed" data-src="story/164335"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+<hr>
+
+<h2 id="tableau">Tableau<a class="headerlink" href="#tableau" title="Permanent link">&para;</a></h2>
+<p>Usando lo stesso dataset con <a href="https://public.tableau.com/views/ItaliaEarthquake2019/Earthquake2019?:display_count=y&amp;publish=yes&amp;:toolbar=n&amp;:origin=viz_share_link">Tableau</a> abbiamo ottenuto una rapprensetazione diversa, non più basata sullo scorrimento temporale, (<em>meno effetto wow</em>) ma  più semplice da interrogare, usando i potenti filtri  di <a href="https://public.tableau.com/views/ItaliaEarthquake2019/Earthquake2019?:display_count=y&amp;publish=yes&amp;:toolbar=n&amp;:origin=viz_share_link">Tableau</a>  possiamo estrarre velocemente tutte le info su uno o più eventi sismici.</p>
+<div class='tableauPlaceholder' id='viz1697012537980' style='position: relative'><noscript><a href='#'><img alt='Earthquake | 2019 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ma&#47;MappaEarthquakeItalia2019-bis&#47;Earthquake2019&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='MappaEarthquakeItalia2019-bis&#47;Earthquake2019' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ma&#47;MappaEarthquakeItalia2019-bis&#47;Earthquake2019&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='it-IT' /><param name='filter' value='publish=yes' /></object></div>
+<div class="highlight"><pre><span></span><code>
+</code></pre></div>
+<script type='text/javascript'>                    var divElement = document.getElementById('viz1697012537980');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1120px';vizElement.style.height='2227px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1120px';vizElement.style.height='2227px';} else { vizElement.style.width='100%';vizElement.style.height='2127px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+
+<p Style="color: #ff0000; text-align: center; font-weight: 700; ">Viz Tableau | <a href="https://public.tableau.com/views/MappaEarthquakeItalia2019-bis/Earthquake2019?:language=it-IT&publish=yes&:display_count=n&:origin=viz_share_link" target="_blank" Title="Clicca qui per aprire il viz a schermo intero">Mappa Earthquake Italia 2019
+</a></p>
+
+<hr>
+
+<h2 id="conclusioni">Conclusioni<a class="headerlink" href="#conclusioni" title="Permanent link">&para;</a></h2>
+<p>Sicuramente le mappe ed i viz da me realizzati non sono un’analisi sugli eventi sismici avventuti in Italia nel 2019, ma sono un semplice esercizio per raccontare i dati in modo semplice anche per i non addetti ai lavori…e non è detto che sia corretto 🙂</p>
+<hr>
+
+<h3 id="ringrazziamenti">Ringrazziamenti<a class="headerlink" href="#ringrazziamenti" title="Permanent link">&para;</a></h3>
+<ul>
+<li><a href="https://twitter.com/aborruso">Andrea Borruso</a></li>
+<li><a href="https://twitter.com/totofiandaca">Salvatore Fiandaca</a></li>
+<li><a href="http://www.ingv.it/it/">INGV</a> per la divulgazione e la condivisione dei dati</li>
+</ul>
+<hr>
+
+<p><strong>Licenza:</strong> I dati e i risultati pubblicati nelle mappe sono distribuiti <a href="http://www.ingv.it/">dall’Istituto Nazionale di Geofisica e Vulcanologia</a> sotto licenza <a href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. Il Gruppo di Lavoro ISIDe presso <a href="https://ingvterremoti.wordpress.com/">Centro Nazionale Terremoti</a> ha beneficiato del contributo finanziario della Presidenza del Consiglio dei Ministri, <a href="http://www.protezionecivile.gov.it/">Dipartimento della Protezione Civile</a>.</p>
 <hr>
 <p><strong>Disclaimer:</strong> Le informazioni visibili e condivise non comportano la visualizzazione di dati sensibili. Data la natura esclusivamente informativa degli elaborati grafici e dei testi riportati, questi non costituiscono atti ufficiali. Per accedere agli atti ufficiali si rinvia agli elaborati definitivi allegati alle specifiche deliberazioni.</p>
 
