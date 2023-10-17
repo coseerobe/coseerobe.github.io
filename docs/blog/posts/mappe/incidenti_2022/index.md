@@ -1,7 +1,7 @@
 ---
 title: Sinistri stradali Palermo 2022
 description: Sinistri stradali Palermo 2022
-draft: true
+draft: false
 date: 2023-10-12
 authors:
   - gbvitrano
