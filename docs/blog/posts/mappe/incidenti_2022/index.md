@@ -17,7 +17,8 @@ social_image: assets/img/social/umap_sinistri_2022.jpg
 .md-typeset code { background-color: #fff0;}  
 .md-typeset pre>code { background-color: #fff0;}  
 </style>
-[![incidenti_2022](umap.jpg "Sinistri stradali Palermo 2022" ){class="crop gray" align=right}](index.md)
+[![incidenti_2022](umap_wip.jpg "Sinistri stradali Palermo 2022" ){class="crop gray" align=right}](index.md)
+<!--- [![incidenti_2022](umap.jpg "Sinistri stradali Palermo 2022" ){class="crop gray" align=right}](index.md) -->
 
 Il 2022 è caratterizzato da una netta ripresa della mobilità e, come conseguenza, anche dell’incidentalità stradale, dopo gli anni in cui la pandemia ha visto la sua fase più acuta. (ISTAT) e Palermo non fa eccezione. Secondo gli ultimi rapporti, il numero di incidenti stradali a Palermo è rimasto elevato, richiedendo un'attenzione costante alla sicurezza stradale.
 Si sono verificati **3036** incidenti e **2321** persone sono rimaste coinvolte.<!-- more --> 
@@ -29,11 +30,23 @@ Si sono verificati **1.777** incidenti con lesioni a persone, (F = Feriti ) **47
 
 1. Periodo convenzionalmente definito notturno tra le ore 22,01 e le 6,00.
 
-
-![workinprogress](https://coseerobe.it/assets/img/workinprogress.jpg "Work in progress"){class="nobox" .off-glb }
-
-
 ## Localizzaione con Umap
+
+La [mappa](https://umap.openstreetmap.fr/it/map/palermo-localizzazione-sinistri-2022_971650#13/38.1435/13.3728) è composta da 7 layers:
+
+ -    [Griglia ISTAT - 1 km² - # Sinistri nell'area in esame;](https://umap.openstreetmap.fr/it/map/palermo-localizzazione-sinistri-2022_971650#13/38.1435/13.3728)
+ -    [Localizzazione sinistri 2022;](https://umap.openstreetmap.fr/it/map/palermo-localizzazione-sinistri-2022_971650#13/38.1435/13.3728) suddivisi in 4 layer separati:
+      -    F = Sinistro con lesioni a persone (1777)
+	  -    C = Sinistro con solo danni a cose (1192)
+	  -    R = Sinistro con almeno una persona in prognosi riservata sulla vita (47)
+	  -    M = Sinistro con almeno un deceduto (20)
+ -    [Vie | Sinistri e feriti;](https://umap.openstreetmap.fr/it/map/palermo-localizzazione-sinistri-2022_971650#13/38.1435/13.3728) 
+ -    [Heatmap](https://umap.openstreetmap.fr/it/map/palermo-localizzazione-sinistri-2022_971650#13/38.1435/13.3728) *layer spento di deault*
+ 
+![Griglia ISTAT - 1 km² - # Sinistri nell'area in esame](umap/griglia.jpg){data-gallery="umap" data-description="Palermo | Mappa e analisi incidendi 2022) by @OpendataSicilia" class="resized50" }
+![Localizzazione sinistri 2022](umap/sinistri_2022.jpg){data-gallery="umap" data-description="Palermo | Mappa e analisi incidendi 2022) by @OpendataSicilia" class="resized50" }
+![Vie | Sinistri e feriti](umap/vie.jpg){data-gallery="umap" data-description="Palermo | Mappa e analisi incidendi 2022) by @OpendataSicilia" class="resized50" }
+![Heatmap](umap/Heatmap.jpg){data-gallery="umap" data-description="Palermo | Mappa e analisi incidendi 2022) by @OpendataSicilia" class="resized50" }
 
 <iframe width="100%" height="600px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/it/map/palermo-localizzazione-sinistri-2022_971650?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=caption&captionBar=false&captionMenus=true"></iframe><p><a href="//umap.openstreetmap.fr/it/map/palermo-localizzazione-sinistri-2022_971650?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=caption&captionBar=false&captionMenus=true">Visualizza a schermo intero</a></p>
 
@@ -45,7 +58,7 @@ La [mappa](https://felt.com/map/Palermo-Localizzazione-sinistri-2022-9AKlAYNeUTM
  -    [Griglia ISTAT - 1 km² - # Sinistri nell'area in esame;](https://felt.com/map/Palermo-Localizzazione-sinistri-2022-9AKlAYNeUTM9B6Ls19A9Bk9CMRB?loc=38.13829,13.35017,12.45z&share=1)
  -    [Localizzazione sinistri 2022;](https://felt.com/map/Palermo-Localizzazione-sinistri-2022-9AKlAYNeUTM9B6Ls19A9Bk9CMRB?loc=38.13829,13.35017,12.45z&share=1)
  -    [Vie | Sinistri e feriti;](https://felt.com/map/Palermo-Localizzazione-sinistri-2022-9AKlAYNeUTM9B6Ls19A9Bk9CMRB?loc=38.13829,13.35017,12.45z&share=1) 
- -    [Heatmap](https://felt.com/map/Palermo-Localizzazione-sinistri-2022-9AKlAYNeUTM9B6Ls19A9Bk9CMRB?loc=38.13829,13.35017,12.45z&share=1)
+ -    [Heatmap](https://felt.com/map/Palermo-Localizzazione-sinistri-2022-9AKlAYNeUTM9B6Ls19A9Bk9CMRB?loc=38.13829,13.35017,12.45z&share=1) *layer spento di deault*
  
 ![Griglia ISTAT - 1 km² - # Sinistri nell'area in esame](flet/griglia.jpg){data-gallery="Flet" data-description="Palermo | Mappa e analisi incidendi 2022) by @OpendataSicilia" class="resized50" }
 ![Localizzazione sinistri 2022](flet/Sinistri_2022.jpg){data-gallery="Flet" data-description="Palermo | Mappa e analisi incidendi 2022) by @OpendataSicilia" class="resized50" }
