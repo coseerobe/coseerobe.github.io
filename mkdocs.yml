@@ -35,6 +35,7 @@ theme:
   language: it
   favicon: assets/img/favicon.png
   icon:
+    annotation: material/star-four-points-circle
     admonition:
       note: octicons/tag-16
       abstract: octicons/checklist-16
