@@ -44,22 +44,43 @@ Di Venerdì di verificano **15.9%** di incidenti con il **13,48%** di feriti, di
 Il picco più elevato di incidentalità durante l’arco della giornata si registra nella fascia oraria 12-16 con 709 incidenti e 587 feriti. Sempre nella stessa fascia nell'ora le 12-13 riscontriamo il picco massimo **196** incicenti e **167** feriti
 
 ## Dove?
+La strada con il nummero più alto di incidenti è Viale Regione Siciliana (E90) che lungo i suoi **41.05** km si sono verificati **324** incidenti **239** feriti e **2** morti, cosi divisi:
 
+-    Viale Regione Siciliana N.O. **199** incidenti e **154** feriti;
+-    Viale Regione Siciliana S.E. **125** incidenti e **85** feriti.
 
+Seguono:
+
+-    Via Messina Marine (SS113) **75** incidenti e **78** feriti;
+-    Via Roma (viabilità terziaria) **62** incidenti e **58** feriti;
+-    Corso Calatafimi (viabilità secondaria) (ss186) **59** incidenti e **52** feriti;
+-    Corso dei Mille (viabilità secondaria) **51** incidenti e **20** feriti.
+
+Per maggiori dettagli vi consigliano di visualizzare il Viz realizzato con [Tableau](#analisi-visiva-con-tableau) ed usare i relativi filtri.
+
+[Esempio](#analisi-visiva-con-tableau): Visualizzare gli incidenti avvenuti in Viale Regione siciliana, in base al giorno della settimna, fascia di orari, periodo del giorno, tipo di sinistri e numero di feriti, ecc..
+
+![Filtro per selezione vie ](tableau/tableau_01.jpg){data-gallery="tableau" data-description="Tableau | Mappa e analisi visiva incidendi 2022) by @OpendataSicilia" class="resized33" }
+![Filtro per il giorno della settimana ](tableau/tableau_02.jpg){data-gallery="tableau" data-description="Tableau | Mappa e analisi visiva incidendi 2022) by @OpendataSicilia" class="resized33" }
+![Filtro per selezione la fascia oraria ](tableau/tableau_03.jpg){data-gallery="tableau" data-description="Tableau | Mappa e analisi visiva incidendi 2022) by @OpendataSicilia" class="resized33" }
+
+<hr>
+	
 ## Localizzaione con Umap
 
-La [mappa](https://umap.openstreetmap.fr/it/map/palermo-localizzazione-sinistri-2022_971650#13/38.1435/13.3728) è composta da 7 layers:
+La [mappa](https://umap.openstreetmap.fr/it/map/palermo-localizzazione-sinistri-2022_971650#13/38.1435/13.3728) è composta da 8 layers:
 
- -    [Griglia ISTAT - 1 km² - # Sinistri nell'area in esame;](https://umap.openstreetmap.fr/it/map/palermo-localizzazione-sinistri-2022_971650#13/38.1435/13.3728)
+ -    [Griglia ISTAT - 1 km² - # Sinistri nell'area in esame;](https://umap.openstreetmap.fr/it/map/palermo-localizzazione-sinistri-2022_971650#13/38.1435/13.3728) *(layer spento di deault)*
+-    [Griglia ISTAT - 1 km² - # Residenti;](https://umap.openstreetmap.fr/it/map/palermo-localizzazione-sinistri-2022_971650#13/38.1435/13.3728) 
  -    [Localizzazione sinistri 2022;](https://umap.openstreetmap.fr/it/map/palermo-localizzazione-sinistri-2022_971650#13/38.1435/13.3728) suddivisi in 4 layer separati:
       -    F = Sinistro con lesioni a persone (1777)
 	  -    C = Sinistro con solo danni a cose (1192)
 	  -    R = Sinistro con almeno una persona in prognosi riservata sulla vita (47)
 	  -    M = Sinistro con almeno un deceduto (20)
  -    [Vie | Sinistri e feriti;](https://umap.openstreetmap.fr/it/map/palermo-localizzazione-sinistri-2022_971650#13/38.1435/13.3728) 
- -    [Heatmap](https://umap.openstreetmap.fr/it/map/palermo-localizzazione-sinistri-2022_971650#13/38.1435/13.3728) *layer spento di deault*
+ -    [Heatmap](https://umap.openstreetmap.fr/it/map/palermo-localizzazione-sinistri-2022_971650#13/38.1435/13.3728) *(layer spento di deault)*
  
-![Griglia ISTAT - 1 km² - # Sinistri nell'area in esame](umap/griglia.jpg){data-gallery="umap" data-description="Palermo | Mappa e analisi incidendi 2022) by @OpendataSicilia" class="resized50" }
+![Griglia ISTAT - 1 km² - # Sinistri](umap/griglia.jpg){data-gallery="umap" data-description="Palermo | Mappa e analisi incidendi 2022) by @OpendataSicilia" class="resized50" }
 ![Localizzazione sinistri 2022](umap/sinistri_2022.jpg){data-gallery="umap" data-description="Palermo | Mappa e analisi incidendi 2022) by @OpendataSicilia" class="resized50" }
 ![Vie | Sinistri e feriti](umap/vie.jpg){data-gallery="umap" data-description="Palermo | Mappa e analisi incidendi 2022) by @OpendataSicilia" class="resized50" }
 ![Heatmap](umap/Heatmap.jpg){data-gallery="umap" data-description="Palermo | Mappa e analisi incidendi 2022) by @OpendataSicilia" class="resized50" }
@@ -69,12 +90,13 @@ La [mappa](https://umap.openstreetmap.fr/it/map/palermo-localizzazione-sinistri-
 <hr>
 
 ## Localizzaione con Felt
-La [mappa](https://felt.com/map/Palermo-Localizzazione-sinistri-2022-9AKlAYNeUTM9B6Ls19A9Bk9CMRB?loc=38.13829,13.35017,12.45z&share=1) è composta da 4 layers:
+La [mappa](https://felt.com/map/Palermo-Localizzazione-sinistri-2022-9AKlAYNeUTM9B6Ls19A9Bk9CMRB?loc=38.13829,13.35017,12.45z&share=1) è composta da 5 layers:
 
- -    [Griglia ISTAT - 1 km² - # Sinistri nell'area in esame;](https://felt.com/map/Palermo-Localizzazione-sinistri-2022-9AKlAYNeUTM9B6Ls19A9Bk9CMRB?loc=38.13829,13.35017,12.45z&share=1)
+ -    [Griglia ISTAT - 1 km² - # Sinistri;](https://felt.com/map/Palermo-Localizzazione-sinistri-2022-9AKlAYNeUTM9B6Ls19A9Bk9CMRB?loc=38.13829,13.35017,12.45z&share=1) *(layer spento di deault)*
+ -    [Griglia ISTAT - 1 km² - # Residenti;](https://felt.com/map/Palermo-Localizzazione-sinistri-2022-9AKlAYNeUTM9B6Ls19A9Bk9CMRB?loc=38.13829,13.35017,12.45z&share=1)
  -    [Localizzazione sinistri 2022;](https://felt.com/map/Palermo-Localizzazione-sinistri-2022-9AKlAYNeUTM9B6Ls19A9Bk9CMRB?loc=38.13829,13.35017,12.45z&share=1)
  -    [Vie | Sinistri e feriti;](https://felt.com/map/Palermo-Localizzazione-sinistri-2022-9AKlAYNeUTM9B6Ls19A9Bk9CMRB?loc=38.13829,13.35017,12.45z&share=1) 
- -    [Heatmap](https://felt.com/map/Palermo-Localizzazione-sinistri-2022-9AKlAYNeUTM9B6Ls19A9Bk9CMRB?loc=38.13829,13.35017,12.45z&share=1) *layer spento di deault*
+ -    [Heatmap](https://felt.com/map/Palermo-Localizzazione-sinistri-2022-9AKlAYNeUTM9B6Ls19A9Bk9CMRB?loc=38.13829,13.35017,12.45z&share=1) *(layer spento di deault)*
  
 ![Griglia ISTAT - 1 km² - # Sinistri nell'area in esame](flet/griglia.jpg){data-gallery="Flet" data-description="Palermo | Mappa e analisi incidendi 2022) by @OpendataSicilia" class="resized50" }
 ![Localizzazione sinistri 2022](flet/Sinistri_2022.jpg){data-gallery="Flet" data-description="Palermo | Mappa e analisi incidendi 2022) by @OpendataSicilia" class="resized50" }
