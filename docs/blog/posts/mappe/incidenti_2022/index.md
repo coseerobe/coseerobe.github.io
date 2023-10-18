@@ -21,14 +21,30 @@ social_image: assets/img/social/umap_sinistri_2022.jpg
 <!--- [![incidenti_2022](umap.jpg "Sinistri stradali Palermo 2022" ){class="crop gray" align=right}](index.md) -->
 
 Il 2022 è caratterizzato da una netta ripresa della mobilità e, come conseguenza, anche dell’incidentalità stradale, dopo gli anni in cui la pandemia ha visto la sua fase più acuta. (ISTAT) e Palermo non fa eccezione. Secondo gli ultimi rapporti, il numero di incidenti stradali a Palermo è rimasto elevato, richiedendo un'attenzione costante alla sicurezza stradale.
-Si sono verificati **3036** incidenti e **2321** persone sono rimaste coinvolte.<!-- more --> 
 
-Si sono verificati **1.777** incidenti con lesioni a persone, (F = Feriti ) **47** incidenti con almeno una con almeno una persona in prognosi riservata sulla vita (R = Riserva), **20** incidenti con almeno una persona deceduta (M = Mortale) ed infine **1.192** incidenti con solo danni a cose (C = Cose).
+## Quanti?
+Si sono verificati **3.036** incidenti e **2.321** persone sono rimaste coinvolte.<!-- more --> <br>
+Mediamete si verificano **8,3** incidenti strdali al giorno che procano la morte di **0,05** persone e il ferimento di altre **5,5**
 
-**2.427** (79,1%) incidenti sono avvenuti durante il giorno ed hanno causato lesioni a **1867** (80,4%) persone, **609** (19,1%) sono avvenuti di notte ed hanno causato lesioni a **454** (19,5%) persone. (1)
+In valore assoluto si registrano **1.777** incidenti con lesioni a persone, (F = Feriti ), **47** incidenti con almeno una con almeno una persona in prognosi riservata sulla vita (R = Riserva), **20** incidenti con almeno una persona deceduta (M = Mortale) ed infine **1.192** incidenti con solo danni a cose (C = Cose).
+
+## Quando?
+Il **79,1%** (2.427) degli incidenti sono avvenuti durante il giorno ed hanno causato lesioni all'**80,4%** (1.867) persone coinvolte, 
+il restante **19,1%** (609) sono avvenuti di notte ed hanno causato lesioni al **19,5%** (454) persone. (1)
 { .annotate }
 
 1. Periodo convenzionalmente definito notturno tra le ore 22,01 e le 6,00.
+
+Il maggior numero di incidenti e feriti si è verificato a **Dicembre** (281 sinistri con 216 feriti), mese con la media giornaliera di 9 incidenti e 7 feriti, seguito da **Ottobre** (280 sinistri con 243 feriti) con la media giornaliera poco più alta, 9 incidenti e 7,8 feriti.
+Gennaio è il mese con il numero più basso di incidenti (215) con la media giornaliera poco più alta, 6.9 incidenti e 4,8 feriti.
+
+**Venerdì** e **Mercoledì** sono i giorni ”neri” per numero di incidenti **483** e **351** feriti il Venerdì e **469** incidenti e **313** feriti il mercoledì. <br>
+Di Venerdì di verificano **15.9%** di incidenti con il **13,48%** di feriti, di Mercoledì **15,44** con il **13,48%** di feriti.
+
+Il picco più elevato di incidentalità durante l’arco della giornata si registra nella fascia oraria 12-16 con 709 incidenti e 587 feriti. Sempre nella stessa fascia nell'ora le 12-13 riscontriamo il picco massimo **196** incicenti e **167** feriti
+
+## Dove?
+
 
 ## Localizzaione con Umap
 
