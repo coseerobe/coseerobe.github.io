@@ -41,7 +41,10 @@ Gennaio è il mese con il numero più basso di incidenti (215) con la media gior
 **Venerdì** e **Mercoledì** sono i giorni ”neri” per numero di incidenti **483** e **351** feriti il Venerdì e **469** incidenti e **313** feriti il mercoledì. <br>
 Di Venerdì di verificano **15.9%** di incidenti con il **13,48%** di feriti, di Mercoledì **15,44** con il **13,48%** di feriti.
 
-Il picco più elevato di incidentalità durante l’arco della giornata si registra nella fascia oraria 12-16 con 709 incidenti e 587 feriti. Sempre nella stessa fascia nell'ora le 12-13 riscontriamo il picco massimo **196** incicenti e **167** feriti
+Il picco più elevato di incidentalità durante l’arco della giornata si registra nella fascia oraria 12-16 con 709 incidenti e 587 feriti. Sempre nella stessa fascia nell'ora 13 (1) riscontriamo il picco massimo **196** incicenti e **167** feriti
+{ .annotate }
+
+1. (13:00 - 13:59)
 
 ## Dove?
 La strada con il nummero più alto di incidenti è Viale Regione Siciliana (E90) che lungo i suoi **41.05** km si sono verificati **324** incidenti **239** feriti e **2** morti, cosi divisi:
