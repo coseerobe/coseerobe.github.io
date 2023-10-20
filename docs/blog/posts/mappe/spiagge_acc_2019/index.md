@@ -44,6 +44,12 @@ Per ogni spiaggia o lido vengono riportate le informazioni principali, Comune, P
 ## Umap
 <iframe width="100%" height="600px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/it/map/spiagge-accessibili-in-sicilia-2019_339960?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false&captionMenus=true"></iframe><p><a href="https://palermohub.opendatasicilia.it/sicilia_spiagge_accessibili.html">Visualizza a schermo intero</a></p>
 
+👉 Se vuoi includere questa mappa sul tuo sito, copia il codice sottostante inserendolo su una pagina o articolo
+
+```
+<iframe width="100%" height="600px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/it/map/spiagge-accessibili-in-sicilia-2019_339960?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false&captionMenus=true"></iframe><p><a href="https://palermohub.opendatasicilia.it/sicilia_spiagge_accessibili.html">Visualizza a schermo intero</a></p>
+```
+
 [Gent.ma](http://Gent.ma) Prof.ssa [Bernadette Lo Bianco](https://www.facebook.com/profile.php?id=100004027914269) grazie per la fiducia, [ODS](http://opendatasicilia.it/) è fiera ed orgogliosa di aver dato un piccolo contribuito al progetto **[Sicilia e Siracusa, Mare per tutti 2019](https://github.com/SiciliaHub/palermohub/raw/gh-pages/legend/Spiagge_per_tutti_accessibili_2019.pdf)**  con la [mappa](http://palermohub.opendatasicilia.it/sicilia_spiagge_accessibili.html),  ci auguriamo che possa essere utile a molte persone.
 
 
