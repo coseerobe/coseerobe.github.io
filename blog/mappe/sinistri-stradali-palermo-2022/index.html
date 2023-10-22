@@ -280,7 +280,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#il-dataset" class="md-skip">
+        <a href="#dati-istat" class="md-skip">
           Vai al contenuto
         </a>
       
@@ -1211,6 +1211,13 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
+  <a href="#dati-istat" class="md-nav__link">
+    Dati ISTAT
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#il-dataset" class="md-nav__link">
     Il dataset
   </a>
@@ -1328,12 +1335,18 @@
 
 <style>
 .md-typeset code { background-color: #fff0;}  
-.md-typeset pre>code { background-color: #fff0;}  
+.md-typeset pre>code { background-color: #fff0;} 
+.dszQmPq90Hj9i-pDPesOa {    display: none!important;} 
 </style>
 <p><a href="./"><img align="right" alt="incidenti_2022" class="crop gray" src="../incidenti_2022/umap_wip.jpg" title="Sinistri stradali Palermo 2022" /></a></p>
 <!--- [![incidenti_2022](umap.jpg "Sinistri stradali Palermo 2022" ){class="crop gray" align=right}](index.md) -->
 
 <p>Il 2022 è caratterizzato da una netta ripresa della mobilità e, come conseguenza, anche dell’incidentalità stradale, dopo gli anni in cui la pandemia ha visto la sua fase più acuta. (ISTAT) e Palermo non fa eccezione. <br> Secondo gli ultimi rapporti, il numero di incidenti stradali a Palermo è rimasto elevato, richiedendo un'attenzione costante alla sicurezza stradale.<!-- more --></p>
+<h2 id="dati-istat">Dati ISTAT<a class="headerlink" href="#dati-istat" title="Permanent link">&para;</a></h2>
+<script id="infogram_0_12bb744e-ba3b-4ca4-b7dd-149e4214bbd5" title="Palermo Incidenti serie storica" src="https://e.infogram.com/js/dist/embed.js?8hY" type="text/javascript"></script>
+
+<hr>
+
 <h2 id="il-dataset">Il dataset<a class="headerlink" href="#il-dataset" title="Permanent link">&para;</a></h2>
 <p>Il dataset dei Sinistri 2022 è disponibile sul <a href="https://opendata.comune.palermo.it/opendata-dataset.php?dataset=1713">portale opendata del Comune Palermo</a>, distribuito con Licenza  <a href="https://creativecommons.org/licenses/by/4.0/deed.it">CC BY 4.0 - Attribuzione 4.0 Internazionale</a>.<br>
 Ad una prima lettura con <a href="https://www.visidata.org/">Visidata</a> ci siamo resi conto che non sono specificati il numero di morti per incidente, non è presente la relativa colonna dati.</p>
@@ -1347,7 +1360,7 @@ Ad una prima lettura con <a href="https://www.visidata.org/">Visidata</a> ci sia
 <li>R =  <strong>47</strong></li>
 <li>M =  <strong>20</strong></li>
 </ul>
-<p>In assenza di altri dati abbiamo aggiunto la colonna <strong>morti</strong> supponendo che per ogni sinistro con morti c'è stato almeno un decesso.</p>
+<p>In assenza di altri dati abbiamo aggiunto la colonna <strong>morti</strong> supponendo che per ogni sinistro di tipo <strong>M</strong> c'è stato almeno un decesso.</p>
 <p><a class="glightbox" href="../incidenti_2022/visidata_03.png" data-type="image" data-width="100%" data-height="auto" data-title="visidata" data-desc-position="bottom"><img alt="visidata" src="../incidenti_2022/visidata_03.png" title="Sinistri stradali Palermo 2022" /></a></p>
 <p>Per <strong>123</strong> incidenti (4.04%() mancano le coordinate (lat. long), per mapparle è stato usato il <em>geocoding</em>, usando i pochi dati della colonna <strong>Luogo</strong>, le coordinate ottenute potrebbero avere un margine di errore.</p>
 <hr>
