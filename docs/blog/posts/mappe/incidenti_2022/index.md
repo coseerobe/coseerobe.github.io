@@ -15,12 +15,19 @@ social_image: assets/img/social/umap_sinistri_2022.jpg
 ---
 <style>
 .md-typeset code { background-color: #fff0;}  
-.md-typeset pre>code { background-color: #fff0;}  
+.md-typeset pre>code { background-color: #fff0;} 
+.dszQmPq90Hj9i-pDPesOa {    display: none!important;} 
 </style>
 [![incidenti_2022](umap_wip.jpg "Sinistri stradali Palermo 2022" ){class="crop gray" align=right}](index.md)
 <!--- [![incidenti_2022](umap.jpg "Sinistri stradali Palermo 2022" ){class="crop gray" align=right}](index.md) -->
 
 Il 2022 è caratterizzato da una netta ripresa della mobilità e, come conseguenza, anche dell’incidentalità stradale, dopo gli anni in cui la pandemia ha visto la sua fase più acuta. (ISTAT) e Palermo non fa eccezione. <br> Secondo gli ultimi rapporti, il numero di incidenti stradali a Palermo è rimasto elevato, richiedendo un'attenzione costante alla sicurezza stradale.<!-- more -->
+
+## Dati ISTAT
+
+<script id="infogram_0_12bb744e-ba3b-4ca4-b7dd-149e4214bbd5" title="Palermo Incidenti serie storica" src="https://e.infogram.com/js/dist/embed.js?8hY" type="text/javascript"></script>
+
+<hr>
 
 ## Il dataset
 Il dataset dei Sinistri 2022 è disponibile sul [portale opendata del Comune Palermo](https://opendata.comune.palermo.it/opendata-dataset.php?dataset=1713), distribuito con Licenza  [CC BY 4.0 - Attribuzione 4.0 Internazionale](https://creativecommons.org/licenses/by/4.0/deed.it).<br>
@@ -39,7 +46,7 @@ Sinistri per tipologia:
 -    R =  **47**
 -    M =  **20**
 
-In assenza di altri dati abbiamo aggiunto la colonna **morti** supponendo che per ogni sinistro con morti c'è stato almeno un decesso.
+In assenza di altri dati abbiamo aggiunto la colonna **morti** supponendo che per ogni sinistro di tipo **M** c'è stato almeno un decesso.
 
 ![visidata](visidata_03.png "Sinistri stradali Palermo 2022")
 
