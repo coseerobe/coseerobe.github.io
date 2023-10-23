@@ -199,6 +199,13 @@ border: 1px solid #ff00096;
 max-height:100px;
 }  
 
+/* Admonitions - info*/
+.md-typeset .admonition.info, .md-typeset details.info {border-color: #0000001f;}
+.md-typeset .info>.admonition-title:before, .md-typeset .info>summary:before {background-color: #ff00008a;}
+.md-typeset .info>.admonition-title:after, .md-typeset .info>summary:after {color: #ff00008a;}
+.md-typeset .info>.admonition-title, .md-typeset .info>summary {background-color: #ff000054;}
+.md-typeset .admonition.info:focus-within, .md-typeset details.info:focus-within { box-shadow: 0 0 0 0.1rem #ff00001c;}
+
 /*zoom image*/
 .goverlay { background: #121423b0!Important;}
 .glightbox-clean .gslide-title { color: #fff!Important;  display: flex!Important;  justify-content: center!Important;  align-items: center!Important;} 

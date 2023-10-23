@@ -17,6 +17,7 @@ social_image: assets/img/social/umap_sinistri_2022.jpg
 .md-typeset code { background-color: #fff0;}  
 .md-typeset pre>code { background-color: #fff0;} 
 .dszQmPq90Hj9i-pDPesOa {    display: none!important;} 
+
 </style>
 <!--- [![incidenti_2022](umap_wip.jpg "Sinistri stradali Palermo 2022" ){class="crop gray" align=right}](index.md) -->
 [![incidenti_2022](umap.jpg "Sinistri stradali Palermo 2022" ){class="crop gray" align=right}](index.md)
@@ -35,18 +36,18 @@ Ad una prima lettura con [Visidata](https://www.visidata.org/) ci siamo resi con
 
 ![visidata](visidata_01.png "Sinistri stradali Palermo 2022" )
 
-Rapidamenmte abbiamo verificato il numeto di sinitri per tipologia.
+Rapidamenmte è stato verificato il numeto di sinitri per tipologia.
 
 ![visidata](visidata_02.png "Sinistri stradali Palermo 2022" )
 
 Sinistri per tipologia:
 
 -    C =  **1.196**
--    F =  **1.799**
+-    F =  **1.779**
 -    R =  **47**
 -    M =  **20**
 
-In assenza di altri dati abbiamo aggiunto la colonna **morti** supponendo che per ogni sinistro di tipo **M** ci sia stato almeno un decesso.
+In assenza di altri dati è stata aggiunta la colonna **morti** supponendo che per ogni sinistro di tipo **M** ci sia stato almeno un decesso.
 
 ![visidata](visidata_03.png "Sinistri stradali Palermo 2022")
 
@@ -93,13 +94,13 @@ Seguono:
 
 Per maggiori dettagli vi consigliano di visualizzare il Viz realizzato con [Tableau](#analisi-visiva-con-tableau) ed usare i relativi filtri.
 
-!!! info "Tableau Filtres"
+???+ info "Tableau Filtres"
 
-	Cliccando su un qualsiasi elemento del grafico si utilizza quella voce come filtro sui dati generali e sulla  mappa.
-	Per disattivare il filtro cliccare novamente sulla barra evidenziata.
+	Cliccando su un qualsiasi elemento del grafico si utilizza quella voce come filtro sui dati generali e sulla  mappa.<br>
+	Per disattivare il filtro cliccare novamente sulla barra evidenziata.<br>
 	II filtro è disattivato quando non resta evidenziata acuna barra.
 	
-	NOVITA' - Nelle mappe è stasto introdotto il selettore dei layers
+	{==NOVITA' - Nelle mappe è stasto introdotto il selettore dei layers==}
 
 	[Esempio](#analisi-visiva-con-tableau): Visualizzare gli incidenti avvenuti in Viale Regione siciliana, in base al giorno della settimna, fascia di orari, periodo del giorno, tipo di sinistri e numero di feriti, ecc..
 
@@ -125,10 +126,13 @@ La [mappa](https://umap.openstreetmap.fr/it/map/palermo-localizzazione-sinistri-
  -    [Heatmap](https://umap.openstreetmap.fr/it/map/palermo-localizzazione-sinistri-2022_971650#13/38.1435/13.3728) *(layer spento di deault)*
  
  
-![Griglia ISTAT - 1 km² - # Sinistri](umap/griglia.jpg){data-gallery="umap" data-description="Palermo | Mappa e analisi incidendi 2022) by @OpendataSicilia" class="resized25" }
-![Localizzazione sinistri 2022](umap/sinistri_2022.jpg){data-gallery="umap" data-description="Palermo | Mappa e analisi incidendi 2022) by @OpendataSicilia" class="resized25" }
-![Vie | Sinistri e feriti](umap/vie.jpg){data-gallery="umap" data-description="Palermo | Mappa e analisi incidendi 2022) by @OpendataSicilia" class="resized25" }
-![Heatmap](umap/Heatmap.jpg){data-gallery="umap" data-description="Palermo | Mappa e analisi incidendi 2022) by @OpendataSicilia" class="resized25" }
+???+ info "Umap layers"
+ 
+	![Griglia ISTAT - 1 km² - # Sinistri](umap/griglia.jpg){data-gallery="umap" data-description="Palermo | Mappa e analisi incidendi 2022) by @OpendataSicilia" class="resized25" }
+	![Localizzazione sinistri 2022](umap/sinistri_2022.jpg){data-gallery="umap" data-description="Palermo | Mappa e analisi incidendi 2022) by @OpendataSicilia" class="resized25" }
+	![Vie | Sinistri e feriti](umap/vie.jpg){data-gallery="umap" data-description="Palermo | Mappa e analisi incidendi 2022) by @OpendataSicilia" class="resized25" }
+	![Heatmap](umap/Heatmap.jpg){data-gallery="umap" data-description="Palermo | Mappa e analisi incidendi 2022) by @OpendataSicilia" class="resized25" }
+
 
 <iframe width="100%" height="600px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/it/map/palermo-localizzazione-sinistri-2022_971650?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=caption&captionBar=false&captionMenus=true"></iframe><p><a href="//umap.openstreetmap.fr/it/map/palermo-localizzazione-sinistri-2022_971650?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=caption&captionBar=false&captionMenus=true">Visualizza a schermo intero</a></p>
 
@@ -149,10 +153,13 @@ La [mappa](https://felt.com/map/Palermo-Localizzazione-sinistri-2022-9AKlAYNeUTM
  -    [Vie | Sinistri e feriti;](https://felt.com/map/Palermo-Localizzazione-sinistri-2022-9AKlAYNeUTM9B6Ls19A9Bk9CMRB?loc=38.13829,13.35017,12.45z&share=1) 
  -    [Heatmap](https://felt.com/map/Palermo-Localizzazione-sinistri-2022-9AKlAYNeUTM9B6Ls19A9Bk9CMRB?loc=38.13829,13.35017,12.45z&share=1) *(layer spento di deault)*
  
-![Griglia ISTAT - 1 km² - # Sinistri nell'area in esame](flet/griglia.jpg){data-gallery="Flet" data-description="Palermo | Mappa e analisi incidendi 2022) by @OpendataSicilia" class="resized25" }
-![Localizzazione sinistri 2022](flet/Sinistri_2022.jpg){data-gallery="Flet" data-description="Palermo | Mappa e analisi incidendi 2022) by @OpendataSicilia" class="resized25" }
-![Vie | Sinistri e feriti](flet/Vie.jpg){data-gallery="Flet" data-description="Palermo | Mappa e analisi incidendi 2022) by @OpendataSicilia" class="resized25" }
-![Heatmap](flet/Heatmap.jpg){data-gallery="Flet" data-description="Palermo | Mappa e analisi incidendi 2022) by @OpendataSicilia" class="resized25" }
+ 
+???+ info "Felt layers"
+ 
+	![Griglia ISTAT - 1 km² - # Sinistri nell'area in esame](flet/griglia.jpg){data-gallery="Flet" data-description="Palermo | Mappa e analisi incidendi 2022) by @OpendataSicilia" class="resized25" }
+	![Localizzazione sinistri 2022](flet/Sinistri_2022.jpg){data-gallery="Flet" data-description="Palermo | Mappa e analisi incidendi 2022) by @OpendataSicilia" class="resized25" }
+	![Vie | Sinistri e feriti](flet/Vie.jpg){data-gallery="Flet" data-description="Palermo | Mappa e analisi incidendi 2022) by @OpendataSicilia" class="resized25" }
+	![Heatmap](flet/Heatmap.jpg){data-gallery="Flet" data-description="Palermo | Mappa e analisi incidendi 2022) by @OpendataSicilia" class="resized25" }
 
 <iframe width="100%" height="600" frameborder="0" title="Felt Map" src="https://felt.com/embed/map/Palermo-Localizzazione-sinistri-2022-9AKlAYNeUTM9B6Ls19A9Bk9CMRB?loc=38.13991,13.37951,11.93z"></iframe> 
 
@@ -192,13 +199,13 @@ La [mappa](https://felt.com/map/Palermo-Localizzazione-sinistri-2022-9AKlAYNeUTM
 
 ## Analisi visiva con Tableau
 
-!!! info "Tableau Filtres"
+???+ info "Tableau Filtres"
 
-	Cliccando su un qualsiasi elemento del grafico si utilizza quella voce come filtro sui dati generali e sulla  mappa.
-	Per disattivare il filtro cliccare novamente sulla barra evidenziata.
+	Cliccando su un qualsiasi elemento del grafico si utilizza quella voce come filtro sui dati generali e sulla  mappa.<br>
+	Per disattivare il filtro cliccare novamente sulla barra evidenziata.<br>
 	II filtro è disattivato quando non resta evidenziata acuna barra.
 	
-	NOVITA' - Nelle mappe è stasto introdotto il selettore dei layers
+	{==NOVITA' - Nelle mappe è stasto introdotto il selettore dei layers==}
 	
 	![Click per selezione barra degl grafico Tipologia sinistri](tableau/tableau_04.jpg){data-gallery="tableau" data-description="Tableau | Mappa e analisi visiva incidendi 2022) by @OpendataSicilia" class="resized25" }
 	![Click per selezione barra degl grafico Tipologia sinistri](tableau/tableau_05.jpg){data-gallery="tableau" data-description="Tableau | Mappa e analisi visiva incidendi 2022) by @OpendataSicilia" class="resized25" }
