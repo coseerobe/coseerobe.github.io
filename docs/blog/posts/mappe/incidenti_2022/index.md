@@ -46,11 +46,11 @@ Sinistri per tipologia:
 -    R =  **47**
 -    M =  **20**
 
-In assenza di altri dati abbiamo aggiunto la colonna **morti** supponendo che per ogni sinistro di tipo **M** c'è stato almeno un decesso.
+In assenza di altri dati abbiamo aggiunto la colonna **morti** supponendo che per ogni sinistro di tipo **M** ci sia stato almeno un decesso.
 
 ![visidata](visidata_03.png "Sinistri stradali Palermo 2022")
 
-Per **123** incidenti (4.04%() mancano le coordinate (lat. long), per mapparle è stato usato il *geocoding*, usando i pochi dati della colonna **Luogo**, le coordinate ottenute potrebbero avere un margine di errore.
+Per **123** incidenti (4.04%) mancano le coordinate (lat. long), per mapparle è stato usato il *geocoding*, usando i pochi dati della colonna **Luogo**, le coordinate ottenute potrebbero avere un margine di errore.
 
 <hr>
 
@@ -188,6 +188,30 @@ La [mappa](https://felt.com/map/Palermo-Localizzazione-sinistri-2022-9AKlAYNeUTM
 ```
 <div class='tableauPlaceholder' id='viz1697805900381' style='position: relative'><noscript><a href='#'><img alt='Sinistri_2022 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pa&#47;PalermoSinistri2022&#47;Sinistri_2022&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='PalermoSinistri2022&#47;Sinistri_2022' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pa&#47;PalermoSinistri2022&#47;Sinistri_2022&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='it-IT' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1697805900381');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1120px';vizElement.style.height='2527px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1120px';vizElement.style.height='2527px';} else { vizElement.style.width='100%';vizElement.style.height='3927px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
 ```
+## Strumenti usati
+
+**Analisi dati:**
+
+-    [QGIS](https://www.qgis.org/it/site/)
+-    [Visidata](https://www.visidata.org/)
+-    [Google Sheets](https://www.google.it/intl/it/sheets/about/)
+
+**Geolocalizzazione:**
+
+-    [Umap](https://umap.openstreetmap.fr/)
+-    [Felt](https://felt.com/)
+
+**Viz:**
+
+-    [Tableau](https://public.tableau.com/app/discover)
+-    [Datawrapper](https://www.datawrapper.de/)
+-    [Infogram](https://infogram.com/)
+-    [Flourish](https://app.flourish.studio/)
+
+## Ringraziamenti
+
+[Andrea Borruso](https://twitter.com/aborruso)<br>
+[Salvatore Fiandaca](https://twitter.com/totofiandaca)
 
 <hr>
 **Disclaimer:** Le informazioni visibili e condivise non comportano la visualizzazione di dati sensibili. Data la natura esclusivamente informativa degli elaborati grafici e dei testi riportati, questi non costituiscono atti ufficiali. Per accedere agli atti ufficiali si rinvia agli elaborati definitivi allegati alle specifiche deliberazioni.
