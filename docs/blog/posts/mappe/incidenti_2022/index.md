@@ -93,11 +93,20 @@ Seguono:
 
 Per maggiori dettagli vi consigliano di visualizzare il Viz realizzato con [Tableau](#analisi-visiva-con-tableau) ed usare i relativi filtri.
 
-[Esempio](#analisi-visiva-con-tableau): Visualizzare gli incidenti avvenuti in Viale Regione siciliana, in base al giorno della settimna, fascia di orari, periodo del giorno, tipo di sinistri e numero di feriti, ecc..
+!!! info "Tableau Filtres"
 
-![Filtro per selezione vie ](tableau/tableau_01.jpg){data-gallery="tableau" data-description="Tableau | Mappa e analisi visiva incidendi 2022) by @OpendataSicilia" class="resized33" }
-![Filtro per il giorno della settimana ](tableau/tableau_02.jpg){data-gallery="tableau" data-description="Tableau | Mappa e analisi visiva incidendi 2022) by @OpendataSicilia" class="resized33" }
-![Filtro per selezione la fascia oraria ](tableau/tableau_03.jpg){data-gallery="tableau" data-description="Tableau | Mappa e analisi visiva incidendi 2022) by @OpendataSicilia" class="resized33" }
+	Cliccando su un qualsiasi elemento del grafico si utilizza quella voce come filtro sui dati generali e sulla  mappa.
+	Per disattivare il filtro cliccare novamente sulla barra evidenziata.
+	II filtro è disattivato quando non resta evidenziata acuna barra.
+	
+	NOVITA' - Nelle mappe è stasto introdotto il selettore dei layers
+
+	[Esempio](#analisi-visiva-con-tableau): Visualizzare gli incidenti avvenuti in Viale Regione siciliana, in base al giorno della settimna, fascia di orari, periodo del giorno, tipo di sinistri e numero di feriti, ecc..
+
+	![NOVITA' Selettore layers nelle mappe ](tableau/tableau_08.jpg){data-gallery="tableau" data-description="Tableau | Mappa e analisi visiva incidendi 2022) by @OpendataSicilia" class="resized25" }
+	![Filtro per selezione vie ](tableau/tableau_01.jpg){data-gallery="tableau" data-description="Tableau | Mappa e analisi visiva incidendi 2022) by @OpendataSicilia" class="resized25" }
+	![Filtro per il giorno della settimana ](tableau/tableau_02.jpg){data-gallery="tableau" data-description="Tableau | Mappa e analisi visiva incidendi 2022) by @OpendataSicilia" class="resized25" }
+	![Filtro per selezione la fascia oraria ](tableau/tableau_03.jpg){data-gallery="tableau" data-description="Tableau | Mappa e analisi visiva incidendi 2022) by @OpendataSicilia" class="resized25" }
 
 <hr>
 	
@@ -114,6 +123,7 @@ La [mappa](https://umap.openstreetmap.fr/it/map/palermo-localizzazione-sinistri-
 	  -    M = Sinistro con almeno un deceduto (20)
  -    [Vie | Sinistri e feriti;](https://umap.openstreetmap.fr/it/map/palermo-localizzazione-sinistri-2022_971650#13/38.1435/13.3728) 
  -    [Heatmap](https://umap.openstreetmap.fr/it/map/palermo-localizzazione-sinistri-2022_971650#13/38.1435/13.3728) *(layer spento di deault)*
+ 
  
 ![Griglia ISTAT - 1 km² - # Sinistri](umap/griglia.jpg){data-gallery="umap" data-description="Palermo | Mappa e analisi incidendi 2022) by @OpendataSicilia" class="resized25" }
 ![Localizzazione sinistri 2022](umap/sinistri_2022.jpg){data-gallery="umap" data-description="Palermo | Mappa e analisi incidendi 2022) by @OpendataSicilia" class="resized25" }
@@ -181,6 +191,20 @@ La [mappa](https://felt.com/map/Palermo-Localizzazione-sinistri-2022-9AKlAYNeUTM
 <hr>
 
 ## Analisi visiva con Tableau
+
+!!! info "Tableau Filtres"
+
+	Cliccando su un qualsiasi elemento del grafico si utilizza quella voce come filtro sui dati generali e sulla  mappa.
+	Per disattivare il filtro cliccare novamente sulla barra evidenziata.
+	II filtro è disattivato quando non resta evidenziata acuna barra.
+	
+	NOVITA' - Nelle mappe è stasto introdotto il selettore dei layers
+	
+	![Click per selezione barra degl grafico Tipologia sinistri](tableau/tableau_04.jpg){data-gallery="tableau" data-description="Tableau | Mappa e analisi visiva incidendi 2022) by @OpendataSicilia" class="resized25" }
+	![Click per selezione barra degl grafico Tipologia sinistri](tableau/tableau_05.jpg){data-gallery="tableau" data-description="Tableau | Mappa e analisi visiva incidendi 2022) by @OpendataSicilia" class="resized25" }
+	![Click per selezione barra degl grafico Periodo del giono ](tableau/tableau_06.jpg){data-gallery="tableau" data-description="Tableau | Mappa e analisi visiva incidendi 2022) by @OpendataSicilia" class="resized25" }
+	![Click per selezione barra degl grafico Vie ](tableau/tableau_07.jpg){data-gallery="tableau" data-description="Tableau | Mappa e analisi visiva incidendi 2022) by @OpendataSicilia" class="resized25" }
+
 <div class='tableauPlaceholder' id='viz1698057307294' style='position: relative'><noscript><a href='#'><img alt='Sinistri_2022 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pa&#47;PalermoSinistri2022&#47;Sinistri_2022&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='PalermoSinistri2022&#47;Sinistri_2022' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pa&#47;PalermoSinistri2022&#47;Sinistri_2022&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='it-IT' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1698057307294');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1120px';vizElement.style.height='1827px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1120px';vizElement.style.height='1827px';} else { vizElement.style.width='100%';vizElement.style.height='3777px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
 
 👉 Se vuoi includere questa mappa sul tuo sito, copia il codice sottostante inserendolo su una pagina o articolo
