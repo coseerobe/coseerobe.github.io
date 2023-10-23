@@ -18,8 +18,8 @@ social_image: assets/img/social/umap_sinistri_2022.jpg
 .md-typeset pre>code { background-color: #fff0;} 
 .dszQmPq90Hj9i-pDPesOa {    display: none!important;} 
 </style>
-[![incidenti_2022](umap_wip.jpg "Sinistri stradali Palermo 2022" ){class="crop gray" align=right}](index.md)
-<!--- [![incidenti_2022](umap.jpg "Sinistri stradali Palermo 2022" ){class="crop gray" align=right}](index.md) -->
+<!--- [![incidenti_2022](umap_wip.jpg "Sinistri stradali Palermo 2022" ){class="crop gray" align=right}](index.md) -->
+[![incidenti_2022](umap.jpg "Sinistri stradali Palermo 2022" ){class="crop gray" align=right}](index.md)
 
 Il 2022 è caratterizzato da una netta ripresa della mobilità e, come conseguenza, anche dell’incidentalità stradale, dopo gli anni in cui la pandemia ha visto la sua fase più acuta. (ISTAT) e Palermo non fa eccezione. <br> Secondo gli ultimi rapporti, il numero di incidenti stradali a Palermo è rimasto elevato, richiedendo un'attenzione costante alla sicurezza stradale.<!-- more -->
 
