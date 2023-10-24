@@ -57,12 +57,12 @@ Per **123** incidenti (4.04%) mancano le coordinate (lat. long), per mapparle è
 
 ## Quanti?
 Si sono verificati **3.036** incidenti e **2.321** persone sono rimaste coinvolte.<br>
-Mediamete si verificano **8,3** incidenti strdali al giorno che procano la morte di **0,05** persone e il ferimento di altre **5,5**
+Mediamete si verificano **8,3** incidenti stradali al giorno che causano la morte di **0,05** persone (una ogni 20 giorni) e il ferimento di altre **5,5**
 
-In valore assoluto si registrano **1.777** incidenti con lesioni a persone, (F = Feriti ), **47** incidenti con almeno una con almeno una persona in prognosi riservata sulla vita (R = Riserva), **20** incidenti con almeno una persona deceduta (M = Mortale) ed infine **1.192** incidenti con solo danni a cose (C = Cose).
+In un anno (2022) si registrano **1.777** incidenti con lesioni a persone, (F = Feriti ), **47** incidenti con almeno una con almeno una persona in prognosi riservata sulla vita (R = Riserva), **20** incidenti con almeno una persona deceduta (M = Mortale) ed infine **1.192** incidenti con solo danni a cose (C = Cose).
 
 ## Quando?
-Il **79,1%** (2.427) degli incidenti sono avvenuti durante il giorno ed hanno causato lesioni all'**80,4%** (1.867) persone coinvolte, 
+Il **79,1%** (2.427) degli incidenti sono avvenuti durante l'intervallo orario di *"giorno"* ed hanno causato lesioni all'**80,4%** (1.867) persone coinvolte, 
 il restante **19,1%** (609) sono avvenuti di notte ed hanno causato lesioni al **19,5%** (454) persone. (1)
 { .annotate }
 
@@ -80,7 +80,7 @@ Il picco più elevato di incidentalità durante l’arco della giornata si regis
 1. (13:00 - 13:59)
 
 ## Dove?
-La strada con il nummero più alto di incidenti è Viale Regione Siciliana (E90) che lungo i suoi **41.05** km si sono verificati **324** incidenti **239** feriti e **2** morti, cosi divisi:
+La strada con il nummero più alto di incidenti è Viale Regione Siciliana (E90) che lungo i suoi **41.05** km è stata la sede di **324** incidenti, **239** feriti e 2 morti, cosi divisi:
 
 -    Viale Regione Siciliana N.O. **199** incidenti e **154** feriti;
 -    Viale Regione Siciliana S.E. **125** incidenti e **85** feriti.
