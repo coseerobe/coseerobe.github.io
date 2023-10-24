@@ -30,13 +30,13 @@ Il 2022 è caratterizzato da una netta ripresa della mobilità e, come conseguen
 
 <hr>
 
-## Il dataset
+## Il dataset comunale
 Il dataset dei Sinistri 2022 è disponibile sul [portale opendata del Comune Palermo](https://opendata.comune.palermo.it/opendata-dataset.php?dataset=1713), distribuito con Licenza  [CC BY 4.0 - Attribuzione 4.0 Internazionale](https://creativecommons.org/licenses/by/4.0/deed.it).<br>
 Ad una prima lettura con [Visidata](https://www.visidata.org/) ci siamo resi conto che non sono specificati il numero di morti per incidente, non è presente la relativa colonna dati.
 
 ![visidata](visidata_01.png "Sinistri stradali Palermo 2022" )
 
-Rapidamenmte è stato verificato il numeto di sinitri per tipologia.
+Rapidamente è stato verificato il numero di sinistri per tipologia.
 
 ![visidata](visidata_02.png "Sinistri stradali Palermo 2022" )
 
@@ -74,7 +74,7 @@ Gennaio è il mese con il numero più basso di incidenti (215) con la media gior
 **Venerdì** e **Mercoledì** sono i giorni ”neri” per numero di incidenti **483** e **351** feriti il Venerdì e **469** incidenti e **313** feriti il mercoledì. <br>
 Di Venerdì di verificano **15.9%** di incidenti con il **13,48%** di feriti, di Mercoledì **15,44** con il **13,48%** di feriti.
 
-Il picco più elevato di incidentalità durante l’arco della giornata si registra nella fascia oraria 12-16 con 709 incidenti e 587 feriti. Sempre nella stessa fascia nell'ora 13 (1) riscontriamo il picco massimo **196** incicenti e **167** feriti
+Il picco più elevato di incidentalità durante l’arco della giornata si registra nella fascia oraria 12-16 con 709 incidenti e 587 feriti. Sempre nella stessa fascia nell'ora 13 (1) riscontriamo il picco massimo **196** incidenti e **167** feriti
 { .annotate }
 
 1. (13:00 - 13:59)
@@ -97,10 +97,10 @@ Per maggiori dettagli vi consigliano di visualizzare il Viz realizzato con [Tabl
 ???+ info "Tableau Filtres"
 
 	Cliccando su un qualsiasi elemento del grafico si utilizza quella voce come filtro sui dati generali e sulla  mappa.<br>
-	Per disattivare il filtro cliccare novamente sulla barra evidenziata.<br>
-	II filtro è disattivato quando non resta evidenziata acuna barra.
+	Per disattivare il filtro cliccare nuovamente sulla barra evidenziata.<br>
+	II filtro è disattivato quando non resta evidenziata alcuna barra.
 	
-	{==NOVITA' - Nelle mappe è stasto introdotto il selettore dei layers==}
+	{==NOVITA' - Nelle mappe è stasto introdotto il selettore dei Layers==}
 
 	[Esempio](#analisi-visiva-con-tableau): Visualizzare gli incidenti avvenuti in Viale Regione siciliana, in base al giorno della settimna, fascia di orari, periodo del giorno, tipo di sinistri e numero di feriti, ecc..
 
@@ -111,7 +111,7 @@ Per maggiori dettagli vi consigliano di visualizzare il Viz realizzato con [Tabl
 
 <hr>
 	
-## Localizzaione con Umap
+## Localizzazione con Umap
 
 La [mappa](https://umap.openstreetmap.fr/it/map/palermo-localizzazione-sinistri-2022_971650#13/38.1435/13.3728) è composta da 8 layers:
 
@@ -144,7 +144,7 @@ La [mappa](https://umap.openstreetmap.fr/it/map/palermo-localizzazione-sinistri-
 
 <hr>
 
-## Localizzaione con Felt
+## Localizzazione con Felt
 La [mappa](https://felt.com/map/Palermo-Localizzazione-sinistri-2022-9AKlAYNeUTM9B6Ls19A9Bk9CMRB?loc=38.13829,13.35017,12.45z&share=1) è composta da 5 layers:
 
  -    [Griglia ISTAT - 1 km² - # Sinistri;](https://felt.com/map/Palermo-Localizzazione-sinistri-2022-9AKlAYNeUTM9B6Ls19A9Bk9CMRB?loc=38.13829,13.35017,12.45z&share=1) *(layer spento di deault)*
@@ -171,7 +171,7 @@ La [mappa](https://felt.com/map/Palermo-Localizzazione-sinistri-2022-9AKlAYNeUTM
 
 <hr>
 
-## Animazione con Flourish studio
+## Animazioni con Flourish studio
 
 <div class="flourish-embed" data-src="story/2056513"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
@@ -202,10 +202,10 @@ La [mappa](https://felt.com/map/Palermo-Localizzazione-sinistri-2022-9AKlAYNeUTM
 ???+ info "Tableau Filtres"
 
 	Cliccando su un qualsiasi elemento del grafico si utilizza quella voce come filtro sui dati generali e sulla  mappa.<br>
-	Per disattivare il filtro cliccare novamente sulla barra evidenziata.<br>
-	II filtro è disattivato quando non resta evidenziata acuna barra.
+	Per disattivare il filtro cliccare nuovamente sulla barra evidenziata.<br>
+	II filtro è disattivato quando non resta evidenziata alcuna barra.
 	
-	{==NOVITA' - Nelle mappe è stasto introdotto il selettore dei layers==}
+	{==NOVITA' - Nelle mappe è stasto introdotto il selettore dei Layers==}
 	
 	![Click per selezione barra degl grafico Tipologia sinistri](tableau/tableau_04.jpg){data-gallery="tableau" data-description="Tableau | Mappa e analisi visiva incidendi 2022) by @OpendataSicilia" class="resized25" }
 	![Click per selezione barra degl grafico Tipologia sinistri](tableau/tableau_05.jpg){data-gallery="tableau" data-description="Tableau | Mappa e analisi visiva incidendi 2022) by @OpendataSicilia" class="resized25" }
@@ -219,6 +219,9 @@ La [mappa](https://felt.com/map/Palermo-Localizzazione-sinistri-2022-9AKlAYNeUTM
 ```
 <div class='tableauPlaceholder' id='viz1698057307294' style='position: relative'><noscript><a href='#'><img alt='Sinistri_2022 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pa&#47;PalermoSinistri2022&#47;Sinistri_2022&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='PalermoSinistri2022&#47;Sinistri_2022' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pa&#47;PalermoSinistri2022&#47;Sinistri_2022&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='it-IT' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1698057307294');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1120px';vizElement.style.height='1827px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1120px';vizElement.style.height='1827px';} else { vizElement.style.width='100%';vizElement.style.height='3777px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
 ```
+
+<hr>
+
 ## Strumenti usati
 
 **Analisi dati:**
