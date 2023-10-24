@@ -222,7 +222,13 @@ La [mappa](https://felt.com/map/Palermo-Localizzazione-sinistri-2022-9AKlAYNeUTM
 
 <hr>
 
-## Strumenti usati
+## Strumenti e dati usati
+
+**Dataset:**
+
+-    [Dataset | Sinistri stradali anno 2022 - Comune di Palermo](https://opendata.comune.palermo.it/opendata-dataset.php?dataset=1713)
+-    [Incidenti stradali in Italia Anno 2022](https://www.istat.it/it/archivio/286933)
+-    [Statistiche sulla popolazione per griglia regolare - ISTAT](https://www.istat.it/it/archivio/155162)
 
 **Analisi dati:**
 
