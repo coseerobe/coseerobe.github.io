@@ -62,7 +62,7 @@ Mediamete si verificano **8,3** incidenti stradali al giorno che causano la mort
 In un anno (2022) si registrano **1.777** incidenti con lesioni a persone, (F = Feriti ), **47** incidenti con almeno una con almeno una persona in prognosi riservata sulla vita (R = Riserva), **20** incidenti con almeno una persona deceduta (M = Mortale) ed infine **1.192** incidenti con solo danni a cose (C = Cose).
 
 ## Quando?
-Il **79,1%** (2.427) degli incidenti sono avvenuti durante l'intervallo orario di *"giorno"* ed hanno causato lesioni all'**80,4%** (1.867) persone coinvolte, 
+Il **79,1%** (2.427) degli incidenti sono avvenuti durante l'intervallo orario di *"diurno* ed hanno causato lesioni all'**80,4%** (1.867) persone coinvolte, 
 il restante **19,1%** (609) sono avvenuti di notte ed hanno causato lesioni al **19,5%** (454) persone. (1)
 { .annotate }
 
