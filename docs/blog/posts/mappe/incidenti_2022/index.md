@@ -80,7 +80,7 @@ Il picco più elevato di incidentalità durante l’arco della giornata si regis
 1. (13:00 - 13:59)
 
 ## Dove?
-La strada con il nummero più alto di incidenti è Viale Regione Siciliana (E90) che lungo i suoi **41.05** km è stata la sede di **324** incidenti, **239** feriti e 2 morti, cosi divisi:
+La strada con il numero più alto di incidenti è Viale Regione Siciliana (E90) che lungo i suoi **41.05** km è stata la sede di **324** incidenti, **239** feriti e 2 morti, cosi divisi:
 
 -    Viale Regione Siciliana N.O. **199** incidenti e **154** feriti;
 -    Viale Regione Siciliana S.E. **125** incidenti e **85** feriti.
