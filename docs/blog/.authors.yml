@@ -1,13 +1,16 @@
 authors:
    gbvitrano:
-    name: Giovan Battista Vitrano
-    description: Autore
-    avatar: https://github.com/gbvitrano.png 
+     name: gbvitrano
+     description: Autore
+     avatar: https://github.com/gbvitrano.png
+     url: https://twitter.com/gbvitrano
    aborruso:
-    name: Andrea Borruso
-    description: Autore
-    avatar: https://github.com/aborruso.png
+     name: Andrea Borruso
+     description: Autore
+     avatar: https://github.com/aborruso.png
+     url: https://twitter.com/aborruso
    pigreco:
-    name: Totò Fiandaca
-    description: Autore
-    avatar: https://github.com/pigreco.png
+     name: Totò Fiandaca
+     description: Autore
+     avatar: https://github.com/pigreco.png
+     url: https://twitter.com/totofiandaca
