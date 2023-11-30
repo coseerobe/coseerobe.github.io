@@ -257,7 +257,7 @@ nav:
   #  - blog/index.md    
   - Home: 
     - blog/index.md
-  - Mappe: blog/category/mappe/
+  - Mappe: blog/category/mappe/  
   - News: blog/category/news/
   - Tutorial: blog/category/tutorial/  
   - Opendata: blog/category/opendata/
