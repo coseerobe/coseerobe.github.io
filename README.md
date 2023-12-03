@@ -20,6 +20,7 @@ Tutti i contenuti sono esclusivamente **test personali finalizzati ad IMPARARE e
  <img src="https://img.shields.io/static/v1?label=Template%20di%20MkDocs&message=Material for MkDocs&color=ff0000&logo=Markdown&logoColor=ff0000&style=for-the-badge" title="[Material for MkDocs"> 
 </a>
 
+[![Built with Material for MkDocs](https://img.shields.io/badge/Material_for_MkDocs-526CFE?style=for-the-badge&logo=MaterialForMkDocs&logoColor=white)](https://squidfunk.github.io/mkdocs-material/)
 
 ## Contributors ✨
 
