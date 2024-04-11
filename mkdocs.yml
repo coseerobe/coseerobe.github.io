@@ -133,16 +133,17 @@ extra:
     - icon: fontawesome/brands/creative-commons
       link: https://creativecommons.org/licenses/by-sa/4.0/deed.it
       name: Attribuzione - Condividi allo stesso modo 4.0 Internazionale (CC BY-SA 4.0)     
+    - icon: material/cookie
+      link: https://coseerobe.it/privacy/
+      name: privacy & cookies 
+         
  #   - icon: fontawesome/brands/creative-commons-by
  #     link: https://creativecommons.org/licenses/by-sa/4.0/deed.it
  #     name: Attribuzione - Condividi allo stesso modo 4.0 Internazionale (CC BY-SA 4.0)   
  #   - icon: fontawesome/brands/creative-commons-sa
  #     link: https://creativecommons.org/licenses/by-sa/4.0/deed.it
  #     name: Attribuzione - Condividi allo stesso modo 4.0 Internazionale (CC BY-SA 4.0)    
-     - icon: material/cookie
-       link: https://coseerobe.it/privacy/
-       name: privacy & cookies 
-         
+
 plugins:
 - search:
       lang: it
