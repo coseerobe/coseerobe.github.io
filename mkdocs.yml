@@ -178,7 +178,6 @@ plugins:
     categories_slugify: !!python/object/apply:pymdownx.slugs.slugify
       kwds:
         case: lower
-   
 - rss:
     match_path: blog/posts/.*
     use_git: false
