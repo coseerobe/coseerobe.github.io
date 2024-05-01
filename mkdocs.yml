@@ -130,7 +130,7 @@ extra:
       link: https://www.facebook.com/gbvitrano
       name: Facebook      
     - icon: fontawesome/solid/rss
-      link:https://coseerobe.it/feed_rss_created.xml
+      link: https://coseerobe.it/feed_rss_created.xml
       name: Feed RSS
     - icon: fontawesome/brands/creative-commons
       link: https://creativecommons.org/licenses/by-sa/4.0/deed.it
