@@ -5,6 +5,8 @@ site_author: gbvitrano
 site_description: >-
     Quando i dati sono disponibili (open, machine readable e con la licenza giusta) ciascuno di noi può dare libero sfogo alle proprie competenze e alla propria fantasia per far parlare quei dati al meglio, scegliendo o creando la rappresentazione che ritiene più efficace per evidenziare quelli che si ritengono gli aspetti salienti. (cit. Nino Galante)
 
+# site locale
+# use_directory_urls: false
 
 ## Repository
 # repo_name: coseerobe.github.io
@@ -128,7 +130,7 @@ extra:
       link: https://www.facebook.com/gbvitrano
       name: Facebook      
     - icon: fontawesome/solid/rss
-      link: https://arigadicomando.it/feed_rss_created.xml
+      link:https://coseerobe.it/feed_rss_created.xml
       name: Feed RSS
     - icon: fontawesome/brands/creative-commons
       link: https://creativecommons.org/licenses/by-sa/4.0/deed.it
@@ -154,7 +156,7 @@ plugins:
 #- charts
 - tags:
     tags_file: tags.md
-        
+      
 - blog:
     blog_dir: blog
     post_dir: blog/posts
