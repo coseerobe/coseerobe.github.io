@@ -6,7 +6,7 @@ site_description: >-
     Quando i dati sono disponibili (open, machine readable e con la licenza giusta) ciascuno di noi può dare libero sfogo alle proprie competenze e alla propria fantasia per far parlare quei dati al meglio, scegliendo o creando la rappresentazione che ritiene più efficace per evidenziare quelli che si ritengono gli aspetti salienti. (cit. Nino Galante)
 
 # site locale
-use_directory_urls: false
+# use_directory_urls: false
 
 ## Repository
 # repo_name: coseerobe.github.io
