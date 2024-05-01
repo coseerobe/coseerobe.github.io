@@ -5,6 +5,7 @@ on:
       - main
     paths:
       - docs/**
+  # aggiunge pulsantee deploy manuale    
   workflow_dispatch:
       
 permissions:
