@@ -3,7 +3,6 @@ on:
   push:
     branches: 
       - main
-      - master
     paths:
       - docs/**
 permissions:
@@ -29,7 +28,7 @@ jobs:
           restore-keys: |
             mkdocs-material-
       - run: pip install markdown>=3.2
-      - run: pip install mkdocs>=1.2.3
+      - run: pip install mkdocs>=1.2.3      
       - run: pip install mkdocs-material
       - run: pip install mkdocs-material-extensions>=1.0
       - run: pip install mkdocs-macros-plugin
