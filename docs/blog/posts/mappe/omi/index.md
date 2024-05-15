@@ -9,7 +9,7 @@ categories:
   - Mappe
 tags:
   - Agenzia delle Entrate
-  - Compra/Vendit
+  - Compra/Vendita
   - Affitti
   - Palermo
 social_image: assets/img/social/Zone_OMI.png
