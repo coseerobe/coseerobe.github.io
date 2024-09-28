@@ -19,7 +19,7 @@ social_image: assets/img/social/Zone_OMI.png
 .md-typeset pre>code { background-color: #fff0;}  
 </style>
 
-[![Osservatorio del Mercato Immobiliare](Fasce_OMI.png "Fasce | Osservatorio del Mercato Immobiliare"){class="crop gray" align=right}](index.md)
+[![Osservatorio del Mercato Immobiliare](Fasce_OMI.png "Fasce | Osservatorio del Mercato Immobiliare"){class="crop gray" align=left}](index.md)
 
 L'**[Osservatorio del Mercato Immobiliare (OMI)](https://www.agenziaentrate.gov.it/portale/web/guest/schede/fabbricatiterreni/omi/banche-dati/quotazioni-immobiliari "Osservatorio del Mercato Immobiliare (OMI)")** è un servizio gestito dall'**[Agenzia delle Entrate"](https://www.agenziaentrate.gov.it/portale/  "Agenzia delle Entrate)** in Italia che si occupa della rilevazione e dell'elaborazione di informazioni tecniche ed economiche relative ai valori immobiliari. Questo strumento fornisce una banca dati che consente di consultare le quotazioni dei valori degli immobili e delle locazioni su tutto il territorio italiano. L'OMI è stato creato per garantire maggiore trasparenza ai contribuenti e per condurre studi approfonditi sul mercato immobiliare.  <!-- more -->
 
