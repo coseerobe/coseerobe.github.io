@@ -25,9 +25,9 @@ social_image: https://palermohub.opendatasicilia.it/pmtiles/social_card_02.jpg
 
 
 <br><br><br><br><br><br>
-Coming soon....<!-- more --> 
+Co<iframe class="full-space-iframe" width="100%" height="650px" frameborder="0" allowfullscreen  src="https://palermohub.opendatasicilia.it/pmtiles/demo_prg_catasto.html#12.3/38.1219/13.36462/-46.4/60"></iframe>ming soon....<!-- more --> 
 <div class="iframe-container">
-<iframe class="full-space-iframe" width="100%" height="650px" frameborder="0" allowfullscreen  src="https://palermohub.opendatasicilia.it/pmtiles/demo_prg_catasto.html#12.3/38.1219/13.36462/-46.4/60"></iframe>
+
 </div>
 
 <hr>
