@@ -58,6 +58,9 @@ Il codice è stato completamente ristrutturato per garantire:
 <div class="iframe-container">
 <iframe class="full-space-iframe" width="100%" height="650px" frameborder="0" allowfullscreen  src="https://palermohub.opendatasicilia.it/pmtiles/prg_part_catastali_pdf.html#12/38.14074/13.33225"></iframe> 
 </div> <br>
+**[Apri la mappa a schermo intero](https://palermohub.opendatasicilia.it/pmtiles/prg_part_catastali_pdf.html#12/38.14074/13.33225 "Apri la mappa a schermo ")**
+
+
 <hr>
 
 ## Ricerca geografica dellee particelle catastali
