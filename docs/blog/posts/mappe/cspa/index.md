@@ -113,7 +113,7 @@ La web app non è solo uno strumento di visualizzazione dati, ma rappresenta un 
 
 Il progetto dimostra che quando dati di qualità, metodologie open source e tecnologie avanzate si incontrano, il risultato può trasformare radicalmente il modo in cui comprendiamo e gestiamo le nostre città.
 
-<p style="text-align: center;"><span style="color: #ff0000; font-size: 20px;"><strong><a title="Podcast, audio elaborato da Notebooklm" href="https://notebooklm.google.com/notebook/74230700-ca60-4341-933d-06e04d544560?artifactId=dc88f0f4-14a8-4584-be9a-2a3a38277b68" target="_blank" rel="noopener">Podcast</a> elaborato da Notebooklm</strong></span></p>
+<p style="text-align: center;"><span style="color: #ff0000; font-size: 20px;"><strong><a title="Podcast, elaborato con Notebooklm" href="https://notebooklm.google.com/notebook/74230700-ca60-4341-933d-06e04d544560?artifactId=dc88f0f4-14a8-4584-be9a-2a3a38277b68" target="_blank" rel="noopener">Podcast</a> elaborato con Notebooklm</strong></span></p>
 
 ---
 
