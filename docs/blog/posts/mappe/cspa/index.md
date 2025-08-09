@@ -113,6 +113,8 @@ La web app non è solo uno strumento di visualizzazione dati, ma rappresenta un 
 
 Il progetto dimostra che quando dati di qualità, metodologie open source e tecnologie avanzate si incontrano, il risultato può trasformare radicalmente il modo in cui comprendiamo e gestiamo le nostre città.
 
+<p style="text-align: center;"><span style="color: #ff0000; font-size: 20px;"><strong>Descrizione <a style="color: #ff0000;" title="Descrizione audio elaborata da NotebookLM" href="https://notebooklm.google.com/notebook/74230700-ca60-4341-933d-06e04d544560?artifactId=dc88f0f4-14a8-4584-be9a-2a3a38277b68" target="_blank" rel="noopener">audio</a> elaborata da Notebooklm</strong></span></p>
+
 ---
 
 *Questo progetto rappresenta un esempio eccellente di come la tecnologia possa essere messa al servizio della comprensione territoriale, creando ponti tra mondo accademico, istituzioni e cittadinanza.*
