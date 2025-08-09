@@ -60,7 +60,15 @@ Questo progetto rappresenta un eccellente esempio di come i civic hacker e i cit
 
 La combinazione di PMTiles con MapLibre GL JS e le funzionalità 3D rappresenta lo stato dell'arte nella visualizzazione web di dati geospaziali, offrendo un'esperienza utente ricca e performante senza richiedere plugin o software aggiuntivi.
 
+## Riferimenti
+[MapLibre](https://maplibre.org/)<br>
+[MapLibre GL JS](https://maplibre.org/maplibre-gl-js/docs/guides/leaflet-migration-guide/)<br>
+[leafmap](https://leafmap.org/)<br>
+[bert](https://bertt.wordpress.com/)<br>
+
+
 ---
+<br>
 
 <div style="position: relative; width: 100%; height: 600px; border: 1px solid #ccc; border-radius: 8px; overflow: hidden;">
     <iframe 
@@ -92,6 +100,8 @@ La combinazione di PMTiles con MapLibre GL JS e le funzionalità 3D rappresenta 
        onmouseout="this.style.background='rgba(0,0,0,0.8)'">
         🔗 Apri a schermo intero
     </a>
+</div>
 
-<hr>
+--- 
+
 **Disclaimer:** Le informazioni visibili e condivise non comportano la visualizzazione di dati sensibili. Data la natura esclusivamente informativa degli elaborati grafici e dei testi riportati, questi non costituiscono atti ufficiali. Per accedere agli atti ufficiali si rinvia agli elaborati definitivi allegati alle specifiche deliberazioni.
