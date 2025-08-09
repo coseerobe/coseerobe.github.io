@@ -1,6 +1,6 @@
 ---
-title: DEMO - Variante Generale e Particelle catastali - pmtiles
-description: DEMO - Variante Generale e Particelle catastali - pmtiles  - Rielaborazione dati OpenDataSicilia
+title: Variante Generale e Particelle catastali - pmtiles
+description: Variante Generale e Particelle catastali - pmtiles  - Rielaborazione dati OpenDataSicilia
 draft: false
 date: 2025-01-02T12:00:00
 authors:
@@ -13,7 +13,7 @@ tags:
   - Palermo
   - Amap
   - Distreii
-social_image: https://palermohub.opendatasicilia.it/pmtiles/social_card_04.jpg
+social_image: https://palermohub.opendatasicilia.it/pmtiles/social_card_05.jpg
 ---
 <style>
 .md-typeset code { background-color: #fff0;}  
@@ -21,92 +21,104 @@ social_image: https://palermohub.opendatasicilia.it/pmtiles/social_card_04.jpg
 .iframe-container {width: 100%;  height:auto;}
 .full-space-iframe { width: 100%;  height: 650px;  border: none;   display: block;}
 </style>
-[![Distretti ](https://palermohub.opendatasicilia.it/pmtiles/social_card_04.jpg "DEMO - Variante Generale e Particelle catastali - pmtiles  - Rielaborazione dati OpenDataSicilia" ){class="crop gray off" align=right}](index.md)
+[![Distretti ](https://palermohub.opendatasicilia.it/pmtiles/social_card_05.jpg "DEMO - Variante Generale e Particelle catastali - pmtiles  - Rielaborazione dati OpenDataSicilia" ){class="crop gray off" align=right}](index.md)
+
+# La Rivoluzione digitale dei dati Urbanistici e Catastali
+**Scopri il nuovo strumento interattivo per esplorare il territorio di Palermo con dati aggiornati e funzionalità avanzate**
+
+ZTO e Particelle catastali è una web application innovativa sviluppata da OpenDataSicilia che rappresenta una vera rivoluzione nell'accesso ai dati territoriali del capoluogo siciliano. <!-- more --> Si tratta di mappa interattiva che integra informazioni urbanistiche e catastali in un'unica piattaforma digitale, offrendo agli utenti - professionisti, pubbliche amministrazioni e cittadini - uno strumento potente e gratuito per esplorare il territorio palermitano. 
+
+<!-- Iframe per incorporare Palermo Hub -->
+<div style="width: 100%; max-width: 1200px; margin: 0 auto; border: 2px solid #e1e5e9; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+  <div style="background-color: #f8f9fa; padding: 10px 15px; border-bottom: 1px solid #e1e5e9; font-family: Arial, sans-serif; font-size: 14px; color: #495057;">
+    <strong>📍 Palermo Hub</strong> - Mappa interattiva dei dati urbanistici e catastali di Palermo
+    <a href="https://palermohub.opendatasicilia.it/pmtiles/prg_part_catastali_pdf.html" 
+       target="_blank" 
+       style="float: right; color: #007bff; text-decoration: none; font-size: 12px;">
+      🔗 Apri in nuova finestra
+    </a>
+  </div>
+  <iframe 
+    src="https://palermohub.opendatasicilia.it/pmtiles/prg_part_catastali_pdf.html" 
+    width="100%" 
+    height="600" 
+    frameborder="0" 
+    scrolling="no"
+    style="display: block; border: none;"
+    title="Palermo Hub - Mappa interattiva dati urbanistici e catastali"
+    loading="lazy">
+    <p>Il tuo browser non supporta gli iframe. 
+       <a href="https://palermohub.opendatasicilia.it/pmtiles/prg_part_catastali_pdf.html" target="_blank">
+         Clicca qui per accedere direttamente alla mappa
+       </a>
+    </p>
+  </iframe>
+</div>
 
 
-<br><br><br><br><br><br>
-Coming soon....<!-- more --> 
+## Tecnologia PMTiles: Efficienza e Performance
 
-# Demo 1
+Il cuore tecnologico dell'applicazione si basa sul formato **PMTiles**, una tecnologia all'avanguardia per la gestione dei dati geospaziali. A differenza dei formati tradizionali che richiedono molteplici file separati, PMTiles utilizza un approccio monolitico che racchiude tutti i dati in un unico file, garantendo:
 
-<div class="iframe-container">
-<iframe class="full-space-iframe" width="100%" height="650px" frameborder="0" allowfullscreen  src="https://palermohub.opendatasicilia.it/pmtiles/demo_prg_catasto.html#12.3/38.1219/13.36462/-46.4/60"></iframe>
-</div>  <br>
-<hr>
- <br>
-# Nuova mappa con particelle catastali e strumenti urbanistici vigenti di Palermo
+- **Accesso rapido e selettivo** attraverso la suddivisione in tessere (tiles)
+- **Facilità di distribuzione** su server web e CDN
+- **Ottimizzazione delle performance** caricando solo le porzioni necessarie per l'area visualizzata
+- **Gestione efficiente delle risorse** del dispositivo utilizzato
 
-La nuova versione è completamente riprogettata e ottimizzata, grazie all'aiuto di [@deepseek_ai](https://x.com/deepseek_ai), per offrire una migliore esperienza utente.
+## Funzionalità Principali
 
-## Principali miglioramenti
+### 1. Ricerca Intelligente
+L'applicazione integra un modulo di ricerca avanzato che permette di individuare rapidamente fogli e particelle catastali specifiche. Il sistema richiede che la particella cercata rientri nell'area visualizzata sullo schermo per poter accedere ai dati.
 
-### Gestione avanzata dei tooltip
-La novità più significativa riguarda la gestione dei tooltip. Nella versione precedente, in presenza di elementi sovrapposti nei livelli PMTiles, i tooltip si sovrapponevano creando confusione. Ora, lo script genera automaticamente un tooltip unificato che integra in modo ordinato le informazioni di tutti gli elementi presenti in un punto specifico.
-Inoltre, è stato integrato un pratico modulo di ricerca che permette di individuare rapidamente fogli e particelle specifiche.
-Infine è stata implementata una finestra dinamica che visualizza una mappa satellitare, la quale si sincronizza automaticamente con la mappa principale. Questa funzionalità inquadra il centro dell'area visualizzata sul monitor e può essere attivata mediante un pulsante posizionato nell'angolo inferiore sinistro dell'interfaccia.
+### 2. Tooltip Unificati
+Una delle innovazioni più significative riguarda la gestione dei tooltip. Il nuovo sistema genera automaticamente tooltip unificati che integrano in modo ordinato tutte le informazioni degli elementi presenti in un punto specifico, eliminando la confusione precedentemente causata dalla sovrapposizione di più tooltip.
 
-### Aspetti tecnici
+### 3. Vista Satellitare Sincronizzata
+È stata implementata una finestra dinamica con mappa satellitare che si sincronizza automaticamente con la mappa principale, attivabile tramite un pulsante nell'angolo inferiore sinistro dell'interfaccia.
 
-Il codice è stato completamente ristrutturato per garantire:
+### 4. Generazione PDF Automatica
+Una volta individuata la particella catastale desiderata, il sistema può generare automaticamente un documento PDF contenente:
+- Mappa dettagliata con la particella evidenziata
+- Informazioni catastali complete
+- Dati urbanistici correlati
+- Zonizzazione dell'area secondo il P.R.G.
+- Vincoli esistenti
 
--    Maggiore stabilità e riduzione dei bug
--    Performance ottimizzate
--    Migliore gestione della visualizzazione dei dati
--    Modulo di ricerca per Foglio e particella catastale
--    Finestra dinamica per visualizzare la mappa satellitare
+*Nota: La generazione PDF non è disponibile su dispositivi mobili in orientamento verticale.*
 
-<div class="iframe-container">
-<iframe class="full-space-iframe" width="100%" height="650px" frameborder="0" allowfullscreen  src="https://palermohub.opendatasicilia.it/pmtiles/prg_part_catastali_pdf.html#12/38.14074/13.33225"></iframe> 
-</div> <br>
-**[Apri la mappa a schermo intero](https://palermohub.opendatasicilia.it/pmtiles/prg_part_catastali_pdf.html#12/38.14074/13.33225 "Apri la mappa a schermo ")**
+## Dati e Fonti
 
+L'applicazione utilizza dati provenienti da fonti ufficiali e aggiornate:
 
-<hr>
+- **Dati catastali**: S.I.T.R. Sicilia (aggiornati a gennaio 2025)
+- **Zonizzazione urbanistica**: Comune di Palermo (Variante Generale al P.R.G. - 2003/2004)
+- **Piano Particolareggiato Esecutivo** del centro storico (1993)
+- **Licenza**: CC-BY 4.0 per tutti i dataset utilizzati
 
-## Ricerca geografica dellee particelle catastali
+## Novità Legislative 2025
 
-Il layer **Particelle Catastali** viene esposto in formato PMTiles.
+L'applicazione si inserisce nel contesto della recente riforma che, dal 1° gennaio 2025, ha reso gratuito l'accesso telematico alle banche dati ipotecarie e catastali, rappresentando una semplificazione importante per tutti gli operatori del settore.
 
-Il PMTiles è un formato di file progettato per archiviare e servire dati geospaziali, come mappe vettoriali o raster, in modo efficiente. È un formato basato su tessere (tiles), che permette di suddividere i dati in piccole porzioni (tiles) per un accesso rapido e selettivo.
-La particolarità di PMTiles è che è un formato monolitico, cioè tutti i dati sono contenuti in un unico file, a differenza di altri formati che richiedono molteplici file separati. Questo lo rende più semplice da gestire e distribuire, ad esempio su un server web o su un CDN (Content Delivery Network).
+## Impatto e Utilità
 
-### Cerca una Particella
-Viste le caratteristiche del PMTiles, Durante la ricerca con PMTiles, è necessario che la particella da visualizzare sia compresa nell'area mostrata sullo schermo del proprio dispositivo (PC desktop o mobile). In caso contrario, poiché il dato non sarà stato caricato, verrà mostrato un messaggio di errore.
+Palermo Hub democratizza l'accesso all'informazione territoriale, offrendo:
+- **Trasparenza** nell'accesso ai dati pubblici
+- **Efficienza** per professionisti del settore
+- **Facilità di consultazione** per i cittadini
+- **Strumento di supporto** per le decisioni amministrative
 
-### Ricerca con PMTiles
-Dato che il formato **PMTiles** è progettato per caricare solo le **porzioni di dati** (tiles) necessarie per visualizzare l'area attualmente visibile sullo schermo (monitor del PC o display del dispositivo), è fondamentale assicurarsi che la particella o l'oggetto geospaziale richiesto rientri nell'area visualizzata.
+L'applicazione rappresenta un esempio virtuoso di come l'open data possa trasformarsi in servizi concreti per la comunità, facilitando la comprensione del territorio e supportando processi decisionali informati.
 
-### Come funziona il processo:
-1.    Visualizzazione dell'area: Quando apri una mappa, il software (ad esempio, un'applicazione web basata su MapLibre o Leaflet) carica solo le tiles corrispondenti all'area visibile sullo schermo. Questo riduce il tempo di caricamento e il consumo di risorse.
-2.    Ricerca di una particella: Se cerchi una particella o un oggetto specifico, il sistema verifica se i dati relativi a quell'oggetto sono già stati caricati (cioè, se rientrano nelle tiles visualizzate).
-3.    Messaggio di errore: Se la particella richiesta non rientra nell'area visualizzata, il sistema non avrà caricato i dati necessari per rispondere alla richiesta. In questo caso, verrà restituito un messaggio di errore, ad esempio:
-"Dato non disponibile: la particella richiesta non è visibile nell'area corrente."
+## Sviluppo e Riconoscimenti
 
-### Come evitare l'errore:
--    Zoom o spostamento: Assicurati di zoommare o spostare la mappa in modo che l'area contenente la particella richiesta sia visibile sullo schermo.
--     Ricerca geografica: Se l'applicazione lo supporta, utilizza una funzione di ricerca geografica che carica automaticamente l'area corretta quando cerchi una particella
+Il progetto è stato completamente riprogettato e ottimizzato grazie alla collaborazione con DeepSeek AI, mentre un ringraziamento speciale va ad [@aborruso](https://x.com/aborruso) e [@totofiandaca](https://x.com/totofiandaca), per il loro contributo formativo e la condivisione di conoscenze nel campo della cartografia digitale.
 
-In sintesi, il formato PMTiles è ottimizzato per l'efficienza, ma richiede che l'area di interesse sia visibile per accedere ai dati corretti. Se non lo è, il sistema non può recuperare le informazioni necessarie, generando un messaggio di errore.
+---
 
+*Palermo Hub dimostra come l'innovazione tecnologica, unita all'impegno per l'open data, possa creare strumenti concreti al servizio del territorio e della comunità.*
 
-## Stampa pdf
+---
 
-Una volta effettuata la ricerca della particella catastale tramite il pulsante 'Cerca', comparirà una nuova icona sottostante.
-
-Cliccando su questa icona, il sistema genererà automaticamente un documento PDF che include una mappa dettagliata con la particella evidenziata.
-
-Il documento contiene inoltre tutte le informazioni catastali della particella selezionata e i relativi dati urbanistici, compresi la zonizzazione dell'area e gli eventuali vincoli esistenti.
-
-**N.B. Non è possibile generare file pdf quando si usa un device mobile orientato in verticale (Portait)**
-
-Per generare PDF con le informazioni richieste, ruotare il dispositivo in orientamento orizzontale (modalità landscape).
-
-<br>
-<hr>
-
-### Ringraziamenti
-Un sentito ringraziamento va a [@aborruso](https://x.com/aborruso) e [@totofiandaca](https://x.com/totofiandaca), i cui insegnamenti e la costante condivisione di conoscenze hanno contribuito in modo determinante alla realizzazione di questo progetto. Il loro supporto mi permette di implementare e migliorarmi nel campo della cartografia digitale.
-<hr>
  **Disclaimer:** I contenuti presenti in questa sezione, compresi testi ed elementi grafici, hanno carattere puramente informativo e divulgativo.
 Non sono presenti dati personali o sensibili. Si precisa che questi materiali non costituiscono documenti ufficiali né hanno alcun valore legale.
 Per consultare la documentazione ufficiale e legalmente vincolante, si prega di fare riferimento agli atti definitivi allegati alle relative deliberazioni degli organi competenti.

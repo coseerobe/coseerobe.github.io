@@ -116,3 +116,9 @@ Il progetto dimostra che quando dati di qualità, metodologie open source e tecn
 ---
 
 *Questo progetto rappresenta un esempio eccellente di come la tecnologia possa essere messa al servizio della comprensione territoriale, creando ponti tra mondo accademico, istituzioni e cittadinanza.*
+
+---
+
+**Disclaimer:** I contenuti presenti in questa sezione, compresi testi ed elementi grafici, hanno carattere puramente informativo e divulgativo.
+Non sono presenti dati personali o sensibili. Si precisa che questi materiali non costituiscono documenti ufficiali né hanno alcun valore legale.
+Per consultare la documentazione ufficiale e legalmente vincolante, si prega di fare riferimento agli atti definitivi allegati alle relative deliberazioni degli organi competenti.
