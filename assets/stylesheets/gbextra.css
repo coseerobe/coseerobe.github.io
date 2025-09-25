@@ -110,7 +110,8 @@ img.resized33 { width: 32%; height: auto; margin:1px; }
 img.resized35 { width: 33%; height: auto; margin:1px; }
 img.resized50 { width: 48%; height: auto; margin:1px; }
 img.resized75 { width: 75%; height: auto; margin:1px; }	
-img.resized50c { width: 48%; height: auto; margin:0px auto; text-align: center; display: block; }	
+img.resized50c { width: 48%; height: auto; margin:0px auto; text-align: center; display: block; }
+img.centro 	{ margin:0px auto; text-align: center; display: block; }
 
  @media screen and (max-width: 640px) { img.resized25 { width: 48%; height: auto; margin:1px; }} */
 /*
