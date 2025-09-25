@@ -13,7 +13,7 @@ tags:
   - Palermo
   - Amap
   - Distreii
-social_image: https://palermohub.opendatasicilia.it/pmtiles/social_card_05.jpg
+social_image: https://palermohub.opendatasicilia.it/pmtiles/catasto.jpg
 ---
 <style>
 .md-typeset code { background-color: #fff0;}  
@@ -21,7 +21,7 @@ social_image: https://palermohub.opendatasicilia.it/pmtiles/social_card_05.jpg
 .iframe-container {width: 100%;  height:auto;}
 .full-space-iframe { width: 100%;  height: 650px;  border: none;   display: block;}
 </style>
-[![Distretti ](https://palermohub.opendatasicilia.it/pmtiles/social_card_05.jpg "DEMO - Variante Generale e Particelle catastali - pmtiles  - Rielaborazione dati OpenDataSicilia" ){class="crop gray off" align=right}](index.md)
+[![Distretti ](https://palermohub.opendatasicilia.it/pmtiles/catasto.jpg "DEMO - Variante Generale e Particelle catastali - pmtiles  - Rielaborazione dati OpenDataSicilia" ){class="crop gray off" align=right}](index.md)
 
 # La Rivoluzione digitale dei dati Urbanistici e Catastali
 **Scopri il nuovo strumento interattivo per esplorare il territorio di Palermo con dati aggiornati e funzionalità avanzate**
@@ -32,14 +32,14 @@ ZTO e Particelle catastali è una web application innovativa sviluppata da OpenD
 <div style="width: 100%; max-width: 1200px; margin: 0 auto; border: 2px solid #e1e5e9; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
   <div style="background-color: #f8f9fa; padding: 10px 15px; border-bottom: 1px solid #e1e5e9; font-family: Arial, sans-serif; font-size: 14px; color: #495057;">
     <strong>📍 Palermo Hub</strong> - Mappa interattiva dei dati urbanistici e catastali di Palermo
-    <a href="https://palermohub.opendatasicilia.it/pmtiles/prg_part_catastali_pdf.html" 
+    <a href="https://palermohub.opendatasicilia.it/prg_part_catastali.html" 
        target="_blank" 
        style="float: right; color: #007bff; text-decoration: none; font-size: 12px;">
       🔗 Apri in nuova finestra
     </a>
   </div>
   <iframe 
-    src="https://palermohub.opendatasicilia.it/pmtiles/prg_part_catastali_pdf.html" 
+    src="https://palermohub.opendatasicilia.it/pmtiles/catasto-app.html" 
     width="100%" 
     height="600" 
     frameborder="0" 
