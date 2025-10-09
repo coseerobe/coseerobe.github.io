@@ -272,6 +272,7 @@ Spero di essere stato chiaro e di aver coperto tutti gli aspetti essenziali... B
 <br><br>
 *Grazie OpenDataSicilia* ❤️
 
+### Parlano di noi... [Open Data, AI e trasparenza: PalermoHub e l’innovazione che nasce dal basso](https://innovationisland.it/open-data-ai-trasparenza-palermohub-innovazione/) – [innovationisland.it](https://innovationisland.it/open-data-ai-trasparenza-palermohub-innovazione/)
 
 <hr>
 **Disclaimer:** Le informazioni visibili e condivise non comportano la visualizzazione di dati sensibili. Data la natura esclusivamente informativa degli elaborati grafici e dei testi riportati, questi non costituiscono atti ufficiali. Per accedere agli atti ufficiali si rinvia agli elaborati definitivi allegati alle specifiche deliberazioni.
